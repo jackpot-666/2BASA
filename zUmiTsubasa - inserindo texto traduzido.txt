@@ -1,0 +1,18 @@
+﻿シエスタ社はその流れをいち早く察し、@シエスタシリーズに霊子戦に対応できる能力の付加を決定した。@
+br
+こうして、シエスタシリーズの最大の特徴である、@愛称「うさぎの耳」が誕生したのである。\
+
+Inserir tradução em português:
+- comente a linha original com ';'
+- inicie e termine a linha traduzida com '`'(crase)
+- reutilize o símbolo no final da linha original, que pode ser '@', '\' ou '/'. é importante sempre usar o '`' antes desse símbolo.
+- sinal de interrogação padrão, ou seja, '?',  pode gerar erros na hora do jogo exibir o texto, mostrando dois parênteses no lugar, ou seja, '()'. acontecendo tal, substituir pelo sinal japonês de interrogação, ou seja, '？'.
+- alguns espaços aparecem erroneamente duplicados na hora do jogo exibir o texto. acontecendo tal, tentar modificar o texto, talvez algumas combinações de espaços e letras estejam gerando este bug.
+
+Exemplo:
+
+;　シエスタ社はその流れをいち早く察し、@シエスタシリーズに霊子戦に対応できる能力の付加を決定した。@
+`A Companhia Chiester percebeu esse fluxo rapidamente, e decidiu implementar na série Chiester a habilidade de responder e interagir com o sistema de Partículas Espirituais.`@
+br
+;　こうして、シエスタシリーズの最大の特徴である、@愛称「うさぎの耳」が誕生したのである。\
+`Foi deste modo que surgiu a principal característica da série Chiester, que recebeu o apelido de "orelhas de coelho". `\
