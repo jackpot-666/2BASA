@@ -1,0 +1,17 @@
+1) CAIXA DE TEXTO
+
+Foram disponibilizadas algumas variantes de caixas de texto, verifique os seguintes arquivos, presentes nesta pasta:
+textbox1.zip (o padrão),
+textbox2.zip (fundo com borboletas),
+textbox3.zip (transparente com logo),
+textbox4.zip (transparente sem logo).
+
+Você pode selecionar a caixa de texto desejada executando o arquivo:
+"Personalizar_caixa_de_texto.bat"
+
+Caso este método não funcione, apenas descompacte o conteúdo integral do arquivo para esta mesma pasta.
+
+2) EXTRAS
+
+Na tela inicial do jogo há um menu de EXTRAS, onde você pode visualizar informações,
+como glossário, controles do jogo e websites relacionados.
