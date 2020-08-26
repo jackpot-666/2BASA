@@ -11951,7 +11951,7 @@ ld l,GEO_DefA1,22
 ;　これはまさに、その勉強の成果を両親に教えるものだった。\
 `Certamente, isto era resultado do que ele aprendera com seus pais. `\
 
-mld l,GEO_WaraiA2,80
+ld l,GEO_WaraiA2,80
 
 ;「ご、誤解しないでほしいのは、値段じゃないってことだよ。@僕のプレゼントにも真里亞ちゃんのプレゼントにも、どちらにも勝るとも劣らないものが宿ってると思うよ。@大切なのは気持ちなんだからね。」\
 `"O-O que eu quero que vocｹs nﾃo entendam mal ｪ que nﾃo ｪ o preﾆo que conta.`@` Entre meu presente e o de Maria-chan, eu nﾃo acredito que um seja inferior ao outro.`@` O que importa sﾃo os sentimentos colocados neles." `\
