@@ -16364,7 +16364,7 @@ bg M_o1a,26
 ;　見事な薔薇庭園の向こうに、堂々とした屋敷を構えた貫禄は、初めて訪れた自分を大いに驚かせたことをよく覚えている。\
 `Eu lembro com frequｹncia do quanto a presenﾆa da imponente mansﾃo, do outro lado do belo jardim de rosas, me surpreendeu quando cheguei aqui. `\
 ;　自分の、料理人としての人生が、@まるで漫画かおとぎ話の中に出てくるような、大富豪に専属料理人として召し上げられることにつながるなんて、@夢にも思わなかった…。\
-`Nem em meus sonhos mais loucos,`@` eu imaginaria que acabaria sendo chamado para ser o chef exclusivo de uma mansﾃo de multi-milionｧrios, como em um mangｧ ou um conto de fadas.... `\
+`Nem em meus sonhos mais loucos,`@` eu imaginaria que acabaria sendo chamado para ser o chef exclusivo de uma mansﾃo de multi-milionｧrios, como em um mangｧ ou um conto de fadas... `\
 bg black,2
 fede 0,3000
 
@@ -16392,7 +16392,7 @@ bg black,22
 `Para um cozinheiro, com habilidades e orgulho acima dos outros, a ｸnica pessoa que ele ｪ capaz de respeitar ｪ outro cozinheiro que supere suas prｫprias habilidades.`@` ｴ por isso que, desde que o chef principal mantivesse sua autoridade, nﾃo importa o quﾃo inflexｨvel ele fosse, ou o quﾃo impertinentes e jovens nｫs fﾛssemos, todos fazｨamos nosso trabalho como uma unidade. `@
 br
 ;　だから、その総料理長が突然引退すれば、これは必然の結果だったのかもしれない。\
-`Por isso, talvez essa tenha sido a consequｹncia inevitｧvel quando o chef principal decidiu se aposentar de repente.`\
+`Por isso, talvez essa tenha sido uma consequｹncia inevitｧvel quando o chef principal decidiu se aposentar de repente.`\
 
 bg different_spiral_1a,22
 ;　そこでいくつかの派閥に分かれた。@
@@ -16405,7 +16405,7 @@ bg different_spiral_1b,22
 ;　しかし、アクが強い人物であったことも事実で、@特にホテル側とうまくやれていたとは言い難い。\
 `No entanto, essa pessoa tinha uma vontade forte.`@` Era difｨcil dizer que ele se dava bem com o hotel em geral. `\
 ;　ホテル側にとって必要なのは、然るべき納期で然るべき予算で、充分な結果を出せる料理人であり、充分な結果のために、納期や予算で対立する料理人ではない。@……その、料理人としての優先順位の違いが、トラブルとなった。\
-`O hotel necessitava de um chef capaz de mostrar resultados satisfatｫrios dentro de um orﾆamento e prazo especｨfico, nﾃo de um chef em desacordo contra com os prazos e orﾆamentos a fim de exibir resultados satisfatｫrios.`@` ......Essa discrepｯncia de prioridades com os cozinheiros virou um problema.
+`O hotel necessitava de um chef capaz de mostrar resultados satisfatｫrios dentro de um orﾆamento e prazo especｨfico, nﾃo de um chef em desacordo com prazos e orﾆamentos a fim de exibir resultados satisfatｫrios.`@` ......Essa discrepｯncia de prioridades com os cozinheiros virou um problema.
  `\
 bg black,22
 bg BUI_o1a,22
@@ -16440,7 +16440,7 @@ bg res_i4a,0
 ld c,GOH_hohoemiA2,2
 
 ;　俺は当時、腕もプライドも誰にも負けない、若手の筆頭格だった。@……今にして思えば、料理人であると同時に、ホテルの従業員でもあるという自覚には、欠けていたかもしれない。\
-`Nessa ｪpoca, eu era o mais jovem, mas nﾃo perdia para qualquer um em termos de habilidade ou orgulho.`@` ......Pensando nisso agora, talvez me faltasse um pouco de auto-consciｹncia. Ao mesmo tempo que eu era um cozinheiro, eu tambｪm era empregado do hotel. `\
+`Nessa ｪpoca, eu era o mais jovem, mas nﾃo perdia para ninguｪm em termos de habilidade ou orgulho.`@` ......Pensando nisso agora, talvez me faltasse um pouco de auto-consciｹncia. Ao mesmo tempo que eu era um cozinheiro, eu tambｪm era empregado do hotel. `\
 ;　補佐は元々、その乱暴なやり方に、初めから乗り気ではなかったらしい。@もっともそれは後になってわかることだが。@当時の若手の俺たちは、いよいよ補佐も反旗を翻し、あのクソムカつく二代目に一泡吹かせてやれると意気込んだものだ。\
 `Desde o inｨcio, os assistentes nﾃo pareciam interessados nesses mｪtodos imprudentes.`@` Eu sｫ notaria isso mais tarde.`@` Afinal, sendo jovens na ｪpoca, estｧvamos entusiasmados por finalmente nos revoltarmos, com os assistentes tambｪm, e darmos um grande susto no irritante novo chef. `\
 bg black,22
@@ -16455,7 +16455,7 @@ bg cit_1a,6
 `Nﾃo tentaram me dissuadir.`@` .........Em outras palavras, isso significava que o hotel tinha uma boa oportunidade de me despedir. `\
 bg black,22
 ;　当時の俺たち若手衆は、補佐とクーデターに参加しなかった仲間を、裏切り者だと罵り、@労働争議のような構えを見せはしたのだが……。\
-`Nｫs, os jovens na ｪpoca, insultamos os colegas que nﾃo participaram do movimento e chamamos os assistentes de traidores, e planejamos uma greve, mas....... `\
+`Nｫs, os jovens na ｪpoca, insultamos os colegas que nﾃo participaram do movimento, chamamos os assistentes de traidores e planejamos uma greve, mas....... `\
 mono 0
 bg Mkit_1a,22
 ;　料理人は料理を作ってこそ料理人だ。@そして、料理を作らなければ、自分もメシが食えない。\
@@ -16497,10 +16497,10 @@ bg BUI_R1d,22
 ;　その後輩が、かつて世話になった恩返しにと、俺にこの話を振ってくれたのだ。\
 `Aquele jｸnior me disse isso para pagar uma dｨvida comigo, por um favor que eu tinha lhe prestado no passado. `\
 ;　何でも、大富豪一家が、専属の料理人を探していて、@かなり腕前に注文をつけてきているという。\
-`Pelo que ouvi, uma famｨlia multimilionｧria estｧ procurando um cozinheiro exclusivo.`@` Eles exigem alguｪm muito habilidoso. `\
+`Pelo que ouvi, uma famｨlia multimilionｧria estｧ procurando um cozinheiro exclusivo.`@` Eles exigiam alguｪm muito habilidoso. `\
 bg res_i1b,22
 ;　しかし、かなりの腕を持つ料理人は、普通、どこかに所属していて、フリーということはありえない。@それに世話になったしがらみもあり、高給を示されたからといって、ほいほいと辞められるわけもない。\
-`No entanto, cozinheiros altamente qualificados normalmente jｧ estﾃo ligados a algum lugar e nﾃo hｧ como eles estarem disponｨveis.`@` Eles tambｪm tｹm laﾆos de gratidﾃo por isso, e nﾃo hｧ como eles se demitirem apenas para receberem um salｧrio maior. `\
+`No entanto, cozinheiros altamente qualificados normalmente jｧ estﾃo ligados a algum lugar e nﾃo hｧ como eles estarem disponｨveis.`@` Eles tambｪm tｹm laﾆos de gratidﾃo por isso, e nﾃo hｧ como se demitirem apenas para receberem um salｧrio maior. `\
 ;　つまり、俺のような人間にはぴったりの求人だったというわけだ。\
 `Em outras palavras, significa que ｪ uma oferta de emprego perfeita para uma pessoa como eu.`\
 bg black,22
@@ -16509,7 +16509,7 @@ bg black,22
 `Trabalhar como cozinheiro exclusivo em uma ilha isolada.......`@` Nﾃo ｪ uma situaﾆﾃo ruim. `@
 br
 ;　それに、もはや選り好みできるほどの経済的余裕はない。@そして、俺の若々しいプライドも満足できるだけの格もある。\
-`Alｪm disso, minha situaﾆﾃo econﾛmica nﾃo me permite mais ser exigente.`@` E hｧ tambｪm o status que pode satisfazer meu orgulho juvenil.`\
+`Alｪm disso, minha situaﾆﾃo econﾛmica nﾃo me permitia mais ser exigente.`@` E havia tambｪm o status que podia satisfazer meu orgulho juvenil.`\
 bg black,2
 bg sky_1a,26
 wait 1000
@@ -16539,7 +16539,7 @@ bg M1F_S1d,26
 ;　俺の他にも、１０人以上の若手料理人が集められていた。@
 `Alｪm de mim, havia mais de 10 cozinheiros reunidos lｧ. `@
 ;　正直なところ、俺が最高齢だったかもしれない。@……本当の意味で若い連中の中にいると、自分のことをまだ若いと思っている自分が、自意識過剰なだけなのではないかと思ってしまう。\
-`Para ser honesto, talvez eu fosse o mais velho entre eles.`@` ......Estar no meio de um grupo de jovens, em seu verdadeiro significado, apesar de eu mesmo ainda me ver como um jovem, me deixava excessivamente autoconsciente. `\
+`Para ser honesto, talvez eu fosse o mais velho entre eles.`@` ......Estar no meio de um grupo de jovens, em seu verdadeiro significado, apesar de eu mesmo ainda me ver como um, me deixava excessivamente autoconsciente. `\
 ;　ただ、若い料理人たちも、良いインスピレーションを持っていた。@さらに経験を積めば、さらに素晴らしい料理人になるだろう。@
 `Mas os jovens cozinheiros tambｪm estavam inspirados.`@` Se tivessem mais experiｹncia, provavelmente se tornariam cozinheiros maravilhosos. `@
 ;　だが、積み重ねという点で、やはり俺にかなりの有利があった。\
@@ -16564,13 +16564,13 @@ ld c,NAT_DefA1,24
 
 ;　だから後に、夏妃奥様の鶴の一声で俺に採用が決まったと知った時、@後光が差して見えたものだ。\
 ; reescrever
-`Eu fui informado mais tarde que madame Natsuhi daria a palavra final sobre quem ficaria com o emprego.`@` Eu pude ver uma aurｪola brilhando sobre ela. `\
+`Mais tarde, fui informado mais tarde que a madame Natsuhi daria a palavra final sobre quem ficaria com o emprego.`@` Eu pude ver uma aurｪola brilhando sobre ela. `\
 bg black,22
 bg white,2
 bg sky_1a,22
 
 ;　こうして俺は、右代宮家に仕える専属料理人に決まった。@
-`E assim, eu me tornei o cozinheiro exclusiva que serviria a famｨlia Ushiromiya. `@
+`E assim, eu me tornei o cozinheiro exclusivo que serviria a famｨlia Ushiromiya. `@
 ;　契約期間中は、関係者以外の人間に一切料理を振舞ってはならないとする契約も、非常にエグゼクティブに感じられ、俺のプライドをこの上なく刺激した。\
 `Durante meu contrato, eu absolutamente nﾃo deveria fazer comida para ninguｪm alｪm das pessoas ligadas a famｨlia, e o sentimento extremamente executivo estimulou meu orgulho acima de tudo. `\
 bg black,22
@@ -16586,13 +16586,13 @@ bg note1,24
 me1v 11,90
 
 ;　俺の料理人としてや、使用人としての苦労話は、ぐだぐだ書いても面白くないだろう。@俺も書いて面白くない。@だから、六軒島に勤める人間として、面白いことを書くことにする。\
-`Meus problemas anteriores como cozinheiro e serviﾆal sﾃo provavelmente muito entediantes e desinteressantes para escrever a respeito.`@` Muito desinteressantes.`@` Por isso decidi escrever sobre coisas interessantes, sobre minha vida trabalhando em Rokkenjima. `\
+`Meus problemas anteriores como cozinheiro e serviﾆal sﾃo, provavelmente, muito entediantes e desinteressantes para escrever a respeito.`@` Muito desinteressantes.`@` Por isso decidi escrever sobre coisas interessantes, sobre minha vida trabalhando em Rokkenjima. `\
 
 se1 1010
 bg black,24
 
 ;　その最たるものが、黄金の魔女、ベアトリーチェの伝説だろう。\
-`E a coisa mais interessante ｪ provavelmente a lenda sobre BEATRICE, a Bruxa Dourada. `\
+`E a coisa mais interessante provavelmente ｪ a lenda sobre a BEATRICE, a Bruxa Dourada. `\
 E_A
 bgm1 17
 
@@ -16601,7 +16601,7 @@ bgm1 17
 br
 bg Mhal_2c,22
 ;　だから新しい職場でそういう話を聞いた時、@あぁ、ここにもそういう話があるのかと苦笑いしたことを思い出す。\
-`Por isso, lembro que quando ouvi essa histｫria em meu novo local de trabalho, dei um sorriso amargo e pensei:`@` 'Aah, tambｪm hｧ essas historias neste lugar?' `\
+`Por isso, lembro que quando ouvi essa histｫria em meu novo local de trabalho, dei um sorriso amargo e pensei:`@` 'Tambｪm hｧ essas historias neste lugar?' `\
 bg black,22
 ;　それにしても変わっている。@
 ;　日本の怪談は、大抵、幽霊とか日本的な妖怪だ。@それが、黄金の魔女、ベアトリーチェさまと来るのだから、……何とも違和感を感じたものだ。\
@@ -16622,14 +16622,14 @@ bg portrait2,26
 ;　そして、そのご婦人こそが、この屋敷の夜の支配者であり、敬いの気持ちを欠かすとひどい目に遭わされるとか何とか。\
 `E que essa mesma dama ｪ a governante desta mansﾃo ﾚ noite. E que se vocｹ nﾃo respeitｧ-la, terｧ um destino cruel. Coisas do tipo. `\
 ;　聞く話では、ベアトリーチェさまのことを馬鹿にする発言をした使用人が、大怪我をして辞めたみたいな話もあるらしい。@
-`De acordo com o que ouvi, um serviﾆal falou mal de BEATRICE-sama, fazendo pouco dela, e parece que acabou tendo que se retirar do emprego por causa de uma lesﾃo grave. `@
+`De acordo com o que ouvi, uma serviﾆal falou mal de BEATRICE-sama, fazendo pouco dela, e parece que acabou tendo que se retirar do emprego por causa de uma lesﾃo grave. `@
 br
 ;　……まぁ、そういうもんだ。@何か不幸があれば、それは全て、ベアトリーチェさまの祟りということになるわけだ。\
 `......Bem, ｪ assim que funciona. Se algum infortｸnio acontecer, dirﾃo que foi uma maldiﾆﾃo de BEATRICE-sama. `\
 ;　ということは不幸が起こった時、敬いを示していなかった人物に責任を転嫁する雰囲気になりかねない。@俺はすぐにそれを理解し、ベアトリーチェさまを畏怖しているジェスチャーを心掛けるようにした。@
 `Ou seja, quando algo de ruim acontece, ｪ comum que se dissemine um pensamento coletivo de jogar a culpa na pessoa que nﾃo demonstrou respeito.`@` Eu entendi isso imediatamente e fiz questﾃo de nﾃo esquecer de mostrar respeito pela BEATRICE-sama. `@
 ;　しかし内心では、そんな馬鹿なことがあるものかと嘲笑っていた……。\
-`Contudo, por dentro, eu sｫ posso rir do quﾃo absurdo isso ｪ.......`\
+`Contudo, por dentro, eu sｫ posso rir do quﾃo absurdo ｪ isso.......`\
 bg black,22
 wait 2000
 fede 0,1000
@@ -16645,16 +16645,16 @@ bg black,24
 bgm1 1
 
 ;　この、ベアトリーチェの怪談は、古参の使用人たちによって妄信されていた。@
-`Esta histｫria de fantasmas sobre BEATRICE era cegamente aceita pelos serviﾆais mais antigos. `@
+`Esta histｫria de fantasmas sobre a BEATRICE era cegamente aceita pelos serviﾆais mais antigos. `@
 br
 ;　敬わないと祟りがある、というよりは、まるで、実在した人物が非業の死を遂げ、今なお敬われている…、というような空気感に似ていた。\
-`'Respeite ou vocｹ serｧ amaldiﾆoado'. Por meio disso, era como se houvesse certo tipo de atmosfera, onde uma pessoa sofre uma morte nﾃo natural... e o fantasma se torna respeitado. `\
+`'Respeite ou vocｹ serｧ amaldiﾆoado'. Por meio disso, era como se houvesse certo tipo de atmosfera, onde uma pessoa sofre uma morte nﾃo natural...e o fantasma se torna respeitado. `\
 bg Mkit_1a,0
 ld l,KAN_DefA1,0
 ld c,KUM_DefA1,0
 ld r,GEN_DefA1,22
 ;　少なくとも、ベアトリーチェを馬鹿にするような発言をすることは、現に慎むべきであるという強い空気があり、@たとえ茶飲み話であったとしても、軽々しいことは口に出来なかった。\
-`Hｧ uma forte atmosfera nos dizendo para sermos realmente discretos para falar mal de BEATRICE-sama, fazendo pouco caso dela.`@` E, mesmo que estivｪssemos conversando durante o chｧ, nﾃo deverｨamos falar descuidadamente sobre ela. `\
+`Hｧ uma forte clima no ar, dizendo para sermos realmente discretos para falar mal de BEATRICE-sama, fazendo pouco caso dela.`@` E, mesmo que estivｪssemos conversando durante o chｧ, nﾃo deverｨamos falar descuidadamente sobre ela. `\
 bg black,22
 
 ;　人間、面白いもので、そういう中にずっと身をおいていると、本当にそういう気持ちになってくる。@
@@ -16690,7 +16690,7 @@ bg M1F_P1dN,22
 `Naquela sombra flutuante, eu vi uma figura feminina. `@
 br
 ;　使用人に、あんなシルエットの人間はいないから、自動的に、奥様かお嬢様だろうと思った。@ネグリジェとかのシルエットのように、何となく思えたのだ。\
-`Entre os serviﾆais, nﾃo hｧ ninguｪm com uma silhueta assim, entﾃo eu automaticamente pensei que era a madame ou a mjou-sama.`@` De alguma forma, parecia uma silhueta em um negligｹ. `\
+`Entre os serviﾆais, nﾃo hｧ ninguｪm com uma silhueta assim, entﾃo eu automaticamente pensei que era a madame ou a ojou-sama.`@` Aparentava ser a silhueta de alguｪm vestindo um negligｹ. `\
 bg black,22
 
 ;　しかし、よくよく考えてみれば、おかしな話だった。@
@@ -16713,7 +16713,7 @@ ld r,Nat_ZutuuA1,24
 `Na verdade, eu jｧ vi a ojou-sama sendo censurada pela madame por suas roupas estarem desajeitadas, e receber repreensｷes. `\
 bg black,22
 ;　だから、よくよく考えてみれば、そんなシルエットの人影が、屋敷の中で見られたはずはないのだ。@人影を思い出せば思い出すほど、あれが、この屋敷の誰かであるとは考えられなくなった…。\
-`ｴ por isso que, quando penso cuidadosamente, essa silhueta nﾃo deveria ser vista dentro da mansﾃo.`@` Quanto mais me lembro da silhueta, menos eu consigo pensar como sendo de alguｪm desta mansﾃo.... `\
+`ｴ por isso que, quando penso cuidadosamente, aquela silhueta nﾃo deveria ser vista dentro da mansﾃo.`@` Quanto mais me lembro da silhueta, menos eu consigo pensar como sendo de alguｪm desta mansﾃo... `\
 me1 5
 bg black,22
 ;　一体、俺は、……誰を見たのだろう。@
@@ -16722,9 +16722,9 @@ bg portrait2,6
 
 br
 ;　まさか本当に、………ベアトリーチェさま………？@
-`Poderia ser realmente......... a BEATRICE-sama......? `@
+`Poderia ser realmente.........a BEATRICE-sama......? `@
 ;　あの人影を見たのは、大広間。@……つまり、ベアトリーチェさまの肖像画の前。\
-`Eu vi aquela silhueta no hall ......Em outras palavras, em frente ao retrato da BEATRICE-sama. `\
+`Eu vi aquela silhueta no hall. ......Em outras palavras, em frente ao retrato da BEATRICE-sama. `\
 ;　人影を見たその時よりもむしろ、時間が経ってからの方が薄気味悪かった。\
 `Agora que jｧ passou algum tempo, isso fica ainda mais assustador do que naquele momento em que vi a silhueta. `\
 bg black,22
@@ -16747,7 +16747,7 @@ bgm1 1
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 
 ;「嘉音さん。@今はお暇ですか？」@
-`"Kanon-san.`@` Vocｹ tem um minuto agora?" `\
+`"Kanon-san.`@` Vocｹ tem um minuto?" `\
 
 ld l,KAN_FumanA2,80
 
@@ -16757,12 +16757,12 @@ bg rose_G1c,22
 ;　嘉音という仮の名を持つ、片翼の鷲を許された少年の使用人。@
 `Ele ｪ um serviﾆal que usa o pseudﾛnimo de Kanon e tem permissﾃo para usar a ﾂguia de Uma Asa. `@
 ;　彼とは、初めから仲良くなれないと思っていたし、これからもそのつもりはない。@
-`Desde o comeﾆo, pensei que nﾃo seria capaz de me dar bem com ele, mas agora nﾃo tenho essa intenﾆﾃo.. `@
+`Desde o comeﾆo, nuna achei que fossｹmos nos dar bem, e ainda nﾃo pretendo me aproximar. `\
 ;　……しかし、その時は珍しく、彼と話がしたいと思った。\
-`......No entanto, desde que aquele momento foi tﾃo incomum, me fez querer falar com ele a respeito. `\
+`......Contudo, como aquele momento foi tﾃo incomum, isso me fez querer falar com ele a respeito. `\
 
 ;　俺よりも勤続年数が長く、……ベアトリーチェさまの怪談に詳しくて。@……それでいて、ちょっとだけ俺優位で話しかけられる相手。@
-`Ele estｧ servindo hｧ mais tempo do que eu. ......Ele conhece detalhes sobre a histｫria de fantasmas sobre BEATRICE-sama.`@` ......E, no entanto, eu falo com ele como se eu estivesse em uma posiﾆﾃo superior. `@
+`Ele estｧ servindo hｧ mais tempo do que eu. ......E sabe bastante sobre o detalhes da histｫria de fantasmas a respeito da BEATRICE-sama.`@` ......Apesar disso, eu falo com ele como se eu estivesse em uma posiﾆﾃo superior. `\
 ;br
 
 ;　それくらいの気分で、彼に話しかけたのだ。@
@@ -16780,7 +16780,7 @@ ld r,GOH_IiwakeA1,0
 ld l,KAN_FumanA1,24
 
 ;「………あれはベアトリーチェさまだったんでしょうかね。@……嘉音さんには似たような経験は？」@
-`".........Acho que vi BEATRICE-sama.`@` ......Vocｹ jｧ experimentou algo semelhante, Kanon-san?"`\
+`".........Acho que vi a BEATRICE-sama.`@` ......Vocｹ jｧ experimentou algo semelhante, Kanon-san?"`\
 ld l,KAN_DefA1,24
 
 ;「……………………………。」\
@@ -16806,7 +16806,7 @@ bg black,22
 `Dizem que borboletas reluzindo como ouro sﾃo um pressｧgio de que a BEATRICE-sama aparecerｧ. `@
 ;br
 ;　それはまるで、幽霊が出る前に現れる人魂によく似た位置付けだと感じていた。\
-`Era como o mapeamento de um local, muito parecido com os truques que aparecem antes de um fantasma aparecer. `\
+`Era como o mapeamento de um local, similar a almas que surgem ao redor antes da apariﾆﾃo de um fantasma. `\
 bg butterfly_1a,4
 bg butterfly_2a,3
 ;　しかし人魂と違い、黄金の蝶には不気味なイメージはない。@どちらかというと、もしも実在するならぜひ一度見てみたいような美しさを感じる。@
@@ -16828,7 +16828,7 @@ ld r,KAN_NayamuA1,80
 `"Nﾃo.`@` ......Seria o mesmo que desrespeitar a BEATRICE-sama." `\
 ld l,GOH_MajimeA1,80
 ;「……その後を追った使用人が確か、大怪我をして辞めたんでしたっけ？」@
-`" ......Se bem me lembro, uma serviﾆal que os seguiu sofreu um ferimento grave e se demitiu, certo?" `\
+`" ......Se bem me lembro, uma serviﾆal que as seguiu sofreu um ferimento grave e se demitiu, certo?" `\
 ld r,KAN_FumanA2,80
 ;「そう聞いています。@……ベアトリーチェさまは、敬う者には寛大ですが、それを欠く者には残酷だそうですので。」\
 `"Eu ouvi sobre isso.`@` ......A BEATRICE-sama ｪ tolerante com aqueles que a respeitam, mas dizem que ela ｪ cruel com aqueles que a desrespeitam." `\
@@ -16890,7 +16890,7 @@ ld c,KAN_DefA2,22
 `".........Gohda-san.`@` Vocｹ nﾃo deve dizer coisas ruins.`@` ......Para seu prｫprio bem, acho que vocｹ deve tomar cuidado com atos que possam profanar a BEATRICE-sama." `\
 ld l,GOH_omakaseA3,23
 ;「はっはっは、…まさかまさか。@そんなつもりはありませんよ。」\
-`"Haahaaha, ... Nﾃo, nﾃo.`@` Nﾃo ｪ essa minha intenﾆﾃo." `\
+`"Haahaaha, ...Nﾃo se preocupe.`@` Essa nﾃo ｪ a minha intenﾆﾃo." `\
 ld c,KAN_fumanA1,80
 ;「僕も以前。@…ベアトリーチェさまの存在を、疑ったことがあります。」@
 `"Eu tambｪm, algum tempo atrｧs,`@` ...jｧ duvidei da existｹncia da BEATRICE-sama." `\
@@ -16933,7 +16933,7 @@ bg rose_G1b,0
 ld l,GOH_MajimeA1,23
 
 ;「………その話。@聞いてもいいですか？」@
-`" .........Essa histｫria...`@` Poderia me contｧ-la?" `\
+`".........Essa histｫria...`@` Poderia me contｧ-la?" `\
 ld r,KAN_DefA2,24
 ;「……………………………。」\
 `"................................."`\
@@ -16945,7 +16945,7 @@ ld r,KAN_OdorokiA2,80
 wait 600
 ld r,KAN_FumanA1,80
 ;　やがて彼は根負けして、彼が魔女の存在を信じるようになったという“事件”を話してくれた…。\
-`Depois de algum tempo, ele foi vencido pela minha persistｹncia e me contou sobre o 'caso' no qual ele veio a acreditar na existｹncia da bruxa.... `\
+`Depois de algum tempo, ele foi vencido pela minha persistｹncia e me contou sobre o 'caso' que o fez acreditar na existｹncia da bruxa... `\
 
 bg black,22
 
@@ -16981,12 +16981,12 @@ bg black,22
 se2 33
 bg magicsquare_sun7,6
 ;……しかも床に血のように赤い塗料で、まるで魔法陣を思わせるような、不気味な図形が描かれていたというのだ。\
-`......alｪm disso, havia um desenho sinistro, parecendo um cｨrculo mｧgico feito no chﾃo, de cor vermelha similar a sangue; assim ele disse. `\
+`......alｪm disso, havia um desenho sinistro, parecendo um cｨrculo mｧgico feito no chﾃo, de cor vermelha, similar a sangue; assim ele disse. `\
 
 ;「そんな馬鹿なことが。@…嘉音さんが鍵をずっと持っていたなら、園芸倉庫は密室ではありませんか。@誰にも、倉庫内をめちゃくちゃにして、そんなおかしな図形を描けたわけもない。」\
 `"Que histｫria absurda.`@` ...Se vocｹ passou o tempo todo com a chave, o depｫsito nﾃo deveria ser um quarto fechado?`@` De jeito nenhum alguｪm seria capaz de bagunﾆar o interior e desenhar um cｨrculo mｧgico lｧ.'" `\
 ;「…………僕も当時は信じられませんでした。@……シャッターを開き、まるで竜巻が通り過ぎた後のような倉庫内がそこにあり、不気味な魔法陣が描かれていた時の衝撃は、今も忘れられません。」\
-`"............Na ｪpoca, eu tambｪm nﾃo pude acreditar.`@` ......Mesmo agora, nﾃo consigo esquecer do choque que tive ao abri-lo e me deparar com seu interior como se tivesse sido devastado por um tornado, junto com aquele sinistro cｨrculo mｧgico que estava pichado lｧ." `\
+`"............Na ｪpoca, eu tambｪm nﾃo pude acreditar.`@` ......Mesmo agora, nﾃo consigo esquecer do choque que tive ao abri-lo e me deparar com seu interior, como se tivesse sido devastado por um tornado, junto com aquele sinistro cｨrculo mｧgico que estava pichado lｧ." `\
 bg black,22
 fede 0,1000
 ;「確かに、……そんなことがあったら薄気味悪くて仕方ない。@しかし、こうは考えられませんか？@/
@@ -17003,7 +17003,7 @@ ld l,KAN_DefA2,23
 
 ld r,GOH_omakaseA3,24
 ;「えぇ、そうです。@あなたはお若い。@他の使用人たちにからかわれて、そういう悪戯をされたのでは？」\
-`"Sim, isso mesmo.`@` vocｹ ｪ jovem.`@` A fim de implicar com vocｹ, os outros serviﾆais pregaram um peﾆa, nﾃo?" `\
+`"Sim, isso mesmo.`@` Vocｹ ｪ jovem.`@` A fim de implicar com vocｹ, os outros serviﾆais pregaram um peﾆa, nﾃo?" `\
 
 bg key2,24
 ;「……でも、鍵は僕が持っていた。@あの晩に限ってだけは、誰も倉庫に入れたわけもない。」\
@@ -17038,7 +17038,7 @@ me1v 18,30
 bg black,22
 bg different_spiral_1b,22
 ;　…………その時、嘉音さんが見せた、大きく目を見開くような表情が、忘れられない。@
-`............Eu nunca esquecerei expressﾃo que o Kanon-san fez naquele momento, com seus olhos arregalados. `\
+`............Eu nunca esquecerei da expressﾃo que o Kanon-san fez naquele momento, com seus olhos arregalados. `\
 bg different_spiral_1a,22
 ;　そのような恐ろしいことを口にして、きっとただでは済まないとでも言うような、……愚かな怖いもの知らずに驚くような、…そんな表情だった。\
 `Era como se seu rosto dissesse: 'Vocｹ nﾃo vai sair ileso depois de dizer essas coisas terrｨveis', ......como se estivesse assustado com a visﾃo de um tolo irresponsｧvel, ...esse tipo de expressﾃo. `\
@@ -17071,7 +17071,7 @@ bgm1 7
 ;　そして、その棘の痛みを忘れかけたある日のこと。@
 `E entﾃo, certo dia, quando eu estava comeﾆando a esquecer a dor daquele espinho... `\
 ;　その日は珍しくお館様が外出された日だった。@……しかもその上、旦那様、奥様、お嬢様までもが旅行で不在という、右代宮一族が島からひとりもいなくなるという、とても珍しい日だった。\
-`Esse foi um raro dia em que o Mestre saiu.`@` ......Alｪm disso, o patrﾃo, a Madame e atｪ a ojou-sama estariam ausentes por causa de uma viagem, o que significa que toda a famｨlia Ushiromiya partiria da ilha. Um dia muito raro, de fato."`\
+`Esse foi um raro dia em que o Mestre saiu.`@` ......Alｪm disso, o patrﾃo, a madame e atｪ a ojou-sama estariam ausentes por causa de uma viagem, o que significa que toda a famｨlia Ushiromiya partiria da ilha. Um dia muito raro, de fato."`\
 
 bg Mhal_2a,23
 ;　そのため、シフト表は人数を薄く設定され、@この日は、源次さんと私の２人だけが担当になっていた。\
@@ -17139,7 +17139,7 @@ bg M1F_P1cN,22
 ;　……しかし、一体何が起こったというのか。@
 `......Mas o que diabos poderia ter acontecido?`@
 ;　厨房と言えば、自分にとってもっとも重要な守備位置だ。@そこで何か不手際があったとすれば、それは紛れもない自分の責任。@…しかし、自分に限って、厨房で不手際があるだろうか？@　とにかく、もう一度着替え、厨房に駆け込むしかなかった。\
-` Falando nisso, a cozinha ｪ como um castelo que devo defender.`@` Se acontecer inepto acontecer lｧ, serｧ minha responsabilidade, com certeza.`\
+` Falando nisso, a cozinha ｪ como um castelo que devo defender.`@` Se algo inepto acontecer lｧ, serｧ minha responsabilidade, com certeza.`\
 `...No entanto, no meu caso em particular, eu poderia ter feito qualquer coisa inepta na cozinha?`@` De qualquer forma, troquei de roupa mais uma vez e corri para a cozinha.`\
 E_A
 bg black,22
@@ -17157,7 +17157,7 @@ ld r,GOH_IkariA2,24
 ld l,GEN_komaruA1,80
 
 ;「手伝ってほしい。@私ひとりでは手に負えない。」\
-` "Quero que vocｹ me ajude.`@` ｴ demais para mim cuidar disto sozinho."`\ 
+` "Quero que vocｹ me ajude.`@` ｴ demais para eu cuidar disto sozinho."`\ 
 bg Mkit_1bN,23
 
 ;　この異常な状況を見て、源次さんの驚きようが、声が上擦った程度でしかないことの方が、今となっては驚きだった…。\
@@ -17210,10 +17210,10 @@ bg Mkit_1cN,23
 ;　今日は六軒島に、自分と源次さんの２人しかいないのだ。\
 `Hoje, sｫ havia duas pessoas em Rokkenjima, o Genji-san e eu. `\
 ;　俺がこんな馬鹿をするわけがない以上、@……犯人は自動的に源次さんということに……。@
-` Claro que eu nunca faria uma coisa tﾃo absurda,`@` ......logo o culpado automaticamente teria de ser Genji-san.......`@
+` Claro que eu nunca faria uma coisa tﾃo absurda,`@` ......logo o culpado automaticamente teria de ser o Genji-san.......`@
 ;br
 ;　いやしかし、@……源次さんに限って、こんな馬鹿なことをするだろうか…？！\
-` Nﾃo, @` ......o Genji-san nﾃo poderia fazer algo tﾃo absurdo...!`\
+` Nﾃo, @`......o Genji-san nﾃo poderia fazer algo tﾃo absurdo...!`\
 bg black,22
 bg different_spiral_1a,22
 ;　こんな悪戯をして何になる？！@　俺に対する嫌がらせ？！@　でもしかし、源次さん自身だってこうして片付けをしている。@自分で散らかして自分で片付けるなんて、……そんな無駄なことを、単に俺を驚かせたいがためだけに、こんな深夜にやるだろうか…？！@　それこそ考えられない！\
@@ -17293,7 +17293,7 @@ ld r,GEN_DefA1,80
 
 ld l,GOH_IkariA2,80
 ;「に、二度と聞きませんから教えてください…！@　じゃあ源次さんはこれを、ベアトリーチェの仕業だというのですか…？！」@
-`"Eu nunca direi uma palavra, entﾃo por favor, me diga...!`@` Entﾃo, Genji-san, vocｹ vai me dizer que isso foi feito pela BEATRICE...?!" `\
+`"Eu nunca direi uma palavra, por favor, me diga...!`@` Entﾃo, Genji-san, vocｹ vai me dizer que isso foi feito pela BEATRICE...?!" `\
 ld r,GEN_MajimeA1,80
 ;「その名をむやみに口にするな。」\
 `"Nﾃo fale desse nome de forma tﾃo imprudente." `\
@@ -17302,7 +17302,7 @@ ld l,GOH_KomaruA2,80
 `"...P-Por quｹ?" `\
 ld r,GEN_KomaruA1,80
 ;「…………その名をむやみに、そして呼びつけにする使用人は、なぜか長く持たないからだ。@郷田の料理の腕は、特に奥様が高く評価されている。@……お前に辞められては困る。」\
-`"............Os serviﾆais que falam esse nome de forma imprudente, por algum motivo, nﾃo duram muito aqui.`@` Gohda, suas habilidades culinｧrias sﾃo altamente apreciadas pela madame.`@`......Seria problemｧtico se vocｹ fosse embora." `\
+`"............Os serviﾆais que falam esse nome de forma imprudente, por algum motivo, nﾃo duram muito aqui.`@` Gohda, suas habilidades culinｧrias sﾃo altamente apreciadas pela madame.`@` ......Seria problemｧtico se vocｹ fosse embora." `\
 
 bg black,22
 bg Mkit_1bN,23
@@ -17361,7 +17361,7 @@ ld l,GEN_defA1,0
 ld r,GOH_odorokiA1,22
 ld l,GEN_majimeA1,80
 ;「………見過ごすような壁ではなかった。@彼女は、壁に最初、何も描かれていなかったと強く証言している。@そして勝手口が施錠されているのを確認し、引き返そうと振り返った、わずか数秒の間だったそうだ。」\
-`".........Ela nﾃo teria esquecido de algo assim desenhado na parede.`@` Ela afirmou com convicﾆﾃo que nﾃo nada havia desenhado na parede a princｨpio.`\
+`".........Ela nﾃo teria esquecido de algo assim desenhado na parede.`@` Ela afirmou com convicﾆﾃo que nﾃo havia nada desenhado na parede a princｨpio.`\
 `E ela disse que aconteceu no intervalo de poucos segundos, quando verificou se a porta dos fundos estava trancada e se virou para voltar." `\
 ld r,GOH_KomaruA3,80
 ;「ま、まま、まさかご冗談を……。@そんなの、その使用人たちの冗談では…？」\
@@ -17384,7 +17384,7 @@ ld l,GEN_DefA1,80
 
 ld r,GOH_IiwakeA2,80
 ;「え………。@そ、それは一体…………？」@
-`"Hﾃ........`@` O-O que foi............?" `\
+`"Hﾃ........?`@` O-O que foi............?" `\
 ld l,GEN_KomaruA1,80
 ;「…………………………………。」@
 `"................................."`\
