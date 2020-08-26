@@ -16316,7 +16316,7 @@ wait 1500
 ;　――忘れる為に、ここに記す。@
 ;　願わくば、自分も誰もこれを読まないことを望む。\
 `――Eu escrevo as coisas para poder esquecｹ-las. `@
-`Desejo que ninguｪm, nem mesmo eu, nﾃo venha a ler isto.`\
+`Desejo que ninguｪm, nem mesmo eu, venha a ler isto.`\
 
 textoff
 bg black,2
