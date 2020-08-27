@@ -27966,7 +27966,7 @@ mld l,LAM_MajimeA1,80
 
 
 ;それに、罠なんて怯えるわけがないわ。@椅子とか飲み物とか、それにおやつとか。@森のお茶会を楽しんでもらえるように、たくさんの趣向で御持て成ししてるんだもの。@きっとベルンも、楽しみながら、ここまでやって来るはずよ。」\
-`E de jeito nenhum ela teria medo de armadilhas.`@` Seja cadeiras, bebidas ou guloseimas. `\`Para que ela desfrute desta festa de chｧ na floresta, eu bolei muitos planos para recebｹ-la. `@`A Bern vai se divertir enquanto segue se caminho atｪ aqui." `\
+`E de jeito nenhum ela teria medo de armadilhas.`@` Seja cadeiras, bebidas ou guloseimas. `\`Para que ela desfrute desta festa de chｧ na floresta, eu bolei muitos planos para recebｹ-la. `@`A Bern vai se divertir enquanto segue seu caminho atｪ aqui." `\
 
 mov %FEA_Isyou,2
 
@@ -28126,7 +28126,7 @@ ld l,FEA_DefA1,80
 
 
 ;…いや、飽きさせぬな、そなたは。」\
-`...nﾃo, vocｹ realmente nﾃo me deixa entedia." `\
+`...nﾃo, vocｹ realmente nﾃo me deixa entediada." `\
 
 bg "bmp\background\sbook\forest01.bmp",26
 
