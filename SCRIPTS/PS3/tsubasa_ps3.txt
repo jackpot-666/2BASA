@@ -17506,7 +17506,6 @@ quakey 2,300
 ;setando caixa de texto ADV
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274 
 ;locate 1,6
-locate 1,6
 ;ざァんねん！！　また遭いますからァ！！\
 `Que pena!! Vai passar por isso de novo!! `\
 bg black,22
