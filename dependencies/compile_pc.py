@@ -32,6 +32,12 @@ def prepareFiles():
         except:
             print(f"Couldn't copy {files}")
             pass
+    
+    try:
+        shutil.rmtree('bmp/background')
+    except FileNotFoundError:
+        print("Couldn't find the backgrounds folder. Skipping.")
+    
     try:
         copy_tree('legacy_extra/bmp', f'bmp')
     except FileNotFoundError:
@@ -42,11 +48,6 @@ def prepareFiles():
     except FileNotFoundError:
         print("Couldn't find the web folder. Skipping.")
         pass
-
-    try:
-        shutil.rmtree('bmp/background')
-    except FileNotFoundError:
-        print("Couldn't find the backgrounds folder. Skipping.")
 
 def compile():
     try:
