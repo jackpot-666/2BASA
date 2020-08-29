@@ -3,6 +3,7 @@ from distutils.dir_util import copy_tree
 import os, shutil, shlex
 from sys import exit
 
+# Nome da pasta onde os arquivos do patch serão enviados
 output_folder = "[HE][KT]Umineko.Tsubasa.PT-BR.(PC)"
 
 def prepareFiles():
@@ -12,6 +13,8 @@ def prepareFiles():
     except:
         pass
 
+    # Lista de ARQUIVOS (não pastas!) que são necessários para montar o patch 
+    # (atenção: não incluir o nscript.dat ou arc.nsa que são compilados por esse script posteriormente)
     dependencies = [
         'default.ttf',
         'GPL.txt', 
@@ -33,16 +36,20 @@ def prepareFiles():
             print(f"Couldn't copy {files}")
             pass
     
+    # este bloco de código deleta a pasta bmp/background
     try:
         shutil.rmtree('bmp/background')
     except FileNotFoundError:
         print("Couldn't find the backgrounds folder. Skipping.")
     
+    # este bloco copia a pasta legacy_extra/bmp para dentro da pasta bmp
     try:
         copy_tree('legacy_extra/bmp', f'bmp')
     except FileNotFoundError:
         print("Couldn't find the legacy_extra folder. Skipping.")
 
+    # copia a pasta web. Para copiar outras pastas, reuse este bloco de código
+    # tradução do que está sob o TRY: copy_tree('pasta que você quer copiar', f'{output_folder}/para onde ela vai' << pode ser para dentro dela mesmo, como no caso abaixo)
     try:
         copy_tree('web', f'{output_folder}/web')
     except FileNotFoundError:
@@ -55,6 +62,8 @@ def compile():
     except FileNotFoundError:
         pass
 
+    # caso precise modificar o caminho ou o nome do script, editar ele abaixo
+    # IMPORTANTE: o nome do arquivo, caso modificado, precisa também ser modificado nos scripts do Github Actions, sob a pasta .github/workflows neste repositório
     nscript_args = '-o nscript.dat SCRIPTS/PC/tsubasa_pc.txt'
     # shutil.copy('SCRIPTS/PS3/tsubasa_ps3.txt', '0.txt')
     run(['dependencies/nscmake.exe'] + shlex.split(nscript_args))
@@ -64,6 +73,8 @@ def compile():
     run(['dependencies/nsamake.exe'] + shlex.split(nsa_args))
     shutil.move('arc.nsa', output_folder)
 
+    # nome do arquivo de destino
+    # IMPORTANTE: o nome do arquivo, caso modificado, precisa também ser modificado nos scripts do Github Actions, sob a pasta .github/workflows neste repositório
     zip_args = f"HE.KT.Umineko.Tsubasa.PT-BR.(Legacy.Art).7z {output_folder}"
     run([r'dependencies/7za.exe', 'a'] + shlex.split(zip_args))
 
