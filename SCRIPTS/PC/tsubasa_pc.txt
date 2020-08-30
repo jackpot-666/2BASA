@@ -8957,7 +8957,7 @@ ld l,MAR_fukigenA1,0
 ld c,ROS_KomaruA1,0
 ld r,SAK_KomaruA2,24
 ;mld c,ROS_KomaruA3,80
-mld c,ROS_KomaruA3,80
+;mld c,ROS_KomaruA3,80
 
 ;「戦人くん…。@その、……真里亞にも出番を……。」\
 `"Battler-kun...`@` ......Bem, quanto ﾚ parte da Maria......"`\
