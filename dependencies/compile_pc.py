@@ -36,15 +36,20 @@ def prepareFiles():
             print(f"Couldn't copy {files}")
             pass
     
-    # este bloco de código deleta a pasta bmp/background
+    # este bloco de código deleta as pastas bmp/background e zoom
     try:
         shutil.rmtree('bmp/background')
     except FileNotFoundError:
         print("Couldn't find the backgrounds folder. Skipping.")
     
-    # este bloco copia a pasta legacy_extra/bmp para dentro da pasta bmp
     try:
-        copy_tree('legacy_extra/bmp', f'bmp')
+        shutil.rmtree('zoom')
+    except FileNotFoundError:
+        print("Couldn't find the backgrounds folder. Skipping.")
+    
+    # este bloco copia as subpastas da pasta legacy_extra para o root
+    try:
+        copy_tree('legacy_extra', f'.')
     except FileNotFoundError:
         print("Couldn't find the legacy_extra folder. Skipping.")
 
@@ -69,7 +74,7 @@ def compile():
     run(['dependencies/nscmake.exe'] + shlex.split(nscript_args))
     shutil.move('nscript.dat', output_folder)
 
-    nsa_args = 'arc.nsa bmp SE'
+    nsa_args = 'arc.nsa bmp SE zoom'
     run(['dependencies/nsamake.exe'] + shlex.split(nsa_args))
     shutil.move('arc.nsa', output_folder)
 
