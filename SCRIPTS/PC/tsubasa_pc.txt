@@ -27,7 +27,7 @@ killmenu 2
 
 ;caption "うみねこのなく頃に翼"
 ;versionstr "うみねこのなく頃に翼　ver1.000","制作　０７ｔｈ　Ｅｘｐａｎｓｉｏｎ"
-caption "Umineko no Naku Koro ni -Tsubasa- [KT][HE] Portugues v1.11"
+caption "Umineko no Naku Koro ni -Tsubasa- PC(PT-BR)"
 versionstr "Umineko no Naku Koro ni ver1.000","created by 07th Expansion
 
 ;メニューの内容
