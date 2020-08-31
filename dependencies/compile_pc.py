@@ -69,7 +69,7 @@ def compile():
     run(['dependencies/nscmake.exe'] + shlex.split(nscript_args))
     shutil.move('nscript.dat', output_folder)
 
-    nsa_args = 'arc.nsa bmp SE zoom'
+    nsa_args = 'arc.nsa bmp SE'
     run(['dependencies/nsamake.exe'] + shlex.split(nsa_args))
     shutil.move('arc.nsa', output_folder)
 
