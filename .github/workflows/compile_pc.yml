@@ -5,11 +5,9 @@ on:
   push:
     tags:
     - '*'
-    paths:
-      - 'SCRIPTS/PS3/tsubasa_pc.txt'
+    branches: [ master]
   pull_request:
-    paths:
-      - 'SCRIPTS/PS3/tsubasa_pc.txt'
+    branches: [ master]
 
 jobs:
   build:
