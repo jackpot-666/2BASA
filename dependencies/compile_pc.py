@@ -49,7 +49,7 @@ def prepareFiles():
     
     # este bloco copia as subpastas da pasta legacy_extra para o root
     try:
-        copy_tree('legacy_extra', f'.')
+        copy_tree('legacy_extra', '.')
     except FileNotFoundError:
         print("Couldn't find the legacy_extra folder. Skipping.")
 
