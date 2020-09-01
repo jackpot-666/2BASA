@@ -45,7 +45,7 @@ def prepareFiles():
     
     # este bloco copia as subpastas da pasta legacy_extra para o root
     try:
-        copy_tree('legacy_extra', f'.')
+        copy_tree('legacy_extra', '.')
     except FileNotFoundError:
         print("Couldn't find the legacy_extra folder. Skipping.")
 
@@ -70,7 +70,7 @@ def compile():
     run(['dependencies/nscmake.exe'] + shlex.split(nscript_args))
     shutil.move('nscript.dat', output_folder)
 
-    nsa_args = 'arc.nsa bmp SE zoom'
+    nsa_args = 'arc.nsa bmp zoom'
     run(['dependencies/nsamake.exe'] + shlex.split(nsa_args))
     shutil.move('arc.nsa', output_folder)
 
