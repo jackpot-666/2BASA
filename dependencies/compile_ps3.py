@@ -24,6 +24,7 @@ def prepareFiles():
         'textbox1.zip', 
         'textbox2.zip', 
         'textbox3.zip', 
+        'textbox4.zip', 
         'unzip.exe', 
         '[KT][HE]Umineko Tsubasa PT-BR.exe',
         'Personalizar_caixa_de_texto.bat',
