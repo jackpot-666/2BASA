@@ -16746,7 +16746,7 @@ bgm1 1
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 
 ;「嘉音さん。@今はお暇ですか？」@
-`"Kanon-san.`@` Vocｹ tem um minuto?" `\
+`"Kanon-san,`@` vocｹ tem um minuto?" `\
 
 ld l,KAN_FumanA2,80
 
@@ -16756,7 +16756,7 @@ bg rose_G1c,22
 ;　嘉音という仮の名を持つ、片翼の鷲を許された少年の使用人。@
 `Ele ｪ um serviﾆal que usa o pseudﾛnimo de Kanon e tem permissﾃo para usar a ﾂguia de Uma Asa. `@
 ;　彼とは、初めから仲良くなれないと思っていたし、これからもそのつもりはない。@
-`Desde o comeﾆo, nuna achei que fossｹmos nos dar bem, e ainda nﾃo pretendo me aproximar. `\
+`Desde o comeﾆo, nunca achei que fossｹmos nos dar bem, e ainda nﾃo pretendo me aproximar. `\
 ;　……しかし、その時は珍しく、彼と話がしたいと思った。\
 `......Contudo, como aquele momento foi tﾃo incomum, isso me fez querer falar com ele a respeito. `\
 
