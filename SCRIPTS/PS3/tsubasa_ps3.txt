@@ -4433,7 +4433,7 @@ bg Sky_2b,22
 ;　当時、最大の軍事強国として恐れられていた魔界は、物量による飽和攻撃を得意としていた。@
 ;　しかし、対等な軍事バランスを求めるもう一方の大国、天界は、@７１年に戦争史を塗り替える新機軸、霊子戦システムの構築に成功。@
 ;　兵員と予算と物量に任せた力押しの攻撃を、完全に封殺することに成功したのである。\
-`Na ｪpoca, o Mundo dos Demﾛnios, temido como uma grande potｹncia militar, devido ﾚ quantidade de armamentos que possuｨam, fez do ataque de saturaﾆﾃo a sua especialidade. `\
+`Na ｪpoca, o Mundo dos Demﾛnios, temido como uma grande potｹncia militar devido ﾚ quantidade de armamentos que possuｨam, fez do ataque de saturaﾆﾃo a sua especialidade. `\
 `No entanto, a outra grande potｹncia, o Cｪu, querendo um equilｨbrio justo no poderio bｪlico, `@`no ano 1971 obteve sucesso na realizaﾆﾃo de uma inovaﾆﾃo capaz de reescrever a histｫria da guerra: o sistema de combate atravｪs das partｨculas espirituais. `\
 
 bg black,22
@@ -4474,7 +4474,7 @@ bg homing6R,22
 bg homing7,22
 
 ;　こうして、最終的にシエスタ社のシエスタシリーズが勝利し、@赤き竜の飛来を記念して結成した記念騎士団の名に、社名を冠する栄誉を与えられたのである。\
-`E assim, a sｪrie Chiester, da empresa Chiester, alcanﾆou o sucesso; e a empresa teve a honra de emprestar seu nome ﾚ Ordem da Cavalaria, que celebrava a descida do voo do Dragﾃo Vermelho. \`
+`E assim, a sｪrie Chiester, da empresa Chiester, alcanﾆou o sucesso; e a empresa teve a honra de emprestar seu nome ﾚ Ordem da Cavalaria, que celebrava a descida do Voo do Dragﾃo Vermelho. \`
 
 bg white,2
 
@@ -4624,7 +4624,7 @@ se1 47
 ld r,S41_AkuwaraiA1,80
 
 ;「４５の測量は結構おかしいから、それくらいでちょうどいいにぇ。」\
-`"45, seus cｧlculos sﾃo tﾃo precisos que chega a ser ridｨculo. Perto o suficiente jｧ ｪ bom o suficiente, nyeh."`\
+`"45, seus cｧlculos sﾃo tﾃo precisos que chega a ser ridｨculo. Perto o suficiente jｧ ｪ bom o bastante, nyeh."`\
 ;＜シエスタ４１０
 
 ld l,S45_OdorokiA1,80
@@ -4632,7 +4632,7 @@ ld l,S45_OdorokiA1,80
 ;「結構なんてひどいですっ、最近はほとんどないですっ…！！@/
 `"Nﾃo sﾃo precisos o bastante! Ultimamente ｪ tudo ou nada...!!`@/
 ;いっぱい怒られたから特に注意してるんですっ！！」\
-` Eu tomo um cuidado especial porque vocｹ sempre sempre me enfurece!!"`\
+` Eu tomo um cuidado especial porque vocｹ sempre me enfurece!!"`\
 ;＜シエスタ４５
 
 bg black,0
@@ -4647,7 +4647,7 @@ setwindow 31,16,22,16,26,26,0,2,20,1,1,#999999,0,0,639,479
 `45 foi criada especificamente para o propｫsito de executar cｧlculos no Combate de Partｨculas Espirituais.`@
 br
 ;測定とは鋭利かつ冷酷なものであり、０か１かを正確に見極め、一切のブレなくそれを測定し報告する。\
-`Os cｧlculos devem ser implacavelmente exatos, determinando com precisﾃo os zeros e uns sem margem para erros, e entﾃo reportar os resultados de suas agrimesuras.`\
+`Os cｧlculos devem ser implacavelmente exatos, determinando com precisﾃo os zeros e uns sem margem para erros, e entﾃo reportar os resultados de suas agrimensuras.`\
 ld l,S45_DefA2,80
 
 ;しかし、４５は霊子戦以前のフォーマットで基本設計がなされており、デジタル的な測定に完全に対応できていない。\
@@ -4751,7 +4751,7 @@ ld r,S45_KomaruA1,24
 ld l,S41_AkuwaraiA1,23
 
 ;４１０は、４５をからかうのが面白くて、@わざと測量データを無視し、トリッキーな射撃を行なっているらしいのだ。\
-`410 acha hilｧrio perturbar 45, por isso ela intencionalmente ignora suas agrimensura e executa tiros difｨceis e excｹntricos.`\
+`410 acha hilｧrio perturbar 45, por isso ela intencionalmente ignora suas agrimensuras e executa tiros difｨceis e excｹntricos.`\
 
 ;……仰天するような射撃を行ない、４５を驚かせたり困らせたり。@４１０はそれに悦を得て、ますますにそれをエスカレートさせることで、戦果に結び付けているらしいのである。\
 `......Sua pontaria ｪ verdadeiramente surpreendente, para surpresa e desｯnimo de 45.`@` Parece que suas reaﾆｷes servem apenas para aumentar a auto-satisfaﾆﾃo de 410, piorando ainda mais seu comportamento e contribuindo para seu sucesso militar.`\
@@ -4845,7 +4845,7 @@ ld l,S00_majimeA2,80
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 
 ;「お前とて、４５からリンクがなければ、数々の狙撃は成し得なかったはず。@もう少しそのことを、４５に感謝してもいいのではないか？」\
-`"Sem o suporte da 45, vocｹ certamente teria falhado na maioria dos seus disparos.`@` Vocｹ nﾃo deveria mostrar um pouco mais de gratidﾃo com ela?"`\
+`"Sem o suporte da 45, vocｹ certamente teria falhado na maioria dos seus disparos.`@` Vocｹ nﾃo deveria mostrar um pouco mais de gratidﾃo a ela?"`\
 ;＜シエスタ００
 
 ld r,S41_AkuwaraiA1,24
@@ -10826,7 +10826,7 @@ bg Glib_1a,23
 ld l,FUR_WaraiA7,23
 
 ;「えぇ、そうよ。@だって、使用人との禁じられた恋の成就だもの。@母の日のプレゼントで、母親の心をキャッチしておくのだって、立派な恋の大戦略だわ！」@
-`"Sim, isso mesmo.`@` Afinal de contas, ela espera transformar seu amor proｨbido por um serviﾆal em realidade.`@` Capturar o coraﾆﾃo de sua mﾃe antes, com um presente do Dia das Mﾃes, pode ser uma esplｹndida estratｪgia de amor!" `\
+`"Sim, isso mesmo.`@` Afinal de contas, ela espera transformar seu amor proibido por um serviﾆal em realidade.`@` Capturar o coraﾆﾃo de sua mﾃe antes, com um presente do Dia das Mﾃes, pode ser uma esplｹndida estratｪgia de amor!" `\
 ;＜フルフル
 
 ld c,JES_TohohoA2,24
@@ -10884,7 +10884,7 @@ bg Glib_1c,23
 
 ld c,JES_AisowaraiA1,23
 ;「あ、いやその、ゴメンっ、普通のでいいです。@おかしな魔法のアイテムとかいらないんで…。」\
-`"Ah, nﾃo, foi mal, mas coisas comuns estﾃo de bom tamanho.`@` Eu nﾃo quero nenhum intem mｧgico estranho..."`\
+`"Ah, nﾃo, foi mal, mas coisas comuns estﾃo de bom tamanho.`@` Eu nﾃo quero nenhum item mｧgico estranho..."`\
 ;＜朱志香
 
 se1 47
@@ -10911,7 +10911,7 @@ setwindow 31,16,24,16,23,23,0,2,20,1,1,#999999,0,0,639,479
 
 ;br
 ;　話が無駄に大きくなりそうなので、@せっかく大悪魔を召喚しておきながら、朱志香はただのカーネーションでいいと悪魔たちをなだめました。\
-`A conversa estava saｨdno de controle, assumindo proporﾆｷes grandiosas depois de invocar estes dois Grandes Demﾛnios problemｧticos.`@` Por isso Jessica tentou acalmｧ-los sugerindo 'um craveiro normal'.`\
+`A conversa estava saindo de controle, assumindo proporﾆｷes grandiosas depois de invocar estes dois Grandes Demﾛnios problemｧticos.`@` Por isso Jessica tentou acalmｧ-los sugerindo 'um craveiro normal'.`\
 
 
 bg black,22
@@ -10957,7 +10957,7 @@ ld r,FUR_waraiA1,80
 ld l,ZEP_WaraiA8,80
 
 ;「贈られた母親は、一日だけ少し、魔法の加護が受けられるカーネーションさ。@それなら、僕たちも悪魔らしい魔力ある授け物が出来て満足だし、@君だって、そう怖がらずに受け取れるアイテムだと思うけどね！」\
-`"Sua mﾃe, que receberｧ este craveiro, receberｧ a magia da proteﾆﾃo divina durante um dia inteiro.`@` Por possuir um poder mｧgico demﾛniaco, ficaremos satisfeito por termos cumprido nossa parte.`@` Mas vocｹ deve aceitar este item sem esquecer de seu temor e gratidﾃo."`\
+`"Sua mﾃe, que receberｧ este craveiro, receberｧ a magia da proteﾆﾃo divina durante um dia inteiro.`@` Por possuir um poder mｧgico demonｨaco, ficaremos satisfeito por termos cumprido nossa parte.`@` Mas vocｹ deve aceitar este item sem esquecer de seu temor e gratidﾃo."`\
 ;＜ゼパル
 mcl c,0
 bg black,22
@@ -11212,9 +11212,9 @@ br
 `Sempre que os serviﾆais comeﾆa a discutir, ela precisa agir como pacificadora para evitar as brigas. `\
 
 ;　きっとそれも私が肩代わりしてるんだろうな…。@
-`Eu provavelmente tambｪm recebi esse pesso... `@
+`Eu provavelmente tambｪm recebi esse peso... `@
 ;　きっと今日の六軒島は、使用人のみんなも穏やかで喧嘩なんかないに違いない。\
-`Tenho certeza que lｧ em Rokkenjima, os serviﾆais devem estar convivendo trnqulamente, sem discuﾆｷes.`\
+`Tenho certeza que lｧ em Rokkenjima, serviﾆais devem estar convivendo tranquilamente, sem discussｷes.`\
 
 bg Mdin_1b,22
 
@@ -11467,7 +11467,7 @@ ld r,ZEP_AkireA1,24
 ld l,FUR_majimeA1,23
 
 ;「えぇ、これでは悪魔の名折れだわ。@ちょっとカーネーションの魔法のこと、もっとよく調べてみましょうよ！」\
-`"Sim, ｪ uma desgraﾆa para demﾛnios!`@` Vamos estudar apropriamente a magia do craveiro um pouco mais!"`\
+`"Sim, ｪ uma desgraﾆa para demﾛnios!`@` Vamos estudar apropriadamente a magia do craveiro um pouco mais!"`\
 ;＜フルフル
 
 se1v 2,100
@@ -14182,7 +14182,7 @@ ld r,FUR_WaraiA1,80
 ld L,ZEP_WaraiA8,80
 
 ;「それもそうだね！@　彼女の恋は使用人、嘉音くんとの禁じられた恋！@　味方をひとりでも増やすことは、大いなる恋の第一歩！」\
-`"Isso tambｪm ｪ verdade! `@`O amor dela pelo serviﾆal, o Kanon-kun, ｪ um amor proibido! `@` Aumentar o nｸmero de aliados, mesmo que um sｫ, ｪ o primeiro passo para um grande amor amor."` \
+`"Isso tambｪm ｪ verdade! `@`O amor dela pelo serviﾆal, o Kanon-kun, ｪ um amor proibido! `@` Aumentar o nｸmero de aliados, mesmo que um sｫ, ｪ o primeiro passo para um grande amor."` \
 ;＜ゼパル
 
 ld c,JES_aisowaraiA1,24
@@ -14226,7 +14226,7 @@ bg schF_P3a,22
 `Tanto Jessica quanto Saku acreditavam que nﾃo tinham feito nada de ruim, por isso elas nﾃo pediram desculpas uma ﾚ outra.` \
 ;br
 ;　しかし、相手が謝ってきたら許してやろうとお互いが思っています。@
-`Contudo, elas estavam dispostas a aceitar as desculpas, caso alguｪma delas viesse a se desculpar.` @
+`Contudo, elas estavam dispostas a aceitar as desculpas, caso alguma delas viesse a se desculpar.` @
 ;br
 ;　これでは、いつまで経っても仲直りできるわけはありません。\
 `Com isso, o tempo foi passando e elas nﾃo conseguiram fazer as pazes.`\
@@ -14239,7 +14239,7 @@ bg Glib_1b,22
 `Enquanto quebrava a cabeﾆa pensando em uma forma de fazer as pazes, ela se lembrou do grimｫrio da biblioteca de Kinzo.` \
 ;br
 ;　あの魔導書で呼び出せた、不思議な悪魔の二人組なら、何か良い魔法を授けてはくれないかな。@あの、母の日のプレゼントみたいに。\
-`Ela pensou que se invocasse os demﾛnios misteriosos usando o grimｫrio, ela poderia a elas por alguma boa magia que ela pudesse usar.`@` Alguma parecida com o presente do Dia das Mﾃes.` \
+`Ela pensou que se invocasse os demﾛnios misteriosos usando o grimｫrio, poderia pedir a eles para que ensinassem alguma magia que ela pudesse usar.`@` Alguma parecida com o presente do Dia das Mﾃes.` \
 
 bg black,22
 mono off
@@ -14249,7 +14249,7 @@ se1 47
 ld l,FUR_WaraiA2,26
 
 ;「もちろん、お安い御用だわ。@嘉音くんとの恋を成就させるための第一歩！」\
-`"Naturalmente, ｪ algo simples. `@`ｴ o primeiro passo concretizar seu amor com o Kanon-kun!"` \
+`"Naturalmente, ｪ algo simples. `@`ｴ o primeiro passo para concretizar seu amor com o Kanon-kun!"` \
 ;＜フルフル
 
 se1 48
@@ -14326,7 +14326,7 @@ ld r,ZEP_WaraiA4,80
 ld l,FUR_WaraiA8,80
 
 ;「願いも叶えられずに追い返されたでは、済まされないわ！」\
-`Nﾃo podemos nos despedir sem antes realizer seu desejo!"` \
+`Nﾃo podemos nos despedir sem antes realizar seu desejo!"` \
 ;＜フルフル
 
 ld r,ZEP_WaraiA3,80
@@ -14465,7 +14465,7 @@ ld r,FUR_WaraiA1,80
 ld c,ZEP_DefA1,80
 
 ;「見事、仲直りが出来ることを祈っているよ！」\
-`"Desejamos que tenha uma esplｹndida reconsiliaﾆﾃo!" `\
+`"Desejamos que tenha uma esplｹndida reconciliaﾆﾃo!" `\
 ;＜ゼパル
 
 
@@ -14543,7 +14543,7 @@ bgm1 3
 bg schF_P1a,42
 
 ;　翌日。@学校にて。\
-`No dia seguinte. `@`Na escola. `\
+`No dia seguinte, `@`na escola. `\
 
 ld r,JES_TohohoA2,24
 
@@ -14565,7 +14565,7 @@ ld r,JES_TohohoA2,24
 ld r,JES_TereruA2,80
 
 ;「ん、……あ、……飴だよ。@あげるよ。@……まぁその、深く考えないで取っといて。」@
-`"H-Hmm, ......uma bala. `@`ｴ pra vocｹ. `@`......Bem, sｫ aceite e nﾃo fiquei pensando muito nisso." `\
+`"H-Hmm, ......uma bala. `@`ｴ pra vocｹ. `@`......Bem, sｫ aceite e nﾃo fique pensando muito nisso." `\
 ;＜朱志香
 
 ;「そ、そう……？@　ありがとう。」\
@@ -14634,7 +14634,7 @@ ld c,JES_TereruA1,23
 se1 47
 quakey 2,300
 ;「あっ…あはは…、慌てて出てきたから、気が付かなかったぜ…。」\
-`"Ah...Ahaha... Eu sai apressada, entﾃo nem percebi..." `\
+`"Ah...Ahaha... Eu saｨ apressada, entﾃo nem percebi..." `\
 ;＜朱志香
 
 ;「やだジェシーったらぁ～！@　キャッハハッ！」\
@@ -14700,7 +14700,7 @@ bg MJES_1aN,0
 ld c,JES_futekiA2,24
 
 ;「こ、こんな簡単なおまじないで、夢に嘉音くんが出てくるのかー…。@……ま、まぁいいや。@だ、騙されたと思って、やってみるかなー！@　えっと、何々…？」@
-`"C-Com este feitiﾆo simples, o Kanon-kun vai aparecer no meu sonho...? `@`......B-Bem... `@`N-Nﾃo tem porque nﾃo testar. `@`Vejamos...hﾃ?" `\
+`"C-Com este feitiﾆo simples, o Kanon-kun vai aparecer no meu sonho...? `@`......B-Bem... `@`N-Nﾃo tem por que nﾃo testar. `@`Vejamos...hﾃ?" `\
 ;＜朱志香
 
 ;br
@@ -14724,7 +14724,7 @@ ld c,JES_tereruA2,80
 ld c,JES_FutekiA2,80
 ;br
 ;　両手をぐっと握り締め、いざ、嘉音くん！　夢の中に来たれ！@　と決意を口にしてから消灯。\
-`Ela agarrou o lenﾆo com ambas as mﾃos, firmemente, e exclamou "Venha, Kanon-kun! Apareﾆa nos nos meus sonhos!" `@`Expressando seu desejo, ela apagou a luz. `\
+`Ela agarrou o lenﾆo com ambas as mﾃos, firmemente, e exclamou "Venha, Kanon-kun! Apareﾆa nos meus sonhos!" `@`Expressando seu desejo, ela apagou a luz. `\
 
 bg black,2
 
@@ -14800,7 +14800,7 @@ ld l,ZEP_DefA1,22
 ld l,ZEP_WaraiA8,80
 
 ;「当たり前じゃないか。@僕たちが渡した魔導書だもの！」@
-`"Mas ｪ claro que ｪ! `@`Fomos nｫs que damos ele a vocｹ, afinal de contas!" `\
+`"Mas ｪ claro que ｪ! `@`Fomos nｫs que demos ele a vocｹ, afinal de contas!" `\
 ;＜ゼパル
 
 
@@ -15089,7 +15089,7 @@ bg black,22
 ;　おまじないの手順を、愚直にしっかり守ったはずなのに、……どうして？@
 ;　これまでのおまじないも全て叶ったのに、どうしてこれだけ。@
 `Eu segui todos os passos fielmente, .....o que aconteceu? `@
-`Todos os feitiﾆos atｪ agora funcionaram, entﾃo porque esse nﾃo funcionou?`\
+`Todos os feitiﾆos atｪ agora funcionaram, entﾃo por que esse nﾃo funcionou?`\
 ;br
 ;　こういうおまじないこそ、ビシッと効果を発揮してほしかっただけに、とても残念です。\
 `ｴ mesmo uma pena que justo esse feitiﾆo, que eu tanto queria ver como seria seu efeito, foi o que nﾃo funcionou. `\
@@ -15378,7 +15378,7 @@ me1 5
 ld c,GOH_KomaruA1,80
 
 ;「昨夜の夢は、……一体何だったのでしょうか……。」@
-`"O que diabos foi......o sonho de ontem a noite......? `\
+`"O que diabos foi......o sonho de ontem ﾚ noite......? `\
 ;＜郷田
 ;br
 ;　お嬢様が私に甘えてくる夢を見るなんて……。\
@@ -26178,7 +26178,7 @@ csp 785
 lsp 785,":a;bmp2\TATI\RG3\1\RG3_KomaruA3.bmp",270,0,150
 print 80
 ;　不甲斐なき姉妹たちが、領主陛下に無礼な手紙を添えたチョコを献上しているものと思います。@
-`Presumo que minhas irmﾃs sem vergonha tenham presenteado Vossa Majestade, o Lorde Territorial, com chocolates acompanhados de cartes descortｹs. `@
+`Presumo que minhas irmﾃs sem vergonha tenham presenteado Vossa Majestade, o Lorde Territorial, com chocolates acompanhados de cartas descorteses. `@
 ;br
 ;　しかし、姉妹たちに責任はありません。@
 ;　全て、私の日々の指導が至らぬせいです。@深くお詫び申し上げます。\
@@ -26314,7 +26314,7 @@ waittimer 5
 print 1
 next
 ;　──煉獄の七姉妹、五女マモンより、愛を込めて。@愛を求めて。\
-`──A quinta mais velha das Sete Irmﾃs do Purgatｫrio. Com muito, muito amor, Mammom. `\
+`──A quinta mais velha das Sete Irmﾃs do Purgatｫrio. Com muito, muito amor, Mammon. `\
 
 csp 785
 lsp 785,":a;bmp2\TATI\RG5\1\RG5_hohoemiA1.bmp",270,0,150
@@ -26596,7 +26596,7 @@ waittimer 4
 print 1
 next
 ;　ばら蒔く義理チョコは、バレンタインのショットガン。@
-`O chocolate da obrigaﾆﾃo que disseminasse ｪ a escopeta do Dia dos Namorados. `@
+`O chocolate da obrigaﾆﾃo que dissemina-se ｪ a escopeta do Dia dos Namorados. `@
 for %Free3 = 140 to 155
 resettimer
 msp bgsp,0,-2,0
@@ -26659,11 +26659,11 @@ next
 `Da 4096a Infantaria da Guarda Imperial das Irmﾃs Chiester. `\
 
 ;　いつもお世話になっております。@
-`Muito obrigada por estar sempre nos axuliando.`@
+`Muito obrigada por estar sempre nos auxiliando.`@
 ;br
 
 ;　本当は手作りのチョコを送りたかったのですが、昨年のチョコレートテロの影響で、今年から手作りチョコの送付が禁じられてしまいました…。\
-`Gostarei de ter preparado chocolates caseiros pera lhe enviar, mas devido a influｹncia do Chocolate Terrorista do ano passado, este ano ficamos proｨbidas de enviar chocolates caseiros... `\
+`Gostaria de ter preparado chocolates caseiros para lhe enviar, mas devido a influｹncia do Chocolate Terrorista do ano passado, este ano ficamos proibidas de enviar chocolates caseiros... `\
 
 for %Free3 = 90 to 232
 resettimer
@@ -26723,7 +26723,7 @@ next
 ;　ありがとうの気持ちに、チョコを沿えてお送りします。@
 `Junto aos meus sentimentos de gratidﾃo, envio tambｪm este chocolate. `@
 ;　どうかこれからも、シエスタ姉妹近衛隊をよろしくご指導願います。\
-`Por favor, peﾆo que continuei a cooperar com a Guarda Imperial das Irmﾃs Chiester. `\
+`Por favor, peﾆo que continue a cooperar com a Guarda Imperial das Irmﾃs Chiester. `\
 
 for %Free3 = 90 to 150
 resettimer
@@ -26735,9 +26735,9 @@ next
 ;　近衛隊は女子しかいないので、こういう習慣は初めてで不慣れです。@
 ;　これで、バレンタインのお作法はあっていますか？@
 ;　教えてもらえたなら、ありがたいです。
-`A Guarda Imperial ｪ composta unicamente por garotas, portanto ｪ a primeira vez que lido com este costume o qual nﾃo estou familiarizada. `@
-`Este seria um protocolo a ser seguida no Dia dos Namorados? `\
-`Eu ficaria muito agradecida se vocｹ pudesse me ensinassar. \`
+`A Guarda Imperial ｪ composta unicamente por garotas, portanto ｪ a primeira vez que lido com este costume com o qual nﾃo estou familiarizada. `@
+`Este seria um protocolo a ser seguido no Dia dos Namorados? `\
+`Eu ficaria muito agradecida se vocｹ pudesse me ensinar. \`
 br
 br
 ;　　　　　　　　　　　　　　　　　　　　　　──シエスタ５５６\
@@ -26928,7 +26928,7 @@ next
 
 ;　ガートルードに手紙を見せると、何度も書き直しをさせられてイヤなノデ。@
 ;　今年はガートルードに見つかる前に、こっそり送付しマス。@
-`Se a Gertrude ver esta carta, ela vai me forﾆarar a ficar reescrevendo, mas nﾃo quero fazer ISSO. `@
+`Se a Gertrude ver esta carta, ela vai me forﾆar a ficar reescrevendo, mas nﾃo quero fazer ISSO. `@
 `Este ano, eu a enviei antes que a Gertrude pudesse ENCONTRﾂ-LA.`\
 
 for %Free3 = 1 to 35
@@ -26992,7 +26992,7 @@ next
 ;コーネリア 
 ;　謹啓。@大寒の頃、春の足音を聞きつつ炬燵に篭ること之、至福也やと知り給えの今日この頃、如何お過ごし也やと申し上げ奉る！\
 `Senhoril. `@
-`Por meio deste, busco inquiri-lo sobre como tem passado? Fique ciente de que desfrutar seu tempo debaixo de um kotatsu conforme ouve os passos da primavera a se aproximar durante o Dahan ｪ uma grande benﾆﾃo. `\
+`Por meio deste, busco inquiri-lo sobre como tem passado. Fique ciente de que desfrutar seu tempo debaixo de um kotatsu conforme ouve os passos da primavera a se aproximar durante o Dahan ｪ uma grande bｹnﾆﾃo. `\
 
 
 csp 785
@@ -27019,7 +27019,7 @@ next
 
 
 ;　法の番人の自覚を持ちて、益々に職務に励むもの也や！\
-`Estando consientes de que somos guardiｷes da Lei, temos de nos dedicar cada vez mais aos nossos deveres profissionais! `\
+`Estando consciente de que somos guardiｷes da Lei, temos de nos dedicar cada vez mais aos nossos deveres profissionais! `\
 for %Free3 = 90 to 115
 resettimer
 msp bgsp,0,-4,2
@@ -27037,8 +27037,8 @@ br
 `―――Sacerdotisa Cornelia \`
 ;br
 ;　異端審問官たる者、書面も法語を使うことが求められるもの也。@詠み難さ、平にご容赦奉り給え。\
-`ｴ requisitdo aos Inquisidores da Heresia que utilizem do Vernｧculo da Corte, mesmo em documentos por escritos. `@
-`Fique ciente de que sinto muｨtissimo caso a leitura desta composiﾆﾃo possa ocasiosar determinado grau de dificuldade. `\
+`ｴ requisitado aos Inquisidores da Heresia que utilizem do Vernｧculo da Corte, mesmo em documentos por escrito. `@
+`Fique ciente de que sinto muitｨssimo caso a leitura desta composiﾆﾃo possa ocasionar determinado grau de dificuldade. `\
 
 csp -1
 print 1
@@ -27111,7 +27111,7 @@ bg black,22
 ;bg cateye_1,22
 ;　最近、ネコを飼い始めました。かわいいですよね。@
 ;　l陛下は犬派ですか、猫派ですか。\
-`Recentemente eu comecei a cuidar de um gato. Ele ｪ adorｧvel. `@
+`Recentemente, eu comecei a cuidar de um gato. Ele ｪ adorｧvel. `@
 `Vossa Majestade ｪ do time dos cﾃes ou dos gatos? `\
 ;bg black,22
 ;mono 0
@@ -27194,8 +27194,8 @@ next
 
 ;　もちろん僕も楽しんでるよ！@
 ;　何しろ今日は、奥手な男子たちを、チョコの毒牙で狩り立てることが許された一日だからね。\
-`Naturalmente, eu tambｪm estou apreciando! `@
-`Afinal, hoje ｪ o dia na qual se ｪ permitido caﾆar os homens mais introvertidos ultilizando dos artifｨcios do chocolate. `\
+`Naturalmente, eu tambｪm estou o apreciando! `@
+`Afinal, hoje ｪ o dia no qual se ｪ permitido caﾆar os homens mais introvertidos ultilizando dos artifｨcios do chocolate. `\
 
 for %Free3 = 60 to 120
 resettimer
@@ -27327,7 +27327,7 @@ se2 54
 `ｴ claro, todos os meus chocolates sﾃo de amor verdadeiro. `\
 ;br
 ;　愛も女も要らないなんてカッコつけてるキミを、@もう愛なくして生きていけない体にしてあげるから覚悟していて☆@
-`Se pretender fingir que nﾃo precisa de amor ou mulheres,`@
+`Se pretende fingir que nﾃo precisa de amor ou mulheres,`@
 `ｪ bom estar preparado pois nﾃo hｧ corpo que suporte viver sem o amor☆.`\
 br
 br
@@ -27368,10 +27368,10 @@ ld r,RON_WaraiA2,0
 ld l,BUT_nayamuA2,23
 ;「…へっ。チョコの中に何が入っているやら。@どれもおっかなくて食えたもんじゃないだろうぜ。」\
 `..."Eh? O que serｧ que tem dentro destes chocolates?`@
-` Todos parecem assustadores que acho que nem vou comer." `\
+` Todos parecem bem assustadores que acho que nem vou comer." `\
 ld r,RON_WaraiA1,24
 ;「大丈夫でございますよ。@戦人さまが彼女達のチョコを食べることは出来かねますので。」@
-`"Nﾃo hｧ com que se preocupe.`@
+`"Nﾃo hｧ com que se preocupar.`@
 ` Por outro lado, vocｹ nﾃo poderｧ comer os chocolates delas, Battler-sama." `\
 
 ld l,BUT_OyaA1,80
@@ -27410,7 +27410,7 @@ quakey 2,300
 ;ベアトリーチェ 
 
 ;　ハッピーバレンタイーン！！@　ア～ンド、@残念でしたぁああぁあぁあァ！！@
-`Happy Valentines!!`@` A~nd...`@` Foi maaaaaaal! `\
+`Happy Valentine's!!`@` A~nd...`@` Foi maaaaaaal! `\
  
 ;br
 
@@ -27445,7 +27445,7 @@ lsp 785,":a;bmp2\TATI\bea\1\BEA_AkuwaraiA5.bmp",0,0,150
 print 80
 
 ;　まー、流石に気の毒だから、一粒だけチョコを進呈しよう。@
-`Bem, realmente ｪ meio um infortｸnio, por isso guardei um pedaﾆo de chocolate para presenteｧ-lo. `@
+`Bem, realmente ｪ meio que um infortｸnio, por isso guardei um pedaﾆo de chocolate para presenteｧ-lo. `@
 se2 37
 ;　慈悲深い妾に感謝するがいい！\
 `Seja grato por minha benevolｹncia! `\ 
@@ -28209,7 +28209,7 @@ mov %r_hyouji_side,1
 br
 
 ;　そこは温かい布団の中でも、ぬいぐるみを入れる篭の中でもなかったから。\
-`Por que este nﾃo ｪ um futon quentinho, nem um cesto repleto de animais de pelｸcia.`\
+`Porque este nﾃo ｪ um futon quentinho, nem um cesto repleto de animais de pelｸcia.`\
 bg white,42
 
 se1 1030
@@ -28478,7 +28478,7 @@ quakey 3,400
 
 
 ;「うむ？@　お前はぬいぐるみだから、目蓋がないではないか。@ではこうしよう。@お前の両目の黒い布を千切ってしまおう。」\
-`"Hm?`@` Por ser um animal de pelｸcia, vocｹ nﾃo possui pｧlpebras, possui?`@` Entﾃo assim faremos.`@` Vamos arrancar este tecido preto que compｷem seus olhos." `\
+`"Hm?`@` Por ser um animal de pelｸcia, vocｹ nﾃo possui pｧlpebras, possui?`@` Entﾃo assim faremos.`@` Vamos arrancar este tecido preto que compｷe seus olhos." `\
 
 
 ;「…………あ…、」\
@@ -28708,7 +28708,7 @@ br
 `Da forma como estou, eu sei que`@` a Maria nunca vai me reconhecer. `\
 
 ;　……僕は、ママが手作りしてくれた、世界でただ１つのぬいぐるみ。@
-`......Eu fui feito pelam mamﾃe, um animal de pelｸcia ｸnico no mundo. `@
+`......Eu fui feito pela mamﾃe, um animal de pelｸcia ｸnico no mundo. `@
 br
 ;　だから、僕を直せる人は、世界中でママ１人だけ。\
 `Por isso, a ｸnica pessoa no mundo todo que pode me consertar ｪ a mamﾃe. `\
