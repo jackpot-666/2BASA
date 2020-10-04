@@ -9090,7 +9090,7 @@ bg M2F_P1d,0
 ld r,BUT_DefA2,24
 
 ;「おう、ロノウェにワルギリアか。@あんたらには世話になったからな。@/
-`"Oh, se nﾃo sﾃo o Ronove e a Virgilia?`@` Eu devo uma a vocｹs. `@/
+`"Oh, se nﾃo sﾃo o Ronove e a VIRGILIA?`@` Eu devo uma a vocｹs. `@/
 
 ld r,BUT_DefA1,80
 
@@ -9122,7 +9122,7 @@ bgm1 146
 ld r,BUT_FutekiA1,80
 
 ;「いくらワルギリアの頼みでも、それは聞けねぇぜ～☆@/
-`"Mesmo sendo um pedido seu, Virgilia, sinto muito, mas eu nﾃo posso acatar~☆ `@/
+`"Mesmo sendo um pedido seu, VIRGILIA, sinto muito, mas eu nﾃo posso acatar~☆ `@/
 
 ld r,BUT_futekiA2,80
 
@@ -9793,7 +9793,7 @@ print 99,2000,"breakup.dll/ulb"
 bg Mlib_1cP,0
 ld c,BUT_WaraiA3,24
 ;「おう、ワルギリア、サンキュー！@　どれどれ、っと。/
-`"Oh, valeu, Virgilia!`@` Vamos ver, vamos ver.`/
+`"Oh, valeu, VIRGILIA!`@` Vamos ver, vamos ver.`/
 
 se1 13
 quakey 1,200
@@ -10601,7 +10601,7 @@ se1 13
 quakey 2,300
 
 ;「図に乗ってました、マジで謝ります。@助けてください、ワルギリアさま、ロノウェさま…。」\
-`"Eu acabei me empolgando demais, sｪrio, desculpa.`@` Por favor, me salvem, Virgilia-sama, Ronove-sama..."`\
+`"Eu acabei me empolgando demais, sｪrio, desculpa.`@` Por favor, me salvem, VIRGILIA-sama, Ronove-sama..."`\
 ;＜戦人
 
 ld r,WAL_FumanA1,80
@@ -11720,8 +11720,6 @@ bg cit_1a,2
 
 ;　幼稚園や小学校で、両親に感謝するために、工作の時間に色々なものを作った記憶がおありの方々も多いはず…。\
 `No jardim de infｯncia e no ensino fundamental, para agradecer aos pais, muitos alunos fazem presentes durante as aulas de artes e artesanato... `\
-; rever um pouco esta linha: In kindergarten and elementary school, in order to show thanks to their parents, many students make gifts during arts and crafts time.
-;;Apesar do jp nﾃo falar de aula, penso que essas atividades devem ter a supervisﾃo de um professor. Acredito que uma aula de "craftagem" seria com uso ferramentas, ou algo assim.
 
 bg white,2
 E_MA
@@ -11731,7 +11729,7 @@ ld r,MAR_NiyariA1,24
 ld r,MAR_WaraiA1,80
 
 ;「うー！@　真里亞ね、学校で勤労感謝の日のプレゼント作ったの！@/
-`"Uu!`@` A Maria fez um presente de Dia do Trabalho na escola! `@/
+`"Uu!`@` A Maria fez um presente de Dia do Trabalho, na escola! `@/
 
 ;　ほらー、これなの、/
 `Olha, ｪ esse aqui! `/
@@ -11742,7 +11740,7 @@ ld r,MAR_WaraiA1,80
 ld l,BUT_WaraiA1,23
 
 ;「おー、素敵な封筒じゃねぇか！@　“勤労感謝の日のプレゼント”、か。@直球なのがいいなぁ！」@
-`"Ooh, que envelope mais bonito!`@` 'Presente do dia de Graﾆas ao Trabalho', hein?`@` ｴ bom que ｪ bem direto!" `\
+`"Ooh, que envelope mais bonito!`@` 'Presente do dia de Graﾆas ao Trabalho', ｪ?`@` ｴ bom que ｪ bem direto!" `\
 ;＜戦人
 
 cl r,23
@@ -11806,7 +11804,7 @@ bg cof_1a,2
 `Rosa tambｪm tinha estado com eles um tempo antes, mas ela tinha um compromisso para ir cumprimentar alguｪm do trabalho ou algo assim, por isso confiou Maria a eles e foi embora. `\
 
 ;　なので、こっそり。@真里亞は楼座にプレゼントする予定のものをみんなに見せてくれたのだ。\
-`Entﾃo, secretamente,`@` Maria contou a todos seu plano de dar um presente a Rosa naquele dia. `\
+`Entﾃo, secretamente,`@` Maria contou a todos seu plano de dar um presente ﾚ Rosa naquele dia. `\
 ld l,MAR_WaraiA2,23
 
 ;「お夕飯を食べたらプレゼントするの。@うー！」@
@@ -11841,7 +11839,7 @@ ld l,JES_TohohoA2,23
 
 ld r,BUT_WaraiA2,24
 ;「譲治の兄貴もさっきから荷物を持ってるけど、ひょっとして親へのプレゼントだったり…？」\
-`"George-aniki, essas sacolas que estｧ carregando... Por acaso ｪ algun presente para os seus pais...?" `\
+`"George-aniki, essas sacolas que estｧ carregando... Por acaso ｪ algum presente para os seus pais...?" `\
 ;＜戦人
 
 cl l,24
@@ -11849,7 +11847,7 @@ ld l,GEO_HohoemiA1,23
 ld l,GEO_WaraiA1,80
 
 ;「うん。@父さんには新しい財布をね。@……縁起担ぎなのか、ずいぶん古いのを使い続けてるんだけど。@最近は小銭入れが破けて、硬貨がよく落ちるみたいだから。@そろそろ新しいのがあってもいいと思って。@/
-`"Sim.`@` Eu comprei uma carteira nova para o meu pai.`@` ......Nﾃo tenho certeza se ｪ por causa de alguma superstiﾆﾃo, mas ele estｧ usando uma muito velha hｧ algum tempo.`\` Recentemente, sua bolsa de moedas ficou bem gasta, e parece que muitas das moedas caem dela com frequｹncia.`@` Entﾃo pensei que era hora de ele ter uma nova. `@/
+`"Sim.`@` Eu comprei uma carteira nova para o meu pai.`@` ......Nﾃo tenho certeza se ｪ por causa de alguma superstiﾆﾃo, mas ele estｧ usando uma muito velha hｧ algum tempo.`\` Recentemente, sua bolsa de moedas ficou bem gasta, e parece que muitas das moedas caem dela com frequｹncia.`@` Entﾃo pensei que era hora dele ter uma nova. `@/
 
 
 ;……あと、うちでは勤労感謝の日には、母さんにもプレゼントを贈るんだよ。@今日、僕が行き掛けに受け取ってきたこれが、母さんへのプレゼントさ。」\
@@ -11876,7 +11874,7 @@ bg ROS_R1b,0
 ld c,EVA_MajimeA1,2
 
 ;　絵羽は、親族会議の席でこそ、かなりやり手のうるさ型にも見える。@
-`Quando se sentava na conferｹncia de famｨlia, Eva se comportava de forma astuta e rabugenta. `@
+`Quando se sentava na conferｹncia familiar, Eva se comportava de forma astuta e rabugenta. `@
 ;br
 ;　しかし家庭では、料理とガーデニングを得意とする、良き母なのだ。\
 `Mas, em casa, ela era uma boa mﾃe que se destacava em cozinhar e fazer jardinagem. `\
@@ -11884,7 +11882,7 @@ ld c,EVA_MajimeA1,2
 ld c,EVA_WaraiA1,80
 
 ;　特に創作料理にはこだわりがあり、@時に、ご近所の主婦を招いてのホームパーティで、自慢の新作を披露して喝采を受けたりもする。@
-`Ela amava, em especial, a culinｧria criativa.`@` Eva costumava convidar as mulheres da vizinhanﾆa para festas lｧ em casa casa, nas quais orgulhosamente anunciava suas criaﾆｷes mais recentes e recebia vｧrios elogios. `\
+`Ela amava, em especial, a culinｧria criativa.`@` Eva costumava convidar as mulheres da vizinhanﾆa para festas em casa, nas quais orgulhosamente anunciava suas criaﾆｷes mais recentes e recebia vｧrios elogios. `\
 
 ;　そんな“台所の魔女”には、きっとぴったりの贈り物だろう。\
 `Certamente era um presente adequado para a "Bruxa da Cozinha." `\
@@ -11898,7 +11896,7 @@ ld c,JES_DefA2,24
 ld c,JES_WaraiA1,80
 
 ;「包丁ねぇ。@ブランド物ってくらいだから、上等そうだぜ。@いくら位するんだ？」@
-`"Uma faca de cozinha, ｪ?`@` Por ser de marca, deve ser aquelas top de linha!`@` Quando custou?" `\
+`"Uma faca de cozinha, ｪ?`@` Por ser de marca, deve ser aquelas top de linha!`@` Quanto custou?" `\
 ;＜戦人
 
 ld l,GEO_KomaruA2,23
@@ -12037,10 +12035,10 @@ cl r,23
 ld r,GEO_hohoemiA1,24
 
 ;「そうだね。@しない善より、する偽善だよ。@ゴマ擦りだと思われてもいい。@/
-`"Isso mesmo.`@` MEsmo que seja um ato de hipocrisia, ainda ｪ melhor do que nﾃo fazer nada.`@` Acredito que seja aceitｧvel, mesmo que seja por bajulaﾆﾃo.`\
+`"Isso mesmo.`@` Mesmo que seja um ato de hipocrisia, ainda ｪ melhor do que nﾃo fazer nada.`@` Acredito que seja aceitｧvel, mesmo sendo pura bajulaﾆﾃo.`\
 
 ;いや、そのつもりでもいいから、たまには何かご恩返しをしてみたら？@　……きっと、何かが素敵になるきっかけになると思うよ。」\
-`Bem, mesmo que essa seja sua intenﾆﾃo, por que nﾃo experimenta retribuiros os favores de vez em quando?`@` ......Tenho certeza que isso poderia se desenvolevr em algo bom.." `\
+`Bem, mesmo que essa seja sua intenﾆﾃo, por que nﾃo experimenta retribuiros os favores de vez em quando?`@` ......Tenho certeza que isso poderia se desenvolver em algo bom.." `\
 ;＜譲治
 cl l,24
 ld l,MAR_WaraiA2,23
@@ -12057,7 +12055,7 @@ br
 ;　譲治がそう切り出すと、戦人と朱志香は顔を見合わせる。\
 `George deixou a sugestﾃo no ar, e Battler e Jessica olharam um para o outro. `\
 ;　……うん。@たまにはそういうのもいいかもしれない。@
-`......Yeah.`@` De vez em quando, coisas assim tambｪm sﾃo boas. `@
+`......Sim.`@` De vez em quando, coisas assim tambｪm sﾃo boas. `@
 br
 ;　二人は笑顔で力強く頷くのだった。\
 `Os dos sorriram e assentiram com firmeza. `\
@@ -12075,7 +12073,7 @@ bgm1 3
 ;　駅ビルには様々なお店が入っていた。@
 `Haviam vｧrias lojas no prｪdio em frente ﾚ estaﾆﾃo.`@
 ;　お財布さえ許せば、どんな物でも手に入りそうだ。\
-` Contanto que as carteiras estivessem abertas, eles poderiam comprar o que quisessem. `\
+`Contanto que as carteiras estivessem abertas, eles poderiam comprar o que quisessem. `\
 ld r,JES_DefA1,24
 
 ;「戦人は、留弗夫伯父さんに何を買うの？」\
@@ -12085,7 +12083,7 @@ ld r,JES_DefA1,24
 ld l,BUT_NayamuA2,23
 
 ;「……親父にねぇ。@……無難にネクタイ辺りを、…とでも言いたいところだが…。@/
-`"......Pro meu pai?`@` ......Uma gravata parece uma escolha segura, ...ou ｪ o que eu gostari de dizer, mas...  `@/
+`"......Pro meu pai?`@` ......Uma gravata parece uma escolha segura, ...ou ｪ o que eu gostaria de dizer, mas...  `@/
 
 
 ;親父のヤツ、ネクタイの好みにうるさくてなぁ。@よくもらいもんのネクタイにガラが悪いとかダサイとか、ずいぶんグチを言ってるんだよなぁ。」\
@@ -12102,7 +12100,7 @@ ld l,GEO_waraiA1,23
 ld r,BUT_futekiA1,24
 
 ;「ファッション系より、日用品系がいいかなぁ。@日用品なら、とりあえず使えれば文句は言わないだろうし。」\
-`"Ao invｪs de vestuｧrio, acho melhor algo para o uso diｧrio.`@` Se for algo ｸtil, ela vai poder usar sem ficar reclamando." `\
+`"Ao invｪs de vestuｧrio, acho melhor algo para o uso diｧrio.`@` Se for algo ｸtil, ele vai poder usar sem ficar reclamando." `\
 ;＜戦人
 
 cl l,24
@@ -12115,7 +12113,7 @@ ld l,JES_AisowaraiA1,23
 ld c,MAR_MajimeA1,23
 
 ;「うー。@大切なのは気持ちー。@センスはいいのー。」\
-`"Uu!`@` O que importa ｪ o sentimento.`@` Gosto pessal nﾃo importa." `\
+`"Uu!`@` O que importa ｪ o sentimento.`@` Gosto pessal nﾃo faz diferenﾆa." `\
 ;＜真里亞
 
 ;　いやいや、まったく真里亞の言う通り。@
@@ -12146,7 +12144,7 @@ ld l,JES_TohohoA1,80
 
 
 ;……でもさ、それじゃー、肩が凝るってもんだぜ。@父さんも時々、こっそりグチってるよ。@母さんが来ると、すぐに黙っちゃうけど。」\
-`......mas, tipo, isso deixa os ombros meio duros.`@` De vez em quando, meu pai reclama disso.`@` Mas logo que a minha mﾃe chega, ela jｧ manda ele ficar quieto." `\
+`......Mas, tipo, isso deixa os ombros meio duros.`@` De vez em quando, meu pai reclama disso.`@` Mas logo que a minha mﾃe chega, ela jｧ manda ele ficar quieto." `\
 ;＜朱志香
 
 bg "bmp\background\sbook\Shop_1a.bmp",0
@@ -12190,7 +12188,7 @@ ld r,JES_WaraiA1,24
 ld l,MAR_WAraiA2,23
 
 ;「蔵臼伯父さんには、どんなのが似合うかなぁ。@うーうー！　真里亞はこのピンクのカバさんのがいいー！」/
-`"Qual desse combina com o tipo Krauss?`@` Uu uu! A Maria gosta desse rosa de hipopｫtamo!" `/
+`"Qual desses combina com o tio Krauss?`@` Uu uu! A Maria gosta desse rosa de hipopｫtamo!" `/
 se1 48
 quakey 1,100
 
@@ -12200,7 +12198,7 @@ quakey 1,100
 ld r,JES_AtyaA3,80
 
 ;「さ、さすがにそれ、父さんは着れねぇぜ…。@……父さんが着ても恥ずかしくない、もうちょっと貫禄のあるヤツはないかな。」\
-`"M-Meu pai nﾃo iria vesti algo assim nunca...`@` ......Talvez tenha algo mais digno, que ele nﾃo fique com vergonha de usar." `\
+`"M-Meu pai nﾃo iria vestir algo assim nunca...`@` ......Talvez tenha algo mais digno, que ele nﾃo fique com vergonha de usar." `\
 ;＜朱志香
 
 bg "bmp\background\sbook\Shop_1b.bmp",0
@@ -12299,7 +12297,7 @@ ld r,JES_AtyaA3,80
 ld c,BUT_WaraiA2,24
 
 ;「クソ親父のヒゲなぞ、芝刈り機でちょうどいいだろと思いたいとこだが、まぁ、今日は特別だ。@たまには勤労を感謝して、いっちょ、まともなものを買ってやるぜ。」\
-`"Embora eu ache que um cortador de grama seria muito melhor pra barba daquele velho desgraﾆado.... bem, hoje ｪ um dia especial.`@` De vez em quanto eu posso mostrar um pouco de gratidﾃo pelo trabaho dele e comprar alguma coisa." `\
+`"Embora eu ache que um cortador de grama seria muito melhor pra barba daquele velho desgraﾆado.... bem, hoje ｪ um dia especial.`@` De vez em quando eu posso mostrar um pouco de gratidﾃo pelo trabaho dele e comprar alguma coisa." `\
 ;＜戦人
 
 cl c,0
@@ -12311,7 +12309,7 @@ bg black,5
 bg "bmp\background\sbook\Shop_1a.bmp",22
 
 ;　これで、戦人も朱志香も、無事にお父さんへの日頃の感謝のプレゼントを手に入れることが出来た。@
-`Assim, Battler e Jessica conseguiram adquiir presentes de gratidﾃo para seus pais sem maiores problemas. `\
+`Assim, Battler e Jessica conseguiram adquirir presentes de gratidﾃo para seus pais sem maiores problemas. `\
 br
 ;　二人はくすぐったそうに照れ合うが、たまにはこういう買い物もいいかなと、微笑んでいた……。\
 `Os dois riram, um pouco envergonhados, e sorriram, pensando em que sair para fazer compras assim nﾃo ｪ tﾃo ruim...... `\
@@ -12333,7 +12331,7 @@ BGM1 70
 ld c,BEA_FukigenA2,22
 
 ;「お師匠様よー。@その話、まさかそれで、それぞれが親に渡して、ニコニコ笑顔でめでたしめでたしで終わるんじゃねぇよなー？」\
-`"Professoraaa!`@` Nﾃo me diga que a histｫria vai acabar com cada um entregando seus presentes e terminando num final feliz com todos sorrindo, nｪ?" `\
+`"Professoraaa!`@` Nﾃo me diga que a histｫria vai acabar com cada um entregando seus presentes e terminando num final feliz com todos sorrindo, vai?" `\
 ;＜ベアト
 
 ld r,WAL_KomaruA2,24
@@ -12376,7 +12374,7 @@ ld l,WAL_IkariA2,23
 ;＜ワルギリア
 
 ;　ワルギリアは、良い話を聞かせているはずだった。@
-`Virgilia deveria contar uma boa histｫria. `@
+`VIRGILIA deveria contar uma boa histｫria. `@
 br
 
 ld r,BEA_AkuwaraiA3,24
@@ -12397,7 +12395,7 @@ se1 4
 ld r,BEA_AkuwaraiA5,80
 
 ;!s0面白くない！（キリ！）@!sd　妾のゲームを見てきて目の肥えた観劇の魔女諸賢は、ここで妾が登場して、ひと混ぜしてくれることを期待しているわ。@なぁ、マリア？@　なぁ、ロノウェ？」\
-!s0`Nﾃo ｪ divertido! (Grrr!) `@!sd` As Bruxas do Teatro que estﾃo de olho nos meus jogos esperam que eu faﾆa minha apariﾆﾃo para animar as coisas1`@` Ei, MARIA?`@` Nｪ, Ronove?" `\
+!s0`Nﾃo ｪ divertido! (Grrr!) `@!sd`As Bruxas do Teatro que estﾃo de olho nos meus jogos esperam que eu faﾆa minha apariﾆﾃo para animar as coisas!`@` Ei, MARIA?`@` Nｪ, Ronove?" `\
 ;＜ベアト
 
 bg rose_3cp,0
@@ -12456,7 +12454,7 @@ mld c,BEA_AkuwaraiA4,80
 `"Fuffuffuffuffu!`@` Consegui a permissﾃo da professora! `@/
 
 ;　それでは弄るぞ、この物語、このゲーム盤！@　なぁに、大きく掻き乱しはせぬ。@ほんのちょっぴり、微笑ましい変化を加えるだけよ。」\
-`Pois bem, vamos comeﾆar a brincar com esta histｫria, com este tabuleiro!`@` Nﾃo se preocupe, nﾃo vou perturar muito.`@` Sｫ farei uma leve e agradｧvel alteraﾆﾃozinha." `\
+`Pois bem, vamos comeﾆar a brincar com esta histｫria, com este tabuleiro!`@` Nﾃo se preocupe, nﾃo vou perturbar muito.`@` Sｫ farei uma leve e agradｧvel alteraﾆﾃozinha." `\
 ;＜ベアト
 
 ld r,WAL_KomaruA1,24
@@ -12493,7 +12491,7 @@ ld c,WAL_KomaruA2,23
 ld c,WAL_OdorokiA1,80
 
 ;「そ、そのッ、……こ、子供にはちょっと早い、夜のお道具とかです…！！@/
-``"B-Bem, ......P-Por exemplo, ainda ｪ muito cedo para mostrar utensｨlios noturnos para as crianﾆas...! `@/
+``"B-Bem, ......p-por exemplo, ainda ｪ muito cedo para mostrar utensｨlios noturnos para as crianﾆas...! `@/
 
 ;　この作品は全年齢なんですよ？！/
 `Esta obra ｪ para todas as idades, sabia?! `/
@@ -12556,7 +12554,7 @@ br
 ;　間違った人間に届けば、少々の混乱はあるだろうが、それはそれで微笑ましい、休日のちょっとしたハプニングで済むはずだ…。\
 `Quando entregarem para a pessoa errada, vai acontecer uma pequena confusﾃo, mas nﾃo passarｧ de um charmoso acontecimento em um feriado... `\
 ;　ワルギリアは、それ以上のイタズラは本当にしないんでしょうねと重ねて念を押し、@それにベアトが頷き返したので、物語のゲーム盤を譲ることにした……。@
-`Virgilia insistiu para confirmar que ela nﾃo faria nada mais alｪm disso e, quando Beato assentiu para ela, o tabuleiro da histｫria foi passado para ela...... `\
+`VIRGILIA insistiu para confirmar que ela nﾃo faria nada mais alｪm disso e, quando Beato assentiu para ela, o tabuleiro da histｫria foi passado para ela...... `\
 
 ;　真里亞は、わくわくしながら、続きをせがむ。\
 `Maria prontamente importunou para que ela continuasse a histｫria. `\
@@ -12567,7 +12565,7 @@ ld c,BEA_AkuwaraiA1,22
 ld c,BEA_AkuwaraiA3,80
 
 ;「それでは、黄金の魔女、ベアトリーチェによる、勤労感謝の日の物語。@後編スタートぉ！」\
-`"Muito bem, esta ｪ a histｫria do Dia de Graﾆas ao Trabalho, de acordo com a Bruxa Dourada BEATRICE.`@` Vamos dar inｨcio ﾚ conclusﾃo!"`\
+`"Muito bem, esta ｪ a histｫria do Dia de Graﾆas ao Trabalho, de acordo com a Bruxa Dourada BEATRICE.`@` Vamos dar inｨcio a conclusﾃo!"`\
 ;＜ベアト
 
 textoff
@@ -12770,7 +12768,7 @@ bg M2F_P1aN,64
 `Por isso, tanto para ela quanto para Krauss, era um presente muito repentino. `\
 
 ;　きっと驚いてくれるだろうと思う反面、なぜ今回に限ってプレゼントを、と考えると、@如何にもギターをおねだりしたくてゴマを擦っているのが見え見えで、恥ずかし過ぎる…。\
-`Parte dela pensou que ele ficaria surpreso, mas quando pensou que sｫ estava dando um presente este ano,`@` seu objetivo de bajulaﾆﾃo para ganhar uma guitarra comoﾆou a parecer mais distante e embaraﾆoso... `\
+`Parte dela pensou que ele ficaria surpreso, mas quando pensou que sｫ estava dando um presente este ano,`@` seu objetivo de bajulaﾆﾃo para ganhar uma guitarra comeﾆou a parecer mais distante e embaraﾆoso... `\
 ;　だから、書斎の前にこっそり置くくらいで、丁度いいと思っていた。\
 `Por isso, ela pensou que seria perfeito deixｧ-lo na frente do escritｫrio.  `\
 
@@ -12784,7 +12782,7 @@ ld r,JES_NayamuA1,24
 ;＜朱志香
 
 ;　朱志香は客間でテレビを見ていたが、それも上の空。@
-`Jessica estava assistindo televisﾃo na sala de visistas, mas sua mente estava viajando.  `@
+`Jessica estava assistindo televisﾃo na sala de visitas, mas sua mente estava viajando.  `@
 br
 ;　颯爽と羽織って降りてきてくれないかなとそわそわしていた。\
 `Ela estava nervosa, pensando se ele jｧ desceria imediatamente vestindo o presente dela. `\
@@ -12813,11 +12811,11 @@ ld r,JES_AisoWaraiA1,24
 ld l,NAT_WaraiA1,80
 
 ;「さっき上がりましたが、もうじき下りて来ると思いますよ。@……朱志香が買って来てくれた紅茶を、さっそくいただきましょう。」\
-`"Ele subiu faz um tempo, entﾃo acredito que deva descler logo.`@` ......Que tal aproveitarmos o chｧ que vocｹ comprou, Jessica?" `\
+`"Ele subiu faz um tempo, entﾃo acredito que deva descer logo.`@` ......Que tal aproveitarmos o chｧ que vocｹ comprou, Jessica?" `\
 ;＜夏妃
 
 ;　紅茶の道具を載せた配膳台車を、夏妃自らが押しながら、客間にやって来た。\
-`Natsuhi entrou na sala de visistas, empurrando um carrinho de serviﾆo e preparou tudo. `\
+`Natsuhi entrou na sala de visitas empurrando um carrinho de serviﾆo e preparou tudo. `\
 
 ;　紅茶の淹れ方を厳しく指導されている使用人たちに比べると、夏妃のそれは、少々濃い。@……茶葉によっては、少しエグくしてしまう。@
 `Comparado ao chｧ que ela instruia os serviﾆais a servirem, o de Natsuhi era um pouco forte.`@` ......As folhas de chｧ deixavam um sabor mordaz. `\
@@ -12937,7 +12935,7 @@ ld l,KLA_AkuwaraiA2,23
 ld r,JES_AtyaA2,80
 
 ;「……だから何だよ。@運動不足じゃねーの？」@
-`"......E daｨ?`@` Nﾃo ｪ porque nﾃo faz exercｨcio?" `\
+`"......E daｨ?`@` Nﾃo ｪ por que nﾃo faz exercｨcio?" `\
 ;＜朱志香
 
 ld l,KLA_NayamuA2,80
@@ -12972,7 +12970,7 @@ SE1 15
 bg black,63
 
 ;　朱志香はプンプンしながら客間を出て行く。\
-`Jessica esbravejou e deixou a sala de visistas. `\
+`Jessica esbravejou e deixou a sala de visitas. `\
 
 bg M1F_S1aN,0
 ld c,KLA_NayamuA3,23
@@ -13014,7 +13012,7 @@ ld l,NAT_TukareA2,80
 bg black,26
 
 ;　蔵臼ががっくりと肩を落としながら見せるそれは、……真里亞が楼座に贈るはずだった、肩叩き券。\
-`Aquilo que Kruass mostrou a ela, com seus ombros baixos e desapontados, ......era o cupom de massagem que Maria pretendia dar ﾚ Rosa. `\
+`Aquilo que Krauss mostrou a ela, com seus ombros baixos e desapontados, ......era o cupom de massagem que Maria pretendia dar ﾚ Rosa. `\
 
 bg Different_spiral_1a,22
 
@@ -13049,14 +13047,14 @@ ld r,KIR_WaraiA1,6
 `De forma astuta, Battler foi falar com Kyrie, e propﾛs que eles dessem um presente em conjunto.`@` Assim, ele conseguiu fazer com que ela dividisse metade do valor.`\
 
 ;　しかし、不幸なことに、@ここ数日、留弗夫は外国の客人との重要なミーティングが重なっており、会社に泊まり込んでいた。\
-`Mas, infelizmente,`@` Rudolf tinha um importante encontro marcado com um convidado estrangeiro nos prｫximos dias e estavam passando as noites no trabalho.`\
+`Mas, infelizmente,`@` Rudolf tinha um importante encontro marcado com um convidado estrangeiro nos prｫximos dias e estava passando as noites no trabalho.`\
 
 bg black,22
 
 ;　プレゼントはタイミングが大事。@
-` ｴ importante considerar o momento em que o presente ｪ entregue. `@
+`ｴ importante considerar o momento em que o presente ｪ entregue. `@
 ;　なので霧江は、留弗夫に渡してもらうように会社の秘書に頼んでおくのだった。\
-`Sendo assim, Kyrie incubiu uma das secretｧrias da empressa para entregｧ-lo a Rudolf. `\
+`Sendo assim, Kyrie incumbiu uma das secretｧrias da empresa para entregｧ-lo a Rudolf. `\
 bg G1F_R1AN,5
 
 ;　そのお陰で、当日、留弗夫の社長席の上には、霧江＆戦人よりとメッセージカードの入ったプレゼントボックスが置かれていた。\
@@ -13120,7 +13118,7 @@ bgm1 3
 se2 4
 
 ;明日会えるって言ったろ？@　ここへはあまり電話するなって言ったぜ。@……はっはは、馬鹿だな、今夜はよく寝ておけって。@明日の夜は寝られるとは限らねぇぞ？」\
-`Eu disse que nos verｨamos amanhﾆa, nﾃo?`@` Jｧ disse para nﾃo ligar muito pra cｧ.`\` ......Hahaha, que bobinha, estou dizendo para dormir bem esta noite.`@` Nﾃo vai conseguir dormir direito amanhﾃ, sabia?" `\
+`Eu disse que nos verｨamos amanhﾃ, nﾃo?`@` Jｧ disse para nﾃo ligar muito pra cｧ.`\` ......Hahaha, que bobinha, estou dizendo para dormir bem esta noite.`@` Nﾃo vai conseguir dormir direito amanhﾃ, sabia?" `\
 ;＜留弗夫
 
 bg G1F_R1aN,0
@@ -13149,7 +13147,7 @@ bg black,29
 bg off_1a,26
 
 ;「へっへっへ。@本気になったら負けだぜぇ？@　お互い承知の関係だろ？@　そうさ、そういうストイックなところが、俺は気に入ってるんだぜ…。@……先日プレゼントしたヤツ、ちゃんと身に付けて来いよ。@楽しみにしてるからな。」\
-`"Hehehe.`@` Se ficar sｪrio, vocｹ perde.`@` ｴ uma realaﾆﾃo que ambos aceitamos, lembra?`@` Sim, eu gosto dessa coisa mais estｫica...`@` ......Irei vestindo o presente que vocｹ me deu outro dia.`@` Espere ansioso por mim." `\
+`"Hehehe.`@` Se ficar sｪrio, vocｹ perde.`@` ｴ uma realaﾆﾃo que ambos aceitamos, lembra?`@` Sim, eu gosto dessa coisa mais estoica...`@` ......Irei vestindo o presente que vocｹ me deu outro dia.`@` Espere ansioso por mim." `\
 ;＜留弗夫
 
 ;『うふ～ん、もちろんよ～。@明日一晩は、奥さんのことなんか忘れさせちゃうんだから～ン☆』\
@@ -13197,7 +13195,7 @@ ME1v 18,40
 ;!d1000………包丁……？@
 
 !s0`Eh?`/
-!d900`......Ah...`/
+!d900` ......Ah...`/
 !d600`......uma...`/
 !d1000`.........faca de cozinha......?`@
 
@@ -13341,7 +13339,7 @@ bg "bmp\background\sbook\Ke_s2.jpg",24
 `Enquanto ouviam a conversa de Rosa, os designers da sua companhia comeﾆaram a sussurar entre si. `\
 
 ;「社長、また家に帰らないとか言ってんの～…？」@
-`"A presedente continua dizendo que nﾃo vai pra casa...?" `@
+`"A presidente continua dizendo que nﾃo vai pra casa...?" `@
 ;「忙しくなんか全然ないのにねぇ。@たまには真面目に帰宅して、娘さん孝行すればいいのにねぇ。」\
 `"Ela nem tｧ ocupada!`@` Seria bom se ela mostrasse apreﾆo pela filha e voltasse para casa."`\
 ;「まぁた、新しい彼氏じゃないッスか～？@/
@@ -13376,7 +13374,7 @@ se3v 75,85
 ld l,ROS_IkariA2,63
 
 ;!s0「うるさいわよッ！！/
-!s0`"Queitas! `/
+!s0`"Quietas! `/
 
 se1 12
 se2 72
@@ -13439,7 +13437,7 @@ bg black,22
 bg off_1a,22
 
 ;　……はー。@私も自分が悪いママだと百も承知だわ。@
-`......Haah.`@` Eu tambｪm jｧ reconhecia diversas vezes que sou uma pｪssima mﾃe. `@
+`......Haah.`@` Eu tambｪm jｧ reconheci diversas vezes que sou uma pｪssima mﾃe. `@
 ;　娘を蔑ろにして、こんな秘密の交際をしているなんて…！@
 `Negligｹnciando minha filha e mantendo esse tipo relaﾆﾃo em segredo...! `\
 
@@ -13694,7 +13692,7 @@ bg rose_1ep,22
 `De repente, ela comeﾆou a sentir culpa por ter suspeitado que Beato tivesse deixado alguma piada guardada para o final... `\
 
 ;　ワルギリアは頭を下げ、感謝と謝罪を同時に示さなければならなかった。\
-`Virgilia curvou sua cabeﾆa, agradecendo e se desculpando simultaneamente. `\
+`VIRGILIA curvou sua cabeﾆa, agradecendo e se desculpando simultaneamente. `\
 
 bg rose_3cp,0
 ld r,WAL_MajimeA1,24
@@ -15540,7 +15538,7 @@ br
 bg Different_spiral_1b,28
 
 ;　期待は茶葉と同じようなものだとあの子は言ったわ。\
-`Aquela garota disse que as expectativas sﾃo como folhas do chｧ.`\
+`Aquela garota disse que as expectativas sﾃo como folhas de chｧ.`\
 ;　なければ紅茶にさえならない。@ただのお湯ね。@
 `Sem elas, vocｹ nﾃo pode preparar o chｧ preto.`@`Seria apenas ｧgua quente.`@
 br
@@ -15548,7 +15546,7 @@ br
 `ｴ por isso que, em qualquer tipo de mundo, ｪ necessｧrio uma quantidade prｫpria de expectativas, esperanﾆas e sonhos.`@` ......Um exemplo adequado para ela.`\
 
 ;　そして、茶葉が多すぎればとても飲めたものではなくなる。@それは多分、茶葉の一つまみも入れない、ただのお湯よりも飲めたものではない。\
-`E se houver folhas de chｧ em excesso, nﾃo vai ser algo que vocｹ possa, de alguma forma, beber.`@` Talvez, nﾃo seja mais tragｧvel do que a simples ｧgua quente, sem as folhas de chｧ dentro.`\
+`E se houver folhas de chｧ em excesso, nﾃo vai ser algo que vocｹ possa, de alguma forma, beber.`@` Talvez nﾃo seja mais tragｧvel do que a simples ｧgua quente, sem as folhas de chｧ dentro.`\
 
 ;　だから私は、あの子に教えられた程度に適量に、/
 `ｴ por isso que vou usar uma quantidade adequada, a quantidade que ela me ensinou,`/
@@ -15584,14 +15582,14 @@ br
 `'Um desejo para realizar qualquer coisa',`@` com apenas um, significa um milagre que lhe permite criar facilmente um universo.`\
 
 ;　はっきり言い切ろう。@
-`Eu vou colocar isso mais claramente.`@
+`Direi de forma mais clara.`@
 br
 ;　“何でも叶う願い”とは、@１つ２つと数えられるものである必要がないのだ。\
 `'Um desejo para realizar qualquer coisa'`@` nﾃo precisa ser algo que vocｹ possa contar como 1 ou 2.`\
 bg black,22
 
 ;　だから、それを個数で数えた時点で、@そのニンゲンが思い描く奇跡は、その程度の規模のものでしかない。\
-`Por isso, quando eles o contam em nｸmeros,`@` o milagre que o humano imagina nﾃo tem como fugir dessa escala.`\
+`Por isso, quando eles o contam em nｸmeros,`@` o milagre que os humanos imaginam nﾃo tem como fugir dessa escala.`\
 
 ;　そんな下らないニンゲンが、仮に１００に増やした願い事でどんなツマラナイことを願っていくのか、@観察するにも値しないだろう。\
 `Que tipo de coisas chatas eles vﾃo desejar, com seus desejos incrementados para 100?`@` Tais humanos indignos provavelmente nﾃo merecem minha atenﾆﾃo.`\
@@ -15609,7 +15607,7 @@ se2 52
 bg black,99,2000,"breakup.dll/llb"
 
 ;@と言い放って姿を消してしまうだけの話。\
-@`E dizendo isso, eu termino a conversa e desapareﾆo.`\
+@` E dizendo isso, eu termino a conversa e desapareﾆo.`\
 
 ;　彼らは残りの人生を、自分でも数え切れないくらいたくさんの願い事を考え続け、@そのひとつも叶えることなく死んでいけばいい。@……あぁ、マヌケ！\
 `Eles devem apenas continuar a pensar sobre a quantidade incontｧvel de desejos, pelo resto de suas vidas,`@` e morrer sem realizar mesmo um deles.`@` ......Aah, tolos!`\
@@ -15694,7 +15692,7 @@ wait 400
 se3 39
 
 ;　誰かに勝ちたい気持ちは、つまるところ、相手たる誰かの存在がないと自分を確立できないということ。@
-`A vontade de ganhar de alguｪm, em resumo, nﾃo pode se manter sem a existｹncia de alguｪm para servir de oposiﾆﾃo.`@
+`A vontade de ganhar de alguｪm, em resumo, nﾃo pode se manter sem a existｹncia de um adversｧrio para servir de oposiﾆﾃo.`@
 br
 ;　そんな程度のニンゲンじゃ、その誰かを負かした時点で、生きていく気力を失ってしまう。\
 `Os humanos de tal nｨvel acabarﾃo perdendo a forﾆa de vontade para continuar vivendo, uma vez que derrotem todos.`\
@@ -15734,7 +15732,7 @@ ld r,LAM_AkuwaraiA1,0
 mcbg 22
 
 ;「……はぁ？@　何それぇ？@　この私が願い事を叶えてあげるというのに、自分でそれを叶えるというの？@　その為の保証？@　わけわかんない。」\
-`" ......Hﾃ?`@` O que ｪ isso?`@` Mesmo que eu diga que vou conceder o seu desejo, estｧ dizendo vai realizｧ-lo sozinho?`@` Dar uma garantia?`@` Isso nﾃo faz sentido."`\
+`" ......Hﾃ?`@` O que ｪ isso?`@` Mesmo que eu diga que vou conceder o seu desejo, estｧ dizendo que vai realizｧ-lo sozinha?`@` Dar uma garantia?`@` Isso nﾃo faz sentido."`\
 ;　たまに、哲学的と称して、自分でも意味がわかってないに違いないおかしなことを言い出すニンゲンはいる。@
 `De vez em quando, hｧ humanos que propｷem coisas estranhas, que nem mesmo eles entendem o significado, fingindo serem muito filosｫficos.`@
 ;br
@@ -15766,13 +15764,13 @@ mcbg 22
 `"Vocｹ quer dizer que o nｸmero de sonhos que quer realizar ｪ muito, muito grande?`@` Que garota gananciosa, hein?"`\
 ;「違います。@私の至るべき到達点はたった１つです。@でも、そこへ至る道は複雑で、いくつもの峠を経るでしょう。@きっと、数え切れないくらいたくさん。@でも、私はたった１つの到達点を誤ることなく目指し、必ず必ず辿り着いてみせるでしょう。」\
 se1 3004
-`"Nﾃo ｪ isso.`@
+`"Nﾃo ｪ isso. `@
 se1 3005
-` O ponto em que devo alcanﾆar ｪ apenas um.`@
+`O ponto em que devo alcanﾆar ｪ apenas um. `@
 se1 3006
-` Mas o caminho para chegar atｪ ele ｪ complicado, e hｧ muitas dificuldades que precisam ser superadas.`@
+`Mas o caminho para chegar atｪ ele ｪ complicado, e hｧ muitas dificuldades que precisam ser superadas. `@
 se1 3007
-` Tenho certeza que sﾃo tantas que sequer ｪ possｨvel contｧ-las.`\
+`Tenho certeza que sﾃo tantas que sequer ｪ possｨvel contｧ-las.`\
 se1 3008
 `Mas acredito que sou capaz de almejar esse ｸnico ponto de chegada, sem cometer erros e, definitivamente, definitivamente, chegar atｪ lｧ."`\
 
@@ -15900,7 +15898,7 @@ bg Different_spiral_1a,22
 bg black,28
 
 ;　しかし踏み外せば。@……底無き奈落への永遠の墜落。\
-`Entretanto, se seu pｪ escorregar, `@`......vocｹ cairｧ eternamente em direﾆﾃo ao Abismo sem fundo.`\
+`Entretanto, se o seu pｪ escorregar, `@`......vocｹ cairｧ eternamente em direﾆﾃo ao Abismo sem fundo.`\
 
 ;　彼女はその意味において、きっと慎重だったに違いない。@
 `Nesse sentido, ela certamente foi prudente.`@
@@ -15916,7 +15914,7 @@ bg Different_space_1b,2
 `Acredito que aquela garota fez o seu melhor.`@
 ;br
 ;　ただ、私も少し買いかぶっていたところがあったかもしれない。@残念ながら、私の期待した世界へは遥かに及ばなかった。\
-`Mas, talvez eu tenha superestimado ela um pouco em alguns aspectos.`@` 
+`Mas talvez eu tenha superestimado ela um pouco em alguns aspectos.`@` 
 Infelizmente, ela estava longe de alcanﾆar o mundo que eu esperava.`\
 
 ;　でも、それでもいいの。@
@@ -15941,9 +15939,9 @@ bg Different_space_2b,99,1000,"breakup.dll/lrb"
 `E assim, durante um longo perｨodo, eu vaguei por inｸmeros mundos.`@
 ;br
 ;　時折、面白そうなニンゲンを見つけては同じ問いを投げかけたわ。@
-`Algumas vezes, ao encontrar um humano aparentemente interessante, lhes lancei a mesma pergunta.`@
+`Algumas vezes, ao encontrar humanos aparentemente interessantes, lhes lancei a mesma pergunta.`@
 ;　でも、あの子を超える願いを口に出来るニンゲンとは、二度と出会えなかった。\
-`Mas nunca mais me deparei com um humano capaz de fazer um desejo que superasse o daquela garota.`\
+`Mas nunca mais me deparei com um capaz de fazer um desejo que superasse o daquela garota.`\
 se1 52
 bg white,28
 bg black,22
@@ -15979,7 +15977,7 @@ ld l,LAM_AkuwaraiA4,0
 mcbg 22
 
 ;「……魔女に。@へぇ。@…箒に跨って空を飛びたいの？@/
-`"......Em uma bruxa.`@` ｴ?`@` ...Vocｹ quer voar pelos cｪus em uma vassoura?`@/
+`"......Em uma bruxa,`@` ｪ?`@` ...Vocｹ quer voar pelos cｪus em uma vassoura?`@/
 ld l,LAM_AkuwaraiA1,80
 
 ;　それともポケットに入れたビスケットを２つに増やしてみたいのかしら？」\
@@ -15988,7 +15986,7 @@ bg dor_R1aR,24
 
 ;「魔女はそんなことが出来て当たり前です。@……自分は魔女になって、全てを思うがままに生み出します。@人も、心も、何もかも。@そして今や、自分に出来ないことはありません。@…自分はもう、魔女だからです。」\
 
-`"ｴ ｫbvio que uma bruxa pode fazer coisas assim.`@` ......Me transformando em uma bruxa, eu atuo sobre todas as coisas que eu desejo.`@` Pessoas, coraﾆｷes, qualquer coisa.`@` E agora, nﾃo hｧ nada que eu nﾃo possa fazer.`@` ...Porque eu jｧ sou uma bruxa."`\
+`"ｴ ｫbvio que uma bruxa pode fazer coisas assim.`@` ......Me transformando em uma bruxa, eu atuo sobre todas as coisas que desejo.`@` Pessoas, coraﾆｷes, qualquer coisa.`@` E agora, nﾃo hｧ nada que eu nﾃo possa fazer.`@` ...Porque eu jｧ sou uma bruxa."`\
 ;　その子の瞳には、あの懐かしい少女が浮かべていたのと同じ輝きがあったのを、私は覚えてる。@
 `Eu me lembro que os olhos daquela crianﾆa tinham um brilho semelhante ao brilho que o olhar daquela garotinha, da qual eu sentia falta, costumava ter.`\
 ;br
@@ -16035,7 +16033,7 @@ ld r,LAM_FutekiA2,80
 `......Mas, me diga. `@
 `Um deus e o Criador ainda sﾃo um deus e o Criador, mesmo que ninguｪm os reconheﾆa, nﾃo ｪ mesmo? `@
 `E o mesmo deveria valer para as bruxas. `\
-`...Se vocｹ ｪ uma bruxa sem ninguｪm reconhecｹ-la como tal, vocｹ deve ser uma bruxa mesmo se eu nﾃo te reconhecer. `@`Certo?"`\
+`...Se vocｹ ｪ uma bruxa sem ninguｪm reconhecｹ-la como tal, vocｹ deve ser uma bruxa mesmo que eu nﾃo te reconheﾆa. `@`Certo?"`\
 
 ;「はい。@自分がニンゲンの領域を超えかけていることは理解できています。@自分から観測して、全てのニンゲンたちの最上位にいると断言できるからです。@しかし、自分の今いる位置が、ニンゲンの域を超えていることを観測するには、私よりも上位にいる存在の観測が必要です。」\
 `"Sim.`@` Eu compreendo que comecei a transcender o territｫrio humano. `\
@@ -16050,7 +16048,7 @@ bg Different_spiral_1a,28
 `"Sim.`@` Estou consciente de que transcendi o mundo humano e alcancei o mundo das bruxas.`@` Eu gostaria que vocｹ reconhecesse que eu o alcancei, do ponto de vista de uma bruxa."`\
 
 ;「……魔女は、魔女になるのにも魔女の推薦がいると？@　面白いけど、じゃあ、世界で最初の魔女は誰が認めて成ったというのかしら？」@
-`"......Vocｹ quer dizer que uma bruxa precisa da recomendaﾆﾃo de uma bruxa para ser uma bruxa?`@` Interessante mas, entﾃo, eu me pergunto quem reconheceu a primeira bruxa no mundo?" `\
+`"......Vocｹ quer dizer que uma bruxa precisa da recomendaﾆﾃo de uma bruxa para ser uma bruxa?`@` Interessante, mas entﾃo eu me pergunto, quem reconheceu a primeira bruxa no mundo?" `\
 ;「ニンゲンたちが、自分たちの域を超えた存在を、魔女だと呼んで称えたのでしょう。」\
 `"Os humanos provavelmente reconheceram uma existｹncia que transcendeu o nｨvel deles, e assim passaram a louvｧ-la e chamｧ-la de bruxa."`\
 bg black,22
@@ -16061,7 +16059,7 @@ ld l,LAM_AkuwaraiA1,80
 ;「なら、私が認めなくても、あなたはすでに魔女だということになるわね。」@
 `"Entﾃo, mesmo se eu nﾃo te reconhecer, significa que vocｹ jｧ ｪ uma bruxa." `\
 ;「はい。@だから私はもう、魔女です。@……だからこそ。@私が願うものはそれ。@私が魔女であると、私より上位の存在から認められたいのです。」\
-`"Sim.`@` ｴ por isso, porque eu jｧ sou uma bruxa.`@` ......Por essa mesma razﾃo.`@` O que eu desejo ｪ isto:`@` eu quero ser reconhecida como uma bruxa por um ser que estｧ em uma posiﾆﾃo mais alta do que a minha."`\
+`"Sim.`@` ｴ por isso, porque eu jｧ sou uma bruxa.`@` ......Por essa mesma razﾃo.`@` O que eu desejo ｪ isto:`@` eu quero que me reconheﾆam como uma bruxa por um ser que estｧ em uma posiﾆﾃo mais alta do que a minha."`\
 ld l,LAM_AkuwaraiA3,80
 
 ;「……小難しい屁理屈で誤魔化されてる気がするわぁ。@嫌だと言ったら？」@
@@ -16094,7 +16092,7 @@ bg Different_space_2d,22
 `Certamente, esta crianﾆa ainda ｪ desajeitada.`@` Seu mundo mｧgico ainda estｧ a meio caminho de sua formaﾆﾃo.`@
 ;br
 ;　しかし、その生成に至る組成式は、完璧かつ無限の可能性を備えている。\
-`No entanto, a fｫrmula de composiﾆﾃo para alcanﾆar essa formaﾆﾃo estｧ dotada de possibilidades infinitas e sem falhas.`\
+`No entanto, a fｫrmula de composiﾆﾃo para alcanﾆar essa formaﾆﾃo estｧ dotada de possibilidades infinitas e infalｨveis.`\
 
 ;　その無限を使いこなすには、まだまだ長い時間を掛けるだろうが、@すでにその扉を開き、その向こうに至っていることに疑いの余地はなかった。\
 `Provavelmente ainda vai levar muito tempo para ela ser capaz de lidar com esse infinito, mas`@` nﾃo havia espaﾆo para duvidar de que ela jｧ havia aberto a porta, e estava chegando ao outro lado.`\
@@ -16127,12 +16125,12 @@ ld r,LAM_WaraiA1,80
 `Nﾃo, ......longe disso, sua fｫrmula de composiﾆﾃo ｪ muito profunda.`\
 ;br
 ;　私が深遠の井戸の梯子を、一段一段、千年掛けて降りてきた深みを、@まるでパラソルを開いて落下傘のようにして舞い降りてくるように、…あっさりと…！\
-`ｴ como se ela tivesse voado pelas profundezas, aberto um guarda-sol e usado-o como um paraquedas,`@` ﾚs profundezas que eu tenho descido ao longo de mil anos, passo a passo, atravｪs da escada do poﾆo de ｧguas profundas, ...e rapidamente...!`\
+`ｴ como se ela tivesse usado um guarda-sol e usado-o como um paraquedas para descer atｪ o fundo,`@` atｪ as profundezas que eu tenho descido ao longo de mil anos, passo a passo, atravｪs da escada do poﾆo de ｧguas profundas, ...com muito mais facilidade...!`\
 ;br
 ;　……もちろん、そのパラソルが破れて、そのまま奈落に墜落していくかもしれない危うさも持っている。@
 `......Naturalmente, hｧ o perigo de que esse guarda-sol possa quebrar e ela simplesmente acabe caindo no Abismo.`\
 ;　その命知らずさに、…私は若さゆえの無謀と、ニンゲンのくせにという蔑み、@……そして、この魔女がどこまで至るのかという関心と、@私が未だ知らない世界を照らし出し、まったく味わったことのない紅茶を香らせてくれたことへの敬意を感じたのだ。\
-`Por causa dessa imprudｹncia, ...com a impulsividade da juventude, o desprezo pelas coisas humanas,`@` ......e interessada em saber o quﾃo longe essa bruxa iria,`@` comecei iluminar um mundo ainda oculto para mim, me sentindo honrada por ter um chｧ preto cujo doce aroma eu ainda nﾃo havia sentido.`\
+`Por causa dessa imprudｹncia, ...com a impulsividade da juventude, o desprezo pelas coisas humanas,`@` ......e interesse em saber o quﾃo longe essa bruxa iria,`@` comecei iluminar um mundo ainda oculto para mim, me sentindo honrada por ter um chｧ preto cujo doce aroma eu ainda nﾃo havia sentido.`\
 bg Different_spiral_1a,28
 
 
@@ -16148,7 +16146,7 @@ bg cit_2b,26
 `Os que sﾃo governados pelo destino sﾃo os humanos.`@` Tolos, impotentes, nﾃo podem criar nada.`@
 ;br
 ;　……しかし、足の下には踏みしめる大地がある。@そしてその大地は決して裏切らず、生涯、奈落への墜落の恐怖に怯えることなく暮らすことが出来る。\
-`......No entanto, eles tｹm um terreno firme debaixo dos seus pｪs.`@` E essa terra nunca vai traｨ-los, assim, eles podem viver toda a sua existｹncia sem o medo do terror de cair no Abismo. `\
+`......No entanto, eles tｹm um terreno firme debaixo de seus pｪs.`@` E essa terra nunca vai traｨ-los, assim, eles podem viver toda a sua existｹncia sem o medo do terror de cair no Abismo. `\
 bg black,22
 bg Different_space_2a,22
 
@@ -16217,7 +16215,7 @@ se1v 54,70
 
 ;私の名において、あなたを魔女だと認めてあげる。@我が名、絶対の魔女ラムダデルタの名において！/
 `Sob meu nome, eu a reconheﾆo como uma bruxa. `@
-`Meu nome ｪ LAMBDADELTA, a Bruxa da Certeza! `\
+`Meu nome ｪ LAMBDADELTA, a Bruxa da Certeza e Absoluto! `\
 se2 57
 mbg white,1
 mcbg 2
@@ -16385,7 +16383,7 @@ br
 bg black,22
 
 ;　腕もプライドも人一倍の料理人にとって、尊敬できるのは自分より優れた料理人だけだ。@だから、どんな石頭も生意気も若造も、総料理長が睨みを利かせている限り、一丸となって仕事をした。@
-`Para um cozinheiro, com habilidades e orgulho acima dos outros, a ｸnica pessoa que ele ｪ capaz de respeitar ｪ outro cozinheiro que supere suas prｫprias habilidades.`@` ｴ por isso que, desde que o chef principal mantivesse sua autoridade, nﾃo importa o quﾃo inflexｨvel ele fosse, ou o quﾃo impertinentes e jovens nｫs fﾛssemos, todos fazｨamos nosso trabalho como uma unidade. `@
+`Para um cozinheiro com habilidades e orgulho acima dos outros, a ｸnica pessoa que ele ｪ capaz de respeitar ｪ outro cozinheiro que supere suas prｫprias habilidades.`@` ｴ por isso que, desde que o chef principal mantivesse sua autoridade, nﾃo importa o quﾃo inflexｨvel ele fosse, ou o quﾃo impertinentes e jovens nｫs fﾛssemos, todos fazｨamos nosso trabalho como uma unidade. `@
 br
 ;　だから、その総料理長が突然引退すれば、これは必然の結果だったのかもしれない。\
 `Por isso, talvez essa tenha sido uma consequｹncia inevitｧvel quando o chef principal decidiu se aposentar de repente.`\
@@ -16436,7 +16434,7 @@ bg res_i4a,0
 ld c,GOH_hohoemiA2,2
 
 ;　俺は当時、腕もプライドも誰にも負けない、若手の筆頭格だった。@……今にして思えば、料理人であると同時に、ホテルの従業員でもあるという自覚には、欠けていたかもしれない。\
-`Nessa ｪpoca, eu era o mais jovem, mas nﾃo perdia para ninguｪm em termos de habilidade ou orgulho.`@` ......Pensando nisso agora, talvez me faltasse um pouco de auto-consciｹncia. Ao mesmo tempo que eu era um cozinheiro, eu tambｪm era empregado do hotel. `\
+`Nessa ｪpoca, eu era o mais jovem, mas nﾃo perdia para ninguｪm em termos de habilidade ou orgulho.`@` ......Pensando nisso agora, talvez me faltasse um pouco de autoconsciｹncia. Ao mesmo tempo que eu era um cozinheiro, eu tambｪm era empregado do hotel. `\
 ;　補佐は元々、その乱暴なやり方に、初めから乗り気ではなかったらしい。@もっともそれは後になってわかることだが。@当時の若手の俺たちは、いよいよ補佐も反旗を翻し、あのクソムカつく二代目に一泡吹かせてやれると意気込んだものだ。\
 `Desde o inｨcio, os assistentes nﾃo pareciam interessados nesses mｪtodos imprudentes.`@` Eu sｫ notaria isso mais tarde.`@` Afinal, sendo jovens na ｪpoca, estｧvamos entusiasmados por finalmente nos revoltarmos, com os assistentes tambｪm, e darmos um grande susto no irritante novo chef. `\
 bg black,22
@@ -16560,7 +16558,7 @@ ld c,NAT_DefA1,24
 
 ;　だから後に、夏妃奥様の鶴の一声で俺に採用が決まったと知った時、@後光が差して見えたものだ。\
 ; reescrever
-`Mais tarde, fui informado mais tarde que a madame Natsuhi daria a palavra final sobre quem ficaria com o emprego.`@` Eu pude ver uma aurｪola brilhando sobre ela. `\
+`Mais tarde, fui informado que a madame Natsuhi daria a palavra final sobre quem ficaria com o emprego.`@` Eu pude ver uma aurｪola brilhando sobre ela. `\
 bg black,22
 bg white,2
 bg sky_1a,22
@@ -16604,7 +16602,7 @@ bg black,22
 `Mesmo assim, esta ｪ diferente.`@` A maioria das histｫrias sobrenaturais japonesas sﾃo sobre fantasmas ou youkais.`@` Esta ｪ sobre BEATRICE, a Bruxa Dourada, entﾃo...... ela me dｧ uma sensaﾆﾃo bastante desconfortｧvel. `\
 bg M_o1b,26
 ;　しかし、この時代錯誤さえ感じさせる右代宮家のお屋敷においては、三角巾を頭に巻いたお岩さんみたいな幽霊が出てきても、むしろ失笑してしまうだけだったろう。@このお屋敷に相応しい怪談だったのかもしれない。\
-`Entretanto, esta mansﾃo familiar em Rokkenjima transmite uma sensaﾆﾃo de anacronismo. Por isso, mesmo se um fantasma como Oiwa-san fosse aparecer, com uma faixa triangular envolvendo sua cabeﾆa, vocｹ provavelmente apenar riria dela.`@` Talvez as histｫrias de fantasmas combinem com esta mansﾃo, afinal de contas. `\
+`Entretanto, esta mansﾃo familiar em Rokkenjima transmite uma sensaﾆﾃo de anacronismo. Por isso, mesmo se um fantasma como Oiwa-san fosse aparecer, com uma faixa triangular envolvendo sua cabeﾆa, vocｹ provavelmente apenas riria dela.`@` Talvez as histｫrias de fantasmas combinem com esta mansﾃo, afinal de contas. `\
 
 bg M_o1bN,0
 print 10,3000
@@ -16650,7 +16648,7 @@ ld l,KAN_DefA1,0
 ld c,KUM_DefA1,0
 ld r,GEN_DefA1,22
 ;　少なくとも、ベアトリーチェを馬鹿にするような発言をすることは、現に慎むべきであるという強い空気があり、@たとえ茶飲み話であったとしても、軽々しいことは口に出来なかった。\
-`Hｧ uma forte clima no ar, dizendo para sermos realmente discretos para falar mal de BEATRICE-sama, fazendo pouco caso dela.`@` E, mesmo que estivｪssemos conversando durante o chｧ, nﾃo deverｨamos falar descuidadamente sobre ela. `\
+`Hｧ uma forte clima no ar, dizendo para sermos realmente discretos ao falar mal de BEATRICE-sama, fazendo pouco caso dela.`@` E, mesmo que estivｪssemos conversando durante o chｧ, nﾃo deverｨamos falar descuidadamente sobre ela. `\
 bg black,22
 
 ;　人間、面白いもので、そういう中にずっと身をおいていると、本当にそういう気持ちになってくる。@
@@ -16767,7 +16765,7 @@ bg rose_G1c,22
 `Eu queria conversar com alguｪm a respeito daquilo. `\
 bg rose_G1d,22
 ;　話してどうなるというものでもないのだが、誰かに話さなければ落ち着かなかったのだ。@
-`Eu nﾃo ligo para o que aconteceria se eu falasse com ele. Mas se eu nﾃo falasse sobre isso com alguｪm, eu nﾃo poderia me acalmado. `@
+`Eu nﾃo ligo para o que aconteceria se eu falasse com ele. Mas se eu nﾃo falasse sobre isso com alguｪm, eu nﾃo poderia me acalmar. `@
 ;　なるほど、王様の耳はロバの耳と、叫ばずにはいられなかった床屋の気持ちがよくわかる…。\
 `Certo, agora entendo bem os sentimentos do barbeiro que nﾃo podia deixar de gritar 'O rei tem orelhas de burro'.... `\
 bg black,22
@@ -17335,7 +17333,7 @@ bg butterfly_1a,24
 `Se nﾃo me engano, quando vocｹ vｹ uma borboleta dourada, ......vocｹ nﾃo deve ir atrｧs dela, certo......?'`\
 
 ;「うむ。@……そして後を振り返った時。@/
-`" Sim.`@` ......E quando ele se virou... `@/
+`"Sim.`@` ......E quando ela se virou... `@/
 
 
 bg butterfly_2a,3
@@ -17559,7 +17557,7 @@ bg Mkit_1a,26
 `Maior que uma banheira comum de uma casa, `@
 `......jｧ que ele deve servir para cozinhar carne humana, naturalmente.`\
 ;　何か物騒な料理が…？@　それとも悪趣味な拷問が……？@
-`ｴ um prato de cozimento mortal...?`@` Ou seria uma tortura de mau-gosto...?`@
+`ｴ um prato de cozimento mortal...?`@` Ou seria uma tortura de mau gosto...?`@
 ;br
 
 vsp bgsp2,0
@@ -17611,7 +17609,7 @@ ld c,RON_DefA1,23
 ld c,RON_WaraiA1,80
 
 ;「そして、その上に、様々な飾り付けをして貴女だけのオリジナリティを出して見ましょう。@私からは、基本中の基本ということでナッツ類をお奨めしておきましょう。@アーモンドにピスタチオにカシューナッツ。@くるみに葉茶も素敵です。@/
-`"A seguir, senhoritas, mostrem-me sua originalidade decorando como preferirem.`@` Eu meramente devo sugerir uma variedade nozes como base.`@` Amｹndoas, pistache, castanha de caju...`@` Noz de juglans e folhas de chｧ tambｪm sﾃo maravilhosas. `\
+`"A seguir, senhoritas, mostrem-me sua originalidade decorando como preferirem.`@` Eu meramente devo sugerir uma variedade de nozes como base.`@` Amｹndoas, pistache, castanha de caju...`@` Noz de juglans e folhas de chｧ tambｪm sﾃo maravilhosas. `\
 
 ;悪魔のスペシャルレシピとしましては、ダチュラの種にエンジェルトランペットの添え花付きで飾り立てるのもお奨め。@食べるとあら不思議、意中の彼の本当の想い人の名前が聞き出せてしまうかも？」\
 `A receita especial que os demﾛnios usam para decorar leva sementes de uma datura e flores de uma trombeta-de-anjo.`@` Quando ele comer, ｪ possｨvel que, de uma forma misteriosa, vocｹ descubra o nome da garota que ele gosta?"`\
@@ -17660,7 +17658,7 @@ ld r,RON_DefA2,80
 ld r,RON_WaraiA1,80
 
 ;「出てきて結構ですよ。@調理の間、気配を消してくださりありがとうございます。@その気遣いのご褒美に、皆さんにもお裾分けしてあげましょう。」\
-`"Vocｹs podem aparecer agora.`@` Obrigado por gentilmente permanecer invisｨveis enquanto eu os preparava.`@` Como um sinal de minha gratidﾃo, os compartilharei com todas vocｹs."`\
+`"Vocｹs podem aparecer agora.`@` Obrigado por gentilmente permanecerem invisｨveis enquanto eu os preparava.`@` Como um sinal de minha gratidﾃo, os compartilharei com todas vocｹs."`\
 ;＜ロノウェ
 
 bg Mkit_1c,24
@@ -17725,7 +17723,7 @@ bg Mkit_1a,23
 ld l,RON_WaraiA1,23
 
 ;「お待ちなさい、皆さん。@確かに私はチョコをお裾分けするとは申し上げましたが、食べて良いとは一言も申していませんよ。」@
-`"Nﾃo tﾃo depressa, garotas.`@` Eu disse que dividiria esses chocolates com vocｹs, mas nﾃo disse absolutamente nada sobre deixｧ-las comerem." `\
+`"Nﾃo tﾃo depressa, garotas.`@` Eu disse que dividiria estes chocolates com vocｹs, mas nﾃo disse absolutamente nada sobre deixｧ-las comerem." `\
 ;＜ロノウェ
 
 ld r,RG6_NakuA1,66
@@ -17784,7 +17782,7 @@ ld c,RG7_waraiA1,80
 ;＜アスモ
 ;br
 ;　色恋沙汰に一番興味津々のアスモデウスは、頬を紅潮させて、きゃっきゃと喜ぶ。\
-`Como o assuntos amorosos e lascivo eram o interesse nｸmero um de Asmodeus, suas bochechas ficaram vermelhas e ela continuou a gritar "kya, kya".`\ 
+`Como o assuntos amorosos e lascivos eram o interesse nｸmero um de Asmodeus, suas bochechas ficaram vermelhas e ela continuou a gritar "kya, kya".`\ 
 
 ld r,RON_WaraiA1,24
 
@@ -17792,7 +17790,7 @@ ld r,RON_WaraiA1,24
 `"Sim, sim.`@` Parece que a Asmo ｪ a mais entusiasmada.`@` Vamos parabenizｧ-la. `@/
 
 ;さ、皆さん、一つずつ。@異性に気なる人がいなければ、同性でも結構ですよ。@とにかく、絶対にひとりひとつを誰かに渡すように。@渡さなかったら………。」\
-`Agora, cada uma de vocｹs, uma por uma.`@` Se nﾃo houver ninguｪm do sexo oposto ou do mesmo sexo, que interesse a vocｹs, tudo bem.`@` Mesmo assim, entreguem para alguｪm.`@` Senﾃo..." `\
+`Agora, cada uma de vocｹs, uma por uma.`@` Se nﾃo houver ninguｪm do sexo oposto ou do mesmo sexo que interesse a vocｹs, tudo bem.`@` Mesmo assim, entreguem para alguｪm.`@` Senﾃo..." `\
 ;＜ロノウェ
 
 ld l,RG1_komaruA2,23
@@ -17891,7 +17889,7 @@ ld l,RG7_WaraiA2,80
 ;「いやぁだ、お姉様方ァ！@　新しい男性キャラは全部チェックしてなきゃ～。@/
 `"Vocｹs devem estar brincando!`@` ｴ claro que eu verifiquei todos os novos personagens masculinos~ `@/
 ;素敵じゃない、十三さま♪@　容姿もイケてるし、ストイックで野性味あるのに野暮ったくないしっ。@あぁん、私、一番乗り～！！」\
-`O Juuza-sama nﾃo ｪ maravilhoso♪`@` Ele ｪ estｫico e um pouco selvagem, mas nﾃo ｪ grosseiro, e tem um belo corpo tambｪm.`@` Aah, ele definitivamente ｪ o meu tipo~!!"`\
+`O Juuza-sama nﾃo ｪ maravilhoso♪`@` Ele ｪ estoico e um pouco selvagem, mas nﾃo ｪ grosseiro, e tem um belo corpo tambｪm.`@` Aah, ele definitivamente ｪ o meu tipo~!!"`\
 se1 52
 cl l,99,1000,"breakup.dll/llb"
 
@@ -17960,7 +17958,7 @@ ld l,AMA_DefA1,24
 `Amakusa nﾃo estava envergonhado, e recebeu os chocolates com um sorriso. `\
 ;br
 ;　…結構、もらいなれてる感じの仕草が、男心的にはムカつくが、女心的にはキョドったりされるよりずっとカッコイイ。\
-`...Aparentemente ele estava completamente acostumado com esse tipo de coisa, desagradｧvel para um coraﾆﾃo masculino, mas muito legal quando visto da perspectiva de uma mulher.`\
+`...Aparentemente, ele estava completamente acostumado com esse tipo de coisa, desagradｧvel para um coraﾆﾃo masculino, mas muito legal quando visto da perspectiva de uma mulher.`\
 
 ld l,AMA_AkuwaraiA1,80
 
@@ -18395,7 +18393,7 @@ quakey 2,400
 ld r,RG5_AkuwaraiA1,80
 
 ;「くす。@一個だけ摘み食いする？」@
-`"*risos*`@` Porque nﾃo come um pouco da sua parte agora?"`\
+`"*risos*`@` Por que nﾃo come um pouco da sua parte agora?"`\
 ;＜マモン
 
 
@@ -18612,7 +18610,7 @@ ld l,RG4_OdorokiA3,80
 ;!s0お、お前、肩が近い…、/
 !s0` E-Ei, vocｹ estｧ muito perto...`/
 ;!d800というか、煙草臭いっ…！」/
-!d800`Quero dizer, tｧ fedendo a cigarro...!"`/
+!d800` Quero dizer, tｧ fedendo a cigarro...!"`/
 !sd\
 ;＜ベルフェゴール
 
@@ -18809,7 +18807,7 @@ ld c,RG2_WaraiA1,23
 cl c,23
 
 ;　霧江は笑顔のまま、液体窒素のような冷気を漂わせながら、のっしのっしと歩き去っていく。@
-`Com um sorriso de gelo capaz de fazer nitrogｹnio lｨquido derrapar pelo ar, Kyrie comeﾆou a andar.`\
+`Com um sorriso de gelo, capaz de fazer nitrogｹnio lｨquido derrapar pelo ar, Kyrie comeﾆou a andar.`\
 
 textoff
 se1 60
@@ -18881,7 +18879,7 @@ bg garden_1a,0
 ld c,RG3_OdorokiA2,23
 
 ;「なッ、何で素直に受け取らないのよ！@　別に怪しいものなんか入ってないわよ、普通のチョコよッ、受け取りなさいよ！！」@
-`"P-Por que vocｹ nﾃo aceita isso de bom grado!`@` Nﾃo ｪ como se eu estivesse te dando algo estranho, ｪ um chocolate normal, simplesmente aceite!!" `\
+`"P-Por que vocｹ nﾃo aceita isso de bom grado?!`@` Nﾃo ｪ como se eu estivesse te dando algo estranho, ｪ um chocolate normal, simplesmente aceite!!" `\
 ;＜サタン
 
 cl c,0
@@ -18896,7 +18894,7 @@ ld l,KAN_KomaruA1,23
 ld r,RG3_OdorokiA1,80
 
 ;「それはその、……バレンタインデーとかいうヤツよっ。@そんなのどうでもいいでしょ？！@/
-`"Isso, isso ｪ... ｴ dia dos Namorados, idiota.`@` Nﾃo ｪ bom o bastante?! `\
+`"Isso, isso ｪ... ｴ Dia dos Namorados, idiota.`@` Nﾃo ｪ bom o bastante?! `\
 ld r,RG3_OdorokiA1,80
 
 ;!s0　いいから早くもらいなさいッ！/
@@ -18998,7 +18996,7 @@ wait 100
 mcbg 22
 
 ;「………消え失せろ。@お前一人なら、僕一人だって遅れは取らないぞ。」\
-`".........Suma daqui.`@` Se for sｫ vocｹ, eu nﾃo tenho porquｹ hesitar."`\
+`".........Suma daqui.`@` Se for sｫ vocｹ, eu nﾃo tenho por que hesitar."`\
 ;＜嘉音
 textoff
 bg garden_1a,24
@@ -19013,7 +19011,7 @@ quakey 3,400
 ld l,RG3_NakuA1,80
 
 ;「な、何よ、これぇ…！@　わ、私はチョコを渡しに来ただけでしょ？！@　バレンタインじゃないの？！@　何でこんな目に遭わされなくちゃならないのよッ？！@/
-`"P-Por que isso estｧ acontecendo...!`@` Eu nﾃo vim sｫ para dar chocolates para vocｹ?!`@` Nﾃo ｪ o Dia dos Namorados?!`@` Por que vocｹ nﾃo olha para mim?! `@
+`"P-Por que isso estｧ acontecendo...?!`@` Eu nﾃo vim sｫ para dar chocolates para vocｹ?!`@` Nﾃo ｪ o Dia dos Namorados?!`@` Por que vocｹ nﾃo olha para mim?! `@
 
 ;何で私だけうまく行かないの？！@　みんなはうまく行ったのにどうして私だけッ！@　どうしてよどうしてよッ、わけわかんないッ！！@　ううぅうぅぅぅぅ…ッ！！」\
 `Por que eu sou a ｸnica sem sorte?!`@` Todas fizeram isso sem problemas! Por que eu nﾃo?!`@` Por quｹ? Por quｹ? Eu nﾃo entendo!`@` Uuuuuuuu...!!"`\
@@ -19372,7 +19370,7 @@ ld r,RG1_KomaruA2,6
 ld l,BUT_DefA1,80
 
 ;「あん？@　何だい、太もも姉ちゃん。」\
-`"Hﾃ?`@` O que foi, nee-chan coxudinha?."`\
+`"Hﾃ?`@` O que foi, nee-chan coxudinha?"`\
 ;＜戦人
 
 
@@ -19623,7 +19621,7 @@ ld c,RG6_waraiA1,0
 ld r,RG5_WaraiA1,80
 
 ;「「「「「「失礼しまーす、ロノウェさまぁ！」」」」」」\
-`""""""Com sua licenﾆ~a, Ronove-sama!""""""`\ 
+`""""""Com sua licenﾆa~, Ronove-sama!""""""`\ 
 
 textoff
 se1 52
@@ -19662,7 +19660,7 @@ se3 4
 se2 47
 
 ;　あぁ、もちろんありますとも。@その大役は、我らが主であるベアトリーチェお嬢様にお願い申し上げましょう。@どうぞカメラをそちらの方に。@ぷっくっくっく！」\
-`Ah, mas ｪ claro.`@` O papel principal nﾃo ｪ de ninguｪm menos que a nossa mestra, BEATRICE ojou-sama.`@` Por favor, coloquem-na na cｯmera.`@` Pukkukku!"`\
+`Ah, mas ｪ claro.`@` O papel principal nﾃo ｪ de ninguｪm menos que a nossa mestra, BEATRICE ojou-sama.`@` Por favor, direcionem a cｯmera para ela.`@` Pukkukku!"`\
 ;＜ロノウェ
 
 csp bgsp2
@@ -19720,7 +19718,7 @@ ld r,BUT_NayamuA2,80
 ld l,BEA_AkuwaraiA2,80
 
 ;「くっくっくっく、光栄であろう誉れであろう、@妾からそなたにバレンタインチョコレートの進呈であるぞ！@　正座して受け取るがよいぞ！」\
-`"*gargalhada*gargalhada* conheﾆa a honra e a glｫria`@` de ser presenteado por mim no Dia dos Namorados!`@` Aceite de joelhos!"`\ 
+`"*gargalhada*gargalhada* Conheﾆa a honra e a glｫria`@` de ser presenteado por mim no Dia dos Namorados!`@` Aceite de joelhos!"`\ 
 ;＜ベアト
 
 
@@ -20031,7 +20029,7 @@ se2 20
 ld l,RG7_WaraiA1,80
 
 ;　そこら辺を楽しみながら、相手の気持ちと自分の気持ちの温度を測って、より親密になって、@新しい恋の出会いを探す切っ掛けにするのが、ホワイトデーというものなんでぇす！/
-`Vocｹ comeﾆa a medir a temperatura dos seus sentimentos em comparaﾆﾃo os sentimentos dele, e assim desenvolve mais intimidade,`@` aproveitando dos repentinos encontros do amor. Esse ｪ o White Day!`/
+`Vocｹ comeﾆa a medir a temperatura dos seus sentimentos em comparaﾆﾃo aos sentimentos dele, e assim desenvolve mais intimidade,`@` aproveitando dos repentinos encontros do amor. Esse ｪ o White Day!`/
 
 se1 72
 se2 74
@@ -20102,7 +20100,7 @@ quakey 2,200
 ;　アスモとベルゼは、姉妹の末っ子二人組でとても仲がいい。@
 ;　上の姉たちには微妙に付いていけないセンスで、きゃっきゃとはしゃぎ合う。\
 `Asmodeus e Beelzebub, sendo as duas mais novas, tinham uma boa relaﾆﾃo.`@
-`As irmﾃs mais velhas tiveram a estranha sensaﾆﾃo de terem sido deixadas para trｧs diante da excitaﾆﾃo delas.`\
+`As irmﾃs mais velhas tiveram a estranha sensaﾆﾃo de terem sido deixadas para trｧs diante da empolgaﾆﾃo delas.`\
 
 ld c,RG3_FumanA1,23
 ;「そんなにも浮かれるものかしらね。@上級家具たる者がみっともないっ。」\
@@ -20228,7 +20226,7 @@ bg G1F_S1ap,0
 ld c,RG2_AkuwaraiA2,23
 
 ;「邪魔しないもん、霧江と一緒に嫉妬するだけだもんー！@　ベルフェのデートを、嫉妬に染まった４つの瞳でずっと追い続けてあげるからね～！」@
-`"Nﾃo vou me meter nas suas coisas! Vou passar o dia invejando com Kyrie!`@` Vai ter dois pares de olhos invejosos acompanhando o seu encontro, Belphe!"`\
+`"Nﾃo vou me meter nas suas coisas! Vou passar o dia invejando com a Kyrie!`@` Vai ter dois pares de olhos invejosos acompanhando o seu encontro, Belphe!"`\
 ;＜レヴィア
 
 ld l,RG4_OdorokiA3,64
@@ -20339,7 +20337,7 @@ ld r,RG3_OdorokiA2,24
 ;＜サタン
 ;br
 ;　サタンは困惑しながらそう叫ぶ。@…ただ、何とも恥ずかしいもので、こう口にしながら、サタンはどうして嘉音が現れたのか察しがついてしまって、顔が紅潮するのを隠せなかった。\
-`Satan gritou, perplexa.`@` ...Com aquele vergonhoso afloramento, Satan percebeu o motivo pelo qual ele provavelmente apareceu, e tentou esconcer seu rosto corado.`\
+`Satan gritou, perplexa.`@` ...Com aquele vergonhoso afloramento, Satan percebeu o motivo pelo qual ele provavelmente apareceu, e tentou esconder seu rosto corado.`\
 
 ;　しかし、嘉音にはそんな乙女心など察しがつくわけもない。@彼の目には、相変わらずサタンが不機嫌なようにしか見えていない。\
 `Mas Kanon nﾃo tinha sensibilidade alguma diante dos sentimentos femininos.`@` Para ele, Satan parecia estar com o mesmo mau humor de sempre.`\
@@ -20622,7 +20620,7 @@ se1 9
 quakey 2,600
 
 ;髪を噛まないでぇぇぇ！」/
-`Nﾃo mastigue meu cabelooo!”`\
+`Nﾃo mastigue meu cabeeelo!”`\
 
 !sd
 ;＜ルシファ
@@ -20652,7 +20650,7 @@ ld r,BUT_MajimeA2,80
 ld l,BEA_KomaruA1,80
 
 ;「えー？！@　だってほら、前回、妾も手作りチョコを渡したじゃん？！」@
-`"Hﾃ?!`@` Mas, eu dei a vocｹ chocolates caseiros, nﾃo dei?!"`\
+`"Hﾃ?!`@` Mas eu dei a vocｹ chocolates caseiros, nﾃo dei?!"`\
 ;＜ベアト
 
 
@@ -21299,7 +21297,7 @@ ld c,RG6_NakuA1,80
 ;＜ベルゼ
 ;br
 ;　郷田は再び、ベルギーへチョコの神秘とレシピを探りに旅に出るのだった…。\
-`Entretanto, Gohda jｧ havia partido para procurar pela Receira Secreta do Chocolate Belga...`\
+`Entretanto, Gohda jｧ havia partido para procurar pela Receita Secreta do Chocolate Belga...`\
 
 bg black,22
 bg Gdin_1c,0
@@ -21464,7 +21462,7 @@ bg blood_2c,1
 ;＜留弗夫
 ;br
 ;　本当は狙われたのは留弗夫なのだが。@それすらも庇ったかのようにすぐに摩り替えるのが留弗夫クオリティ。/
- `Obviamente, Rudolf era o alvo do ataque, `@` mas tentar desviar enquanto finge estar protegendo ｪ um dos talentos dele.`/
+ `Obviamente, Rudolf era o alvo do ataque, `@`mas tentar desviar enquanto finge estar protegendo ｪ um dos talentos dele.`/
 se1 4
 se2 4
 \
@@ -21607,7 +21605,7 @@ ld c,KIR_KomaruA1,80
 ld l,RG2_OdorokiA1,80
 
 ;「それよりお師匠様、早くあの浮気魔留弗夫に天誅を…！@　私はここから見守っていますからっ！@ほ、ほら、見て下さい！@　あいつ、ベルフェに、@/
-`"Esqueﾆa isso, professora! Eu prefiro ver vocｹ trazendo toda a sua fｸria devida sobre aquele traidor do Rudolf...!`@` Eu ficarei assistindo daqui, por favor!`@` V-Veja!`@` Ele estｧ com a Belpeghor,`@/
+`"Esqueﾆa isso, professora! Eu prefiro ver vocｹ trazendo toda a sua fｸria divina sobre aquele traidor do Rudolf...!`@` Eu ficarei assistindo daqui, por favor!`@` V-Veja!`@` Ele estｧ com a Belpeghor,`@/
 
 ;mld l,RG2_NakuA1,80
 ld l,RG2_NakuA1,80
@@ -21925,7 +21923,7 @@ ld c,BEA_AkuwaraiA2,0
 print 99,1000,"breakup.dll/llp"
 
 ;「きーっひっはっはっはっはァ！！/
-`"Kihahahahahaha!! `/
+`"Kihahahahahaha!!`/
 se1 37
 
 ;@　妾だけもらえぬホワイトデーに何の意味があろうか！@　みんなみんな邪魔してやるぞ、ザマを見よ、ふーっひゃっひゃッ！！/
@@ -21949,7 +21947,7 @@ ld l,BUT_AseruA2,80
 
 
 ;「……約１件、クソ親父については自業自得だが。@それを除けば、ひでぇことをしやがる…。@この鬼畜魔女め！」\
-"......Bem, ao menos o meu velho desgraﾆado recebeu o que merecia. @` Mas, fora ele, vocｹ fez algo horrｨvel...`@` Sua bruxa demonｨaca!"`\
+"......Bem, ao menos o meu velho desgraﾆado recebeu o que merecia. @`Mas, fora ele, vocｹ fez algo horrｨvel...`@` Sua bruxa demonｨaca!"`\
 
 ;＜戦人
 
@@ -21989,7 +21987,7 @@ ld c,BEA_AkuwaraiA4,80
 
 ;「……どうだ？@　そろそろ謝りたくなっただろう？！@　ベアトさまごめんなさい、ちゃんとホワイトデーの贈り物を用意しますゥって言ってみろよォ！@　そしたら特別に許してやってもいいぜェええぇ！@　ただし、ルシファーに贈った物より安かったら許さねェけどなァあああぁあああぁ！！」/
 
-`"......Que tal?`@` Jｧ se arrepende do que fez?!`@` Eu quero ouvir vocｹ dizer: 'Beato-sama, por favor, me perdoe,`@` eu prometo que darei algo a vocｹ no White Day!'`@` Mas, nﾃo me dｹ nada parecido com o que deu para Lucifer, para mim deve ser algo muiiiiito mais caro que aquilo!!”`\
+`"......Que tal?`@` Jｧ se arrepende do que fez?!`@` Eu quero ouvir vocｹ dizer: 'Beato-sama, por favor, me perdoe,`@` eu prometo que darei algo a vocｹ no White Day!'`@` Mas nﾃo me dｹ nada parecido com o que deu para Lucifer, para mim deve ser algo muiiiiito mais caro que aquilo!!”`\
 
 ;＜ベアト
 
@@ -22003,7 +22001,7 @@ bg Different_space_1b,22
 ld l,BUT_komaruA3,23
 
 ;「……………アホ抜かせ。@誰がお前みたいな嘘吐きわがまま魔女の言いなりになるもんか。」@
-"...............Cala a boca, imbecil.`@` Quem iria dar algo para uma uma bruxa mentirosa e egoｨsta como vocｹ?!”`\
+"...............Cala a boca, imbecil.`@` Quem iria dar algo para uma bruxa mentirosa e egoｨsta como vocｹ?!”`\
 ;＜戦人
 
 
@@ -22122,7 +22120,7 @@ quakex 2,200
 bgm1 43
 ld r,BEA_HanbesoA2,80
 ;!s0「うわああぁああぁあぁぁぁぁん。/
-!s0`"Waaaaaaaaaaah!. `/
+!s0`"Waaaaaaaaaaah! `/
 se1v 13,70
 quakey 3,300
 
@@ -22163,7 +22161,7 @@ ld l,BEA_AseruA1,80
 ld r,RON_Akuwaraia1,80
 
 ;「はて、それは心外な。@私めはお嬢様のご命令に従い、最高のチョコをご用意したに過ぎませんが？@/
-`"Pois bem, isto ｪ vexatｫrio.`@` Eu poderia ter jurado que fiz aqueles chocolates sob as ordens da ojou-sama. `@/
+`"Pois bem, isto ｪ vexatｫrio.`@` Eu poderia ter jurado que fiz aqueles chocolates sob suas ordens. `@/
 
 ;　美味しかったでしょう？@　カルチェラタンの香りによく合う美味しさだったでしょう？」@
 `E nﾃo estavam uma delｨcia?`@` O aroma nﾃo era adequado atｪ mesmo para o Quartier Latin?”`\
@@ -22220,7 +22218,7 @@ quakey 2,500
 `"Pukkuku! `/
 
 ;@　手作りと偽ったのはお嬢様も一緒ではありませんか。」@
-@ `Nﾃo era exatamente isto vocｹ pretendia fazer?"`\
+@ `Nﾃo era exatamente isto que vocｹ pretendia fazer?"`\
 ;＜ロノウェ
 
 
@@ -22342,7 +22340,7 @@ bg black,26
 ;　泣きながらワルギリアのドレスに顔を埋めるベアト。@
 ;　その様子に、ワルギリアとロノウェは顔を見合わせ、溜息を漏らす。\
  `Beato enterrou seu rosto no vestido de Virgillia enquanto chorava.`@
- `Virgilia e Ronove olharam um para o outro e suspiraram.`\
+ `VIRGILIA e Ronove olharam um para o outro e suspiraram.`\
 
 bg se1f_S1b,0
 ld r,WAL_MajimeA1,26
@@ -22397,10 +22395,10 @@ ld l,BEA_HanbesoA4,80
 bg Se1F_S1c,25
 
 ;　はぁっと、ワルギリアは苦笑いの溜息を漏らす。@
- `Virgilia suspirou e sorriu ironicamente.`\
+ `VIRGILIA suspirou e sorriu ironicamente.`\
 ;br
 ;　しかし、ようやく素直になってきた。@ベアトは時間をゆっくり掛けて心を解きほぐしさえすれば、ちゃんと素直になれる子なのだから。\
-`Ao menos a Beato se aquietou.`@` Ajudｧ-la a expressar seus sentimentos e pensamentos exigia tempo e paciｹncia.`@` ｴ uma crianﾆa bem obediente quando vocｹ amolece seu coraﾆﾃo.`\
+`Ao menos Beato se aquietou.`@` Ajudｧ-la a expressar seus sentimentos e pensamentos exigia tempo e paciｹncia.`@` ｴ uma crianﾆa bem obediente quando vocｹ amolece seu coraﾆﾃo.`\
 
 
 bg black,22
@@ -22509,10 +22507,10 @@ se1 52
 print 99,2000,"breakup.dll/lrb"
 
 ;　ワルギリアがパチンと指を鳴らすと、ベアトは黄金の蝶の群に変えられ、厨房に運ばれていく……。@
-`Virgilia estalou seus dedos, e no mesmo instante BEATRICE foi transformada em um enxame de borboletas douradas e transportada atｪ a cozinha.......`@
+`VIRGILIA estalou seus dedos, e no mesmo instante BEATRICE foi transformada em um enxame de borboletas douradas e transportada atｪ a cozinha.......`@
 ;br
 ;　それを見送るワルギリアとロノウェ……。\
-`Ronove e Virgilia a observaram partir......`\
+`Ronove e VIRGILIA a observaram partir......`\
 
 
 
@@ -22631,7 +22629,7 @@ ld r,BEA_fukigenA1,80
 ;＜ベアト
 
 ;　……やれやれ。@その様子を魔法の三面鏡でうかがうワルギリアたちは、何度目になるかもわからない溜息を漏らすのだった…。\
-`......Francamente.`@` Virgilia, assistiu tudo atravｪs de seu espelho de trｹs faces, e suspirou. Parece que ela nunca aprende.`\
+`......Francamente.`@` VIRGILIA, assistiu tudo atravｪs de seu espelho de trｹs faces, e suspirou. Parece que ela nunca aprende.`\
 
 vsp bgsp2,0
 bg black,25
@@ -22882,7 +22880,7 @@ bg Mkit_1a,26
 ;　…そうやって作ったら、やっとチョコらしき物に近付いてくるという手応えを、ようやく得たのに。@
  `...E sｫ fui descobrir depois que jｧ estava prestes a receber uma opiniﾃo sobre o chocolate que fiz.`\
 ;　……もうどうでも良過ぎる。@悲しくて馬鹿馬鹿し過ぎる。\
-` ......Quem se importa com isso agora?.`@` ｴ triste; uma completa estupidez.`\
+` ......Quem se importa com isso agora?`@` ｴ triste; uma completa estupidez.`\
 
 vsp bgsp2,0
 bg black,22
@@ -23189,7 +23187,7 @@ bg Different_space_P1c,22
 
 
 ;「…そいつ、赤き真実で。@ホワイトデーにはお返ししないって言ったぜェ…？@　だからお返しは出来なェだろうなァ…。」\
-`"...E se eu usasse a verdade vermelha? `@` Para dizer que ele nﾃo me daria nada no White Day...? Assim ele nﾃo conseguiria dar nada, certo?"`\
+`"...E se eu usasse a verdade vermelha? `@`Para dizer que ele nﾃo me daria nada no White Day...? Assim ele nﾃo conseguiria dar nada, certo?"`\
 
 ;＜ベアト
 
@@ -23312,7 +23310,7 @@ se1 47
 quakey 1,300
 
 ;@　ほら、きりきり茹でろ、きりきろ溶かせ！@/
-`Veja, jｧ estｧ fervendo, jｧ estｧ fervendo!  `@/
+`Veja, jｧ estｧ fervendo, jｧ estｧ fervendo! `@/
 
 ;　あーもう面倒だッ、お前にチョコを塗りたくってオーブンに放り込んでしまおうかッ！」\
  `Ah, mas que saco. Talvez eu devesse besuntar vocｹ em chocolate e enfiｧ-lo no forno!"`\
@@ -23357,7 +23355,7 @@ bgm1 90
 ` Dentro da Agｹncia de Execuﾆﾃo de Arrependimentos, as leis da Grande Corte dos Cｪus sﾃo estritamente reforﾆadas.`\
 
 ;そこに所属する異端審問官は法の騎士と呼ばれて讃えられ、@正義に燃える若者が目指す将来の夢の一つに数えられている。\
-` Os Inquisidores da Heresia que lｧ pertencem, sﾃo exaltados e chamados de Cavaleiros da Lei, e incontｧveis de jovens virtuosos sonham unicamente em se juntar a eles.`\
+` Os Inquisidores da Heresia que lｧ pertencem, sﾃo exaltados e chamados de Cavaleiros da Lei, e incontｧveis jovens virtuosos sonham unicamente em se juntar a eles.`\
 mono 1
 
 bg Wclo_1c,2
@@ -23428,12 +23426,12 @@ ld c,COR_OdorokiA1,24
 ;「謹んで申し上げ奉る。@勤務中は法語を使用するもの也と服務規程に記されているものと知り給え…！」@
 `"Permitam-me ratificar e humildemente chamar a atenﾆﾃo dos senhoris para o fato de que o Vernｧculo da Corte ｪ mandatｫrio durante o perｨodo oficial de serviﾆo...!"`\
 ;「まー、一応そういうことになってるけど。@七管は組合との折衝で、外務以外では無理に使わなくてもいいことになってんの。@法語じゃ堅苦しいでしょ？@　…あ、服務規程の話が出たから教えとくけど、昼休みも１２時から１時までじゃなくて、１１時４５分から１時までだから。」\
-`"Bem, sim, costumava ser assim, mas a Sｪtima Juridiﾆﾃo negociou com a Uniﾃo, e agora sｫ precisa ser seguido fora dos escritｫrios.`\`Vocｹ nﾃo acha que o Vernｧculo da Corte ｪ formal demais?`@` ...Ah, eu adoraria continuar falando sobre regras e regulamentaﾆｷes, mas preciso informar que o intervalo ｪ, na verdade, das 11:45 atｪ ﾚ 13:00, e nﾃo das 12:00 atｪ as 13:00."`\
+`"Bem, sim, costumava ser assim, mas a Sｪtima Juridiﾆﾃo negociou com a Uniﾃo, e agora sｫ precisa ser seguido fora dos escritｫrios.`\`Vocｹ nﾃo acha que o Vernｧculo da Corte ｪ formal demais?`@` ...Ah, eu adoraria continuar falando sobre regras e regulamentaﾆｷes, mas preciso informar que o intervalo ｪ, na verdade, das 11:45 atｪ as 13:00, e nﾃo das 12:00 atｪ as 13:00."`\
 
 bg "bmp\background\sbook\Ke5.jpg",26
 
 ;「き、謹啓…！@　昼休みは１２時からの１時間と定められているものと知れ…！」@
-`"S-Senhoris...!`@` Fui informada que nosso intervalo ｪ das 12:00 atｪ as 13:00...!"`\
+`"S-Senhoris...!`@` Fui informada de que nosso intervalo ｪ das 12:00 atｪ as 13:00...!"`\
 ;br
 ;「ほら、３時に１５分休みがあるでしょ。@それを昼休みと連結して取得してもいいってことで、組合が折衝したの。@先輩方が勝ち取った権利なんだから、ごちゃごちゃ言わないようにね。」\
 `"Veja bem, ﾚs 15:00 nｫs supostamente devemos ter quinze minutos de intervalo, certo? Tudo que fizemos foi adicionar este tempo ao horｧrio do almoﾆo. Nｫs negociamos e a Uniﾃo aceitou. Este ｪ um direito que seus superiores deram duro para conseguir para vocｹ, entﾃo pare de resmungar.`\
@@ -23454,11 +23452,11 @@ bg Wsan_1c,22
 ` O Vernｧculo da Corte ｪ uma linguagem arcaica que Cornelia utiliza.`\
 ;br
 ;古語で書かれた法文を適正に使用するため、@法の番人であり執行者である彼らには、勤務中には法語で話すことが、本来、義務付けられている\
-` Visto que os textos da lei disfrutam de termos arcaicos, ｪ natural que aqueles que os sustentam sejam obrigados a utilizar deste linguajar enquanto estﾃo em serviﾆo, na finalidade de realizｧ-lo propriamente.`\
+` Visto que os textos da lei desfrutam de termos arcaicos, ｪ natural que aqueles que os sustentam sejam obrigados a utilizar deste linguajar enquanto estﾃo em serviﾆo, na finalidade de realizｧ-lo propriamente.`\
 ;しかし、話し言葉からあまりに掛け離れたそれを一日中強いられるのは、楽なことではない。\
 ` Porｪm, por ser diferente da forma como se fala normalmente, seu uso constante nﾃo ｪ algo fｧcil.`\
 ;各管区の職員組合は、早々のうちから上層部と団体交渉し、@外務以外の場では法語の使用に拘らなくても良いという権利を勝ち取っていた。@
-` Tendo isso em vista, a Uniﾃo dos trabalhadores de cada jurisdiﾆﾃo conseguiu chegar a um acordo para afrouxar a polｨtica de uso em todos os departamentos, exceto quando estﾃo fora do ambiente de trabalho habitual.`\
+` Tendo isso em vista, a Uniﾃo dos Trabalhadores de cada jurisdiﾆﾃo conseguiu chegar a um acordo para afrouxar a polｨtica de uso em todos os departamentos, exceto quando estﾃo fora do ambiente de trabalho habitual.`\
 
 ;その為、彼らが交わす会話は全て、普通の口語だったのだ。\
 ` Por causa disso, todas as suas conversas normais acontecem com uma linguagem coloquial.`\
@@ -23493,13 +23491,13 @@ print 22
 ` Para Cornelia, este foi seu maior choque durante seu primeiro dia de trabalho.`@
 ;br
 ;将来は必ず異端審問官になって、悪を誅したいと願ってきた彼女にとって、法語はその最大の象徴だった。\
-` Para uma garota que sonhava em fazer parte do ｮrgﾃo dos Inquisidores a qualquer custo, e desejou fervorosamente penas mortais ao mal, o Vernｧculo da Corte era o maior sｨmbolo de suas esperanﾆas.`\
+` Para quem sonhava em fazer parte do ｮrgﾃo dos Inquisidores a qualquer custo, e desejou fervorosamente penas mortais ao malefｨcio, o Vernｧculo da Corte era o maior sｨmbolo de suas esperanﾆas.`\
 
 ;生涯を捧げたい職務、異端審問官。@それはつまり、生涯を法語で過ごすということ。@
 ` Este era o dever pelo qual ela queria devotar sua vida por completo, o ｮrgﾃo dos Inquisidores.`@` Ou seja, devotar-se igualmente ao Vernｧculo da Corte.`\
 ;br
 ;だから、彼女は法語に少しでも慣れようと、貧しかった両親に何度も訴え、@お小遣いはいらないから、法語会話教室に週１回、通わせてもらっていた。\
-` E, para isso, ela precisou implorar para seus pobres pais`@` - insistindo e dizendo "Nﾃo preciso de mesada" - para que eles a matriculassem em uma turma semanal de conversaﾆﾃo com Vernｧculo da Cortes.`\
+` E, para isso, ela precisou implorar para seus pobres pais`@` - insistindo e dizendo "Nﾃo preciso de mesada" - para que eles a matriculassem em uma turma semanal de conversaﾆﾃo com Vernｧculo da Corte.`\
 
 ;法語が使えなければ異端審問官にあらず。@
 ` Se o Vernｧculo da Corte nﾃo serｧ utilizado, entﾃo nﾃo ｪ possｨvel que seja considerado o ｮrgﾃo dos Inquisidores.`\
@@ -23544,7 +23542,7 @@ bg black,2
 `ｴ claro, era um departamento importante, mas confrontar e julgar o mal era responsabilidade de outros departamentos.`\
 ;br
 ;少なくとも、彼女の配属された部署ではない。\
-`Departamentos os quais ela tambｪm nﾃo foi relacionada.`\
+`Departamentos aos quais ela tambｪm nﾃo foi relacionada.`\
 
 
 ;彼女の第一希望は、第八管区のＳＳＶＤだった。@
@@ -23601,7 +23599,7 @@ wait 1000
 bg black,2
 
 ;さもなくば第二希望は、第七管区のアイゼルネ・ユングフラウ。@
-`Se nﾃo fosse possｨvel, sua escolha era a Sｪtima Jurisdiﾆﾃo, a Eiserne Jungfrau.`@
+`Se nﾃo fosse possｨvel, sua escolha seria a Sｪtima Jurisdiﾆﾃo, a Eiserne Jungfrau.`@
 ;br
 
 textoff
@@ -23656,7 +23654,7 @@ bg cit_1a,5
 
 
 ;……………そのどちらもどころか、書類事務の総務部。@
-`...............Mas, ao invｪs de um desses, ela acabou caindo no departamento de papelada dos Assuntos Gerais.`@
+`...............Mas, em vez de um desses, ela acabou caindo no departamento de papelada dos Assuntos Gerais.`@
 ;br
 
 ;コーネリアは自らに言い聞かせる。@心の中においても、もちろん法語で。\
@@ -23665,7 +23663,7 @@ bg cit_1a,5
 bg black,22
 
 ;落ち着き給え、我が心。@若輩、コーネリアよ。@
-` Mantenha sua compostura, meu coraﾆﾃo. Ouﾆa atentamente, jovem Cornelia.`@
+` Mantenha sua compostura, ｫ coraﾆﾃo. Ouﾆa atentamente, jovem Cornelia.`@
 br
 ;千里の道も一歩から。@
 `Uma jornada de mil milhas comeﾆa com um ｸnico passo.`@
@@ -23683,7 +23681,7 @@ wait 1000
 bg "bmp\background\sbook\Ke_S2.jpg",24
 
 ;彼女は挫けない。@
-`Ela nﾃo iria se desencorajar.`@
+`Cornelia nﾃo iria se desencorajar.`@
 ;br
 ;今の自分には、まだまだ大きな任務が勤まらないからこの部署に配属されたのだろうと自分に言い聞かせる。\
 `Ela disse a si mesma que foi alocada aqui porque ainda nﾃo estava pronta para ofｨcios maiores.`\
@@ -23702,7 +23700,7 @@ bg "bmp\background\sbook\Ke_S2.jpg",24
 ;br
 
 ;前任者の残しただろう資料を確認するために。\
-`ela puxou a gaveta de sua mesa para ver que tipo de materiais seu antecessor havia deixado para ele.`\
+`ela puxou a gaveta de sua mesa para ver que tipo de materiais seu antecessor havia deixado para ela.`\
 
 bg black,26
 
@@ -23834,7 +23832,7 @@ bg "bmp\background\sbook\Ke_S2.jpg",22
 ` Aprenda na prｧtica, afane tudo o que ver.`@
 
 ;教えられるのを待って、ぽけーっとしていると、@決まって中年親父どもに、「ゆとり世代？」と聞かれて、イラッとするからだ。\
-` Aqueles que esperam ser chamados sﾃo os mesmos que sempre sﾃo chamados de idiotas pelos homens de meia-idade, e marcam a "geraﾆﾃo preguiﾆosa" que tanto irrita.`\
+` Aqueles que esperam atｪ receberem ordens sﾃo os mesmos que sempre sﾃo chamados de idiotas pelos homens de meia-idade, e marcam a "geraﾆﾃo preguiﾆosa" que tanto irrita.`\
 
 ;私は自ら学ぶ積極性のある人間だとアピールしなくては。@
 ` Eu nﾃo posso simplesmente deslumbrar unicamente aqueles que simpatizam por minha paixﾃo pelos estudos.`@
@@ -23882,7 +23880,7 @@ ld r,COR_odorokiA1,26
 `"S-Sim, como quiseres, Sacerdote de Segunda Classe!"`\
 
 ;「階級なんて恥ずかしいよ、名前でいいよ。@今日のお昼ね、鮎川でおそば取るんだけど、コーネリアちゃんも頼む？」@
-`"Nﾃo precisa ser tﾃo formal, ｪ embaraﾆosso.`@` Pode usar meu nome.`@` Entﾃo, sobre o almoﾆo de hoje. Estamos combinando de encomendar um soba do Rio de Ayus para comer, vai querer algo?"`@
+`"Nﾃo precisa ser tﾃo formal, ｪ embaraﾆoso.`@` Pode usar meu nome.`@` Entﾃo, sobre o almoﾆo de hoje. Estamos combinando de encomendar um soba do Rio de Ayus para comer, vai querer algo?"`@
 
 ld r,COR_komaruA2,80
 
@@ -24001,7 +23999,7 @@ bg "bmp\background\sbook\ayukawa.bmp",22
 ;「大丈夫？　新人さん？！　@もっかい注文お願いできるー？！」@
 `"Ei, novata, tudo bem?!`@` Pode repetir o pedido de novo?!"`@
 ;「き、@謹啓、謹んで申し上げ奉る。@注文は以下と知り給え。@……鴨せいろ１つ。@鴨せいろ大盛り１つ。@天ぷら関東風１つ。@カツ丼１つ。」
-`"S-Senhoril, permita-me ratificar novamente.`@` Soba de pato porﾆｷes: uma tamanho grande.`@` Soba de pato porﾆｷes: um tamanho normal.`@` Tempura Kantou: uma.`@` Katsudon: um."`\
+`"S-Senhoril, permita-me ratificar novamente.`@` Soba de pato, porﾆｷes: uma tamanho grande.`@` Soba de pato, porﾆｷes: um tamanho normal.`@` Tempura Kantou: uma.`@` Katsudon: um."`\
 
 ;「んー？！　@天ぷらはおそばとうどん、どっちぃ？！　@あとカツ丼はね、関東風の卵とじと、関西風のソースと２つあるのウチは。」@
 `"Hﾃ?!`@` ｴ tempura ubon ou soba?!`@` E quanto ao katsudon, vai querer o estilo de Kantou que vem com ovo ou o estilo Kansai com molho?!"`@
@@ -24013,7 +24011,7 @@ bg black,22
 fede 10,1000
 
 ;そば屋に入ったことはおろか、出前の注文さえしたことのないコーネリアにとって。@
-` Cornelia nunca havia ido ﾚ uma loja de soba antes, e deixaram ela fazer os pedidos sozinha.`@
+` Cornelia nunca havia ido a uma loja de soba antes, e deixaram ela fazer os pedidos sozinha.`@
 
 ;……初めてのそば屋の注文は、@大法院職員試験（一類）よりも、はるかに難度の高いものだった……。\
 ` ......Seu primeiro pedido na loja de soba se demonstrou consideravelmente mais complicado que seu teste de admissﾃo da Grande Corte (primeira classe)...`\
@@ -24042,7 +24040,7 @@ bg black,22
 mono 0
 
 ;コーネリアは初仕事さえ、……それもお昼の注文さえまともに取ることが出来ず、@コンビニに買い物に出る先輩たちに、「これだから最近の子は、」「ゆとりだなぁ。」@などと陰口を、あからさまに叩かれるのだった…。\
-` Cornelia nﾃo foi capaz de completar seu primeiro trabalho, ......pedir um almoﾆo.`@` Seus superiores, que foram fazer compras em uma loja de conveniｹncias, comentaram coisas como:`@` "Essas crianﾆas de hoje em dia" e `@`"geraﾆﾃo de preguiﾆosos", pelas costas dela.`\
+` Cornelia nﾃo foi capaz de completar seu primeiro trabalho, ......pedir um almoﾆo.`@` Seus superiores, que foram fazer compras em uma loja de conveniｹncias, comentaram coisas como:`@` "essas crianﾆas de hoje em dia" e `@`"geraﾆﾃo de preguiﾆosos", pelas costas dela.`\
 
 bg black,22
 bg BUI_o1a,22
@@ -24056,7 +24054,7 @@ bg BUI_o1a,22
 bg black,22
 
 ;ちやほやとしてくれた午前と、呆れたように溜息をつかれる午後では、@あまりに空気が違うのだった……。\
-` Dos mimos durantes as manhﾃs aos suspiros exasperados durante ﾚ tarde,`@` a atmosfera do lugar mudou drasticamente......`\
+` Dos mimos durante a manhﾃ aos suspiros exasperados durante ﾚ tarde,`@` a atmosfera do lugar mudou drasticamente......`\
 
 bg black,2
 fede 0,2000
@@ -24108,7 +24106,7 @@ br
 ` Nﾃo, nﾃo era uma simples funcionｧria.`@
 
 ;　彼女が被る帽子は、紛れもなく、耳付きだったからだ。\
-` Nﾃo haviam dｸvidas, ela estava usando o gorro orelhudo.`\
+` Nﾃo havia dｸvidas, ela estava usando o gorro orelhudo.`\
 
 ld r,COR_MajimeA1,24
 ld r,COR_OdorokiA1,80
@@ -24162,7 +24160,7 @@ bg TOI_1a,25
 
 
 ;　その為、異端審問官になれる資格があるにもかかわらず、@その席をまだ得られない補佐官を、上級補佐官、もしくは席なし審問官と呼ぶ。\
- `Os Assessores que, apensar de suas qualificaﾆｷes, nﾃo detｪm de um assento, sﾃo chamados pelo departamento, de Assessores Superiores.`\
+ `Os Assessores que, apesar de suas qualificaﾆｷes, nﾃo detｪm de um assento, sﾃo chamados pelo departamento, de Assessores Superiores.`\
 
 ;　未来の異端審問官を約束されている彼女ら上級補佐官は、@異端審問官の片腕として、数々の重大な任務を補佐する。@……そしてやがては自らが最前線に……。\
 ` Esses Assessores Superiores, que eventualmente se tornarﾃo Inquisidores, atuam como a mﾃo direita de homens e mulheres Inquisidores, ajudando em importantes missｷes.`@` ......Obviamente, eles recebem trabalhos nas linhas de frente tambｪm......`\
@@ -24275,7 +24273,7 @@ br
 ` A forma fragmentada como ela fala ｪ um pouco irritante e realmente difｨcil de entender.`\
 
 ;　……ただ、法語にこだわり不快がられている私に、@それを批判する資格はないのかもしれない。\
-` ......Porｪm, alguｪm obcecada pelo Vernｧculo da Corte como eu, nﾃo possui o direito de julgｧ-la.`\
+` ......Porｪm, alguｪm obcecada pelo Vernｧculo da Corte como eu nﾃo possui o direito de julgｧ-la.`\
 
 ;　法語にこだわるのは、単なる私のこだわりだ。@
 ` Talvez eu seja a ｸnica que me preocupe tanto com o Vernｧculo da Corte.`@
@@ -24321,7 +24319,7 @@ ld r,COR_KomaruA1,80
 ` ......Hmm... Eu sinto... ......Me desculpa..."`\
 
 ;　本当に久しぶりに口語を使う。@……恥ずかしくなるくらいたどたどしかった。\
-` Faz realmente muito tempos desde a ｸltima vez que falei de forma coloquial.`@` ......Isso quase me faz ficar envergonhada.`\
+` Faz realmente muito tempo desde a ｸltima vez que falei de forma coloquial.`@` ......Isso quase me faz ficar envergonhada.`\
 
 bg black,22
 
@@ -24329,7 +24327,7 @@ bg black,22
 ` Enquanto baixava minha cabeﾆa novamente, agora corada, essa Assessora Superior jｧ havia lido-me por completo.`@
 br
 ;　私の自省を、口にせずとも理解し、やわらかに微笑みながら頷き返してくれた。\
-` Sem quaisquer palavras, ela gentilmente sorriu diante da minha auto-reflexﾃo e assentiu para mim.`\
+` Sem quaisquer palavras, ela gentilmente sorriu diante da minha autoreflexﾃo e assentiu para mim.`\
 
 bg "bmp\background\sbook\Ke2.jpg",22
 
@@ -24352,7 +24350,7 @@ ld l,GER_DefA2,23
 `"Senhoril, permita-me ratificar."`\
 
 ;　唐突に上級補佐官が私の目を見ながら法語を使う。\
-` De forma abrupta, a Assessora Superior olhou em meus olhos eu falou utilizando o Vernｧculo da Corte.`\
+` De forma abrupta, a Assessora Superior olhou em meus olhos e falou utilizando o Vernｧculo da Corte.`\
 
 ld l,GER_OdorokiA1,80
 
@@ -24448,15 +24446,15 @@ br
 ` Mas, apesar disso, de alguma forma ela acabou sendo eleita para o prｹmio especial do juri.`\
 
 ;　予算も正規プロジェクトの承認も下りないが、自分に出来る範囲内で身近から挑戦してみなさい、というような賞だった。\
-` Era uma premiaﾆﾃo concedida ﾚ projetos que buscavam desaviar as fronteiras mas nﾃo podiam ser implementados devido ﾚ orﾆamento e questｷes regulamentares.`\
+` Era uma premiaﾆﾃo concedida a projetos que buscavam desaviar as fronteiras mas nﾃo podiam ser implementados devido ao orﾆamento e questｷes regulamentares.`\
 ;　いきなり送って、いきなり大抜擢などということは、やはりない。@
-` Bem, era esperado que uma proposta repentina nﾃo levasse ﾚ uma promoﾆﾃo repentina.`@
+` Bem, era esperado que uma proposta repentina nﾃo levasse a uma promoﾆﾃo repentina.`@
 br
 ;　しかしそれでも、これは本当の自分と、その情熱を見てもらう良い機会のはず。\
 ` Mesmo assim, havia sido uma grande oportunidade para demonstrar sua verdadeira natureza e sua paixﾃo.`\
 
 ;　それが人事考課で評価されれば、ひょっとすると、自分が本当に望んだ部署への異動だって、夢ではないかもしれない。\
-` Se isso afetasse sua avaliaﾆﾃo de performance como subordinada, talvez seu sonho de ser reatribuｨda a um departamento a qual ela ansiasse nﾃo fosse um sonho tﾃo distante.`\
+` Se isso afetasse sua avaliaﾆﾃo de performance como subordinada, talvez seu sonho de ser reatribuｨda a um departamento ao qual ela ansiasse nﾃo fosse um sonho tﾃo distante.`\
 
 bg black,22
 bg "bmp\background\sbook\Ka4.jpg",22
@@ -24517,7 +24515,7 @@ E_A
 bgm1v 86,70
 
 ;「謹啓、謹んで申し上げ奉るっ。@我が立案せしプロジェクト名は、@/
-`"Senhoris, permitam-me ratificar minha proposta. Eu a nomeie como: "`@/
+`"Senhoris, permitam-me ratificar minha proposta. Eu a nomeei como: "`@/
 
 se1v 2,90
 ld c,COR_OdorokiA1,80
@@ -24555,7 +24553,7 @@ bg "bmp\background\sbook\Ka4.jpg",25
 ` A fim de prevenir isto, diversas agｹncias pｸblicas devem conduzir campanhas de acordo com suas respectivas posiﾆｷes.`\
 
 ;　それに対する取り組みは本来、大法院の仕事ではないが、法の番人の精神からは、それを見過ごして良い道理はない。\
-` Tradicionalmente isto nﾃo tem estado ao alcance da Grande Corte, mas como defensores da Lei, nﾃo hｧ nenhum motivo razoｧvel para negligenciar estas ocorrｹncias.`\
+` Tradicionalmente, isto nﾃo tem estado ao alcance da Grande Corte, mas como defensores da Lei, nﾃo hｧ nenhum motivo razoｧvel para negligenciar estas ocorrｹncias.`\
 
 bg BUI_o1a,23
 
@@ -24580,7 +24578,7 @@ ld r,COR_OdorokiA1,24
 bg "bmp\background\sbook\Ka4.jpg",25
 
 ;　ハロウィン期間中にもっとも多く想定される軽犯罪である、泥酔を理由にした暴力行為。@
-` A mais comum contravenﾆﾃo que ocorre durante o Halloween ｪ a violenta conduta divido ﾚ intoxicaﾆﾃo.`@
+` A mais comum contravenﾆﾃo que ocorre durante o Halloween ｪ a violenta conduta devido a intoxicaﾆﾃo.`@
 br
 
 ;　泥酔者に対して暴力行為を行なわないよう啓発することは、不可能だ。@
@@ -24606,7 +24604,7 @@ se1v 2,90
 se1v 2,100
 
 ;また、未成年の非行の温床となることから、併せて職員の喫煙も禁止すると知り給えっ。」\
-`E mais, devido ao problemｧtico cosumo indevido de jovens delinquentes, o fumo de tabaco estarｧ igualmente proibido ﾚ toda a equipe."`\
+` E mais, devido ao problemｧtico consumo indevido de jovens delinquentes, o fumo de tabaco estarｧ igualmente proibido a toda a equipe."`\
 
 bg "bmp\background\sbook\Ke6.jpg",2
 
@@ -24724,7 +24722,7 @@ br
 ` Se queremos demandar a Execuﾆﾃo Disciplinar aos outros, devemos primeiro demandｧ-la a nｫs mesmos.`@` Nﾃo hｧ nenhum problema nisso, correto?`\
 
 ;　コーネリアは若々しい情熱を秘めた胸を、誇らしげに張るが、職員たちのざわめきと陰口は収まらなかった…。\
-` O peito de Cornelia se estufou em uma mistura de paixﾃo e orgulho, mas isso nﾃo foi capaz de aliviar a dor de ouvir desagradｧveis sussurros e murmurosos dos outros membros de sua equipe...`\
+` O peito de Cornelia se estufou em uma mistura de paixﾃo e orgulho, mas isso nﾃo foi capaz de aliviar a dor de ouvir desagradｧveis sussurros e murmｸrios dos outros membros de sua equipe...`\
 
 fede 0,2000
 E_A
@@ -24735,7 +24733,7 @@ bgm1 167
 bg BUI_o1a,5
 
 ;　その日の夕方にはすぐ、職員労働組合の書記長級が部長を直撃。@
-` No mesmo dia, jｧ ao entardecer, o secretｧrio chefe da Uniﾃo dos trabalhadores foi pessoalmente falar com o chefe do departamento.`\
+` No mesmo dia, jｧ ao entardecer, o secretｧrio chefe da Uniﾃo dos Trabalhadores foi pessoalmente falar com o chefe do departamento.`\
 
 ;　お月見の中止撤回と、飲酒・喫煙禁止の撤回。@
 ` Ele demandava a revogaﾆﾃo do cancelamento da festa de observaﾆﾃo da Lua e o banimento do ｧlcool e tabaco.`@
@@ -24787,7 +24785,7 @@ se1 47
 
 se2 48
 ;「吸うとさ、能率が上がるんだよ。@これ、今日中に決裁に回さないといけないし。」@
-`"Minha eficiｹncia aumenta quando estou fumando. Veja, atｪ jｧ terminei de escrever as sansｷes de hoje."`@
+`"Minha eficiｹncia aumenta quando estou fumando. Veja, atｪ jｧ terminei de escrever as sanﾆｷes de hoje."`@
 
 se3 41
 ;「してるよ、禁煙の努力は。@/
@@ -24798,14 +24796,14 @@ se3 41
 
 
 ;　そんな返事ばかり。@吸わない人間にはわからないよ、みたいなことばかり言われ、追い払われてしまう。\
-` Sempre a mesma desculpa. ｴ difｨcil para pessoas que nﾃo fumam entenderem isso.`\
+` Sempre a mesma desculpa. ｴ difｨcil para pessoas que nﾃo fumam entender isso.`\
 
 bg black,22
 
 bg "bmp\background\sbook\Ke_s3.jpg",22
 
 ;　ならばせめて飲酒は。@お月見会は自粛してくれるだろうかと思ったが、部内全員の出席は相変わらずで、誰も辞退を申し出た者はいなかった。\
-` E quanto ao ｧlcool? Ao menos se abstiveram de beber?@` Pensei que ao menos eles poderiam se auto-disciplicar durante a festa de observaﾆﾃo da Lua, mas nem um ｸnico membro do departamento concordou com isso.`\
+` E quanto ao ｧlcool? Ao menos se abstiveram de beber?@` Pensei que ao menos eles poderiam se autodisciplinar durante a festa de observaﾆﾃo da Lua, mas nem um ｸnico membro do departamento concordou com isso.`\
 
 bg "bmp\background\sbook\Ke_s2.jpg",24
 
@@ -24850,7 +24848,7 @@ fede 10,1000
 bg cit_1a,22
 
 ;　駅前や繁華街で連日配るにはかなりの数が必要だ。@だから数万個をわけてもらうよう交渉済みだったのだ。\
-` A distribuiﾆﾃo diｧria de produtos nas estaﾆｷes e e distritos de compras dura um considerｧvel nｸmero de dias, por isso mais de dez mil deles jｧ haviam sido preparados.`\
+` A distribuiﾆﾃo diｧria de produtos nas estaﾆｷes e distritos de compras dura um considerｧvel nｸmero de dias, por isso mais de dez mil deles jｧ haviam sido preparados.`\
 
 bg black,22
 bg "bmp\background\sbook\Ke5.jpg",25
@@ -24871,7 +24869,7 @@ me1 24
 `"Ei, sobre onde colocaram as caixas... o lugar jｧ havia sido esvaziado de antemﾃo para as entregas da prｫxima semana, entﾃo...`@` Acha que pode arrumar tudo atｪ lｧ?"`\
 
 ;「この程度の数、みんなで配ればあっという間に片付く也！　@まったく問題ないと知り給えっ。」@
-`"Contanto que todos ajudem, tal quantidade pode facilmente ser entregue em pouco tempo!`@` Ratifico que nﾃo haverﾃo problemas quanto a isso!"`@
+`"Contanto que todos ajudem, tal quantidade pode facilmente ser entregue em pouco tempo!`@` Ratifico que nﾃo haverｧ problemas quanto a isso!"`@
 br
 
 ;「ざわざわ。」@「くすくす。」\
@@ -24937,7 +24935,7 @@ Me2v 29,70
 ld r,COR_majimeA2,24
 
 ;「謹啓っ、謹んで申し上げるもの也…！　@ハ、ハロウィン期間中の綱紀粛正にご理解ご協力賜りたくここにお願い申し上げ奉るっ。」\
-`"Senhoris, ratifico aqui minhas intenﾆｷes...!`@` H-Humildemente requiro vossa compreensﾃo e assistｹncia a fim de encorajar o cumprimento da lei e da ordem durante o perｨodo do Hallowee."`\
+`"Senhoris, ratifico aqui minhas intenﾆｷes...!`@` H-Humildemente requiro vossa compreensﾃo e assistｹncia a fim de encorajar o cumprimento da lei e da ordem durante o perｨodo do Halloween."`\
 
 ;　聞き慣れない法語に、道行く人たちは珍しそうに顔を向ける。@制服姿も珍しいのだろう。@
 ` Para transeuntes desabituados com o Vernｧculo da Corte, minha forma incomum de falar os fez virar o rosto. Meu uniforme tambｪm deve ter passado uma mｧ impressﾃo a eles.`@
@@ -24956,7 +24954,7 @@ bg black,22
 bg cit_3a,22
 
 ;　……やはり、法語では駄目なのだろうか。@
-` ......No fim eles estavam certos sobre o Vernｧculo da Corte.`@
+` ......No fim, eles estavam certos sobre o Vernｧculo da Corte.`@
 br
 
 ;　しかし、自分の不慣れな口語で、道行く彼らに伝えられるだろうか……。\
@@ -25038,7 +25036,7 @@ bg cit_3a,0
 ld r,COR_KomaruA2,22
 
 ;「…ハロウィン期間中の、……綱紀粛正に……、@ご協力を……お願いしまぁす…。」\
-`"...Execuﾆﾃo Disciplicar......no Halloween...`@`...peﾆo por sua......cooperaﾆﾃo..."`\
+`"...Execuﾆﾃo Disciplinar......no Halloween...`@`...peﾆo por sua......cooperaﾆﾃo..."`\
 
 ;　……恥ずかしい気持ちに堪えながら、懸命に口語で受け取ってくれるように訴える。@
 ` ......Lutando contra a vergonha, eu recorri ﾚ uma forma normal de falar com o intuｨdo de ser compreendida.`@
@@ -25132,7 +25130,7 @@ bg black,2
 bg moon_2a,6
 
 ;　お月見をするというだけあって、その夜は、丸くて酷薄なくらいに真っ白な、満月だった。@
-` Quanto a apreciaﾆﾃo da Lua, eu ouvi ela estarｧ especialmente grande esta noite; uma brilhante e perfeita Lua cheia.`\
+` Quanto a apreciaﾆﾃo da Lua, eu ouvi que ela estarｧ especialmente grande esta noite; uma brilhante e perfeita Lua cheia.`\
 
 ;　職場の彼らは、せめてこの期間だけ飲酒を自粛するということにさえ、協力してはくれなかったのだ。\
 ` Logo me encontrei pensando que talvez meus colegas de trabalho, sｫ dessa vez, cooperassem, abstendo-se de beber.`\
@@ -25244,7 +25242,7 @@ br
 `"............Nﾃo tive qualquer oportunidade para rｪplica."`\
 
 ;「……理想を変えるか、自分を変えるかしか、ない。」@
-`"......Mudar os ideias de alguｪm significa mudar a si mesma."`\
+`"......Mudar os ideais de alguｪm significa mudar a si mesma."`\
 ;「……………………。」\
 `"........................"`\
 
@@ -25325,7 +25323,7 @@ bg cit_2a,2
 `"Ao que refere-se, ......Excelｹncia?"`\
 
 ;　この仕事に？@　理想に？@　あるいは現実に？@
-` A este trabalho?`@` Meus ideias?`@` Ou seria a realidade?`@
+` A este trabalho?`@` Meus ideais?`@` Ou seria a realidade?`@
 br
 
 ;　上級補佐官は、/
@@ -25442,7 +25440,7 @@ br
 ld r,GER_defA2,80
 
 ;「……夢も、理想も。@その実現も。@……連帯なくして、成り立たないと知り給え。」@
-`"......Sonhos e ideias.`@` Bem como as realizaﾆｷes.`@` ......Fique ciente de que nenhum deles sﾃo coisas as quias possam ser alcanﾆadas por conta prｫria."`\
+`"......Sonhos e ideais.`@` Bem como as realizaﾆｷes.`@` ......Fique ciente de que nenhum deles sﾃo coisas as quais possam ser alcanﾆadas por conta prｫria."`\
 
 ld l,COR_majimeA1,23
 ld l,COR_komaruA2,80
@@ -25452,7 +25450,7 @@ ld l,COR_komaruA2,80
 ld r,GER_defA1,80
 
 ;「人は、理想には、耳を貸さない。」@
-`"As pessoas nﾃo darﾃo ouvidos a ideias."`\
+`"As pessoas nﾃo darﾃo ouvidos a ideais."`\
 
 ld l,COR_majimeA1,80
 
@@ -25465,14 +25463,14 @@ bg black,2
 ` Em deferｹncia a esta questﾃo, a Assessora Superior respondeu silenciosamente.`\
 
 ;　人は、理想には、耳を貸さない。@
-` As pessoas nﾃo darﾃo ouvidos a ideias.`@
+` As pessoas nﾃo darﾃo ouvidos a ideais.`@
 ;　人は、他人には、耳を貸さない。@
 ` As pessoas nﾃo darﾃo ouvidos aos outros.`@
 ;　人は、友人には、耳を貸さないこともない。@
 ` Mas ｪ possｨvel que as pessoas ouﾆam seus amigos.`@
 br
 ;　そして友人が理想を語ったなら、@力を貸さないこともない、かもしれない。\
-` Por isso, se falar com eles sobre seus ideias,`@` ｪ possｨvel que seus amigos a ajudem.`\
+` Por isso, se falar com eles sobre seus ideais,`@` ｪ possｨvel que seus amigos a ajudem.`\
 
 ;bg black,22
 bg cit_2a,22
@@ -25489,7 +25487,7 @@ br
 
 
 ;　どんな理想も、その前に。@
-` Sejam eles quais forem seus ideias, isto sempre vem primeiro.`@
+` Sejam eles quais forem seus ideais, isto sempre vem primeiro.`@
 br
 ;　……コミュニケーションがなければ、伝わるわけもないのだ。\
 ` ......Se nﾃo houver comunicaﾆﾃo, nada serｧ transmitido.`\
@@ -25543,7 +25541,7 @@ br
 br
 
 ;　勘違いしているとしたって、@……信じた理想のために、ここまで来たんじゃなかったっけ……。\
-` Seria isto apenas um mal-entendido?`@` ......Eu nﾃo estou aqui agora por causa dos ideias que tanto acreditei......?`\
+` Seria isto apenas um mal-entendido?`@` ......Eu nﾃo estou aqui agora por causa dos ideais que tanto acreditei......?`\
 
 bg black,22
 bg cit_3a,2
@@ -25556,10 +25554,10 @@ br
 ` Assim elas nﾃo ficaram mais atrapalhando o trabalho.`\
 
 ;　彼女はどういうわけか、あらゆる経緯をすべて知っていたのだ。@
-` Nﾃo sei como ou porquｹ, mas parece que ela estava ciente de todas as circustｯncias ao meu redor.`@
+` Nﾃo sei como ou porque, mas parece que ela estava ciente de todas as circustｯncias ao meu redor.`@
 br
 ;　後に、係長が彼女の知人で、その身を案じて、相談に乗るように頼んでいたことを知る。\
-` Mais tarde, eu aprendi que ela era uma conhecida do chefe do escritｫrio, que estavam com algumas preocupaﾆｷes e pediu conselhos a ela.`\
+` Mais tarde, eu aprendi que ela era uma conhecida do chefe do escritｫrio, que estava com algumas preocupaﾆｷes e pediu conselhos a ela.`\
 
 ;　彼女も変わり者で、新人の当時に、相当の苦労があったという。@
 ` Quando novata, Gertrude possuｨa uma excｹntrica similaridade e tambｪm sofreu com suas prｫprias dificuldades.`@
@@ -25612,10 +25610,10 @@ br
 ` Antes disso, ......eu quero me tornar uma adulta por completo.`\
 
 ;　そして、もしそれを成し遂げられたなら、@……いつかは再び、幼い日の夢をもう一度思い出してもいいだろう。@
-` E para que eu posso atingir esse objetivo...`@`...talvez eu deva relembrar mais uma vez meus sonhos de infｯncia.`\
+` E para que eu possa atingir esse objetivo...`@`...talvez eu deva relembrar mais uma vez meus sonhos de infｯncia.`\
 
 ;　私はそれを彼女に告げ、その夜を終えた。\
-` Depois de tｹ-la informado sobre tudo isso a ela, a noite eventualmente chegou a fim.`\
+` Depois de tｹ-la informado sobre tudo isso, a noite eventualmente chegou a fim.`\
 
 
 
@@ -25650,7 +25648,7 @@ ld r,COR_KomaruA1,80
 bg "bmp\background\sbook\Ke5.jpg",25
 
 ;　微笑む係長は多分、上級補佐官から顛末を聞かされている。@
-` O chefe do escritｫrio estava sorridente. A Assessora Superior deve ter contado tudo para ele`\
+` O chefe do escritｫrio estava sorridente. A Assessora Superior deve ter contado tudo para ele.`\
 
 ;　彼女に話した私の幼い夢と、現実との軋轢、そして再出発の決意も、知っているだろう。@
 ` Ele provavelmente jｧ sabia, por meio dela, sobre meus sonhos de crianﾆa, meus conflitos com a realidade e minha decisﾃo de recomeﾆar.`@
@@ -25662,7 +25660,7 @@ br
 bg "bmp\background\sbook\Ke_S3.jpg",26
 
 ;「人はねぇ。@年齢や就職で大人になるんじゃありません。@その後の人生をね、じっくりかけて。円熟させて行って。@大人というものを探すものなんです。@……コーネリアちゃんは若いから、いつも何かに間に合わないかのような焦燥感に脅かされてるかもしれないけれど。@そんなことはないよ？@　人生なんて、ホントに長いんだから。」\
-`"Sabe,`@` ser adulto nﾃo ｪ algo definido pela idade ou emprego.`@` Antes disso vocｹ deve prestar atenﾆﾃo a vida.`@` Precisa amadurecer, entender o que ｪ a vida adulta.`\` ......Cornelia-chan, vocｹ ainda ｪ jovem e pode estar frustrada, pensando que jｧ nﾃo tem mais tempo para isso.`@` Mas isso nﾃo ｪ verdade, sabia?`@` Afinal, a vida ｪ muito longa."`\
+`"Sabe,`@` ser adulto nﾃo ｪ algo definido pela idade ou emprego.`@` Antes disso vocｹ deve prestar atenﾆﾃo ﾚ vida.`@` Precisa amadurecer, entender o que ｪ a vida adulta.`\` ......Cornelia-chan, vocｹ ainda ｪ jovem e pode estar frustrada, pensando que jｧ nﾃo tem mais tempo para isso.`@` Mas isso nﾃo ｪ verdade, sabia?`@` Afinal, a vida ｪ muito longa."`\
 
 bg black,22
 
@@ -25679,7 +25677,7 @@ bg white,22
 bg "bmp\background\sbook\Ke_S3.jpg",2
 
 ;　いつもと何も変わらない、退屈で希薄な職場が、/
-`O tedioso, lamentｧvelmente, inadequado e imutｧvel local de trabalho`/
+`O tedioso, lamentｧvel, inadequado e imutｧvel local de trabalho`/
 ;!d900……ほんの少しだけ、和らいで見えた。\
 !d900`......comeﾆou a parecer um pouco mais descontraｨdo que o de costume.`\
 
@@ -25869,7 +25867,7 @@ quakex 2,200
 ` Cada fio de cabelo do corpo de Dlanor estava arrepiado.`@` Como se todo seu corpo estivesse coberto de urticｧria.`\
 
 ; ドラノールは管理職のくせに、ハンコ恐怖症だ。@一日、ハンコを押すことなど、苦行を通り越して拷問だ。\
-` Apesar de cuidar da administraﾆﾃo Dlanor, possuｨa uma fobia ﾚ carimbos.`@` Era uma tortura, imposta com o propｫsito para ela superｧ-la e comeﾆar a carimbar as coisas.`\
+` Apesar de cuidar da administraﾆﾃo, Dlanor possuｨa uma fobia a carimbos.`@` Era uma tortura, imposta com o propｫsito para ela superｧ-la e comeﾆar a carimbar as coisas.`\
 
 bg black,22
 
