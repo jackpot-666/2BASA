@@ -7833,7 +7833,7 @@ ld r,BUT_DefA2,22
 ld l,GOH_hohoemiA1,23
 
 ;「……ところで戦人さま。@ＥＰ６の準備は如何ですか。」\
-`".....A propｫsito, Battler-sama,`@` Como estﾃo as preparaﾆｷes para o EP6?"`\
+`".....A propｫsito, Battler-sama,`@` como estﾃo as preparaﾆｷes para o EP6?"`\
 ;＜郷田
 
 bgm1 174
@@ -8034,7 +8034,7 @@ bg Mlib_1cP,0
 ld l,BUT_FutekiA1,23
 
 ;「……じゃあ、逆に質問だな。@どんな見せ場が欲しい？@　おいしいデザートのお礼だ。@ドーンと俺が叶えてやるぜ！」@
-`".....Nesse caso, ｪ melhor perguntar direto aos envolvidos.`@` Que tipo de papel vocｹs querem?`@` Esse vai ser meu agradecimento pelos doces deliciosos.`@` Concederei a vocｹs tudo o que quiserem!"`\
+`"......Nesse caso, ｪ melhor perguntar direto aos envolvidos.`@` Que tipo de papel vocｹs querem?`@` Esse vai ser meu agradecimento pelos doces deliciosos.`@` Concederei a vocｹs tudo o que quiserem!"`\
 ;＜戦人
 
 ld r,GOH_hohoemiA2,24
@@ -8525,9 +8525,9 @@ ld l,EV2_FukigenA3,80
 ;!d600……もっと……、/
 ;!d600……短くして下さ……ぃぃ……。」/
 
-!s0`"....P-`/
-!d600`...Por favor......`/
-!d600`... deixe-a menor......"`/
+!s0`"......P-`/
+!d600`......Por favor......`/
+!d600`......deixe-a menor......"`/
 
 !sd\
 ;＜エヴァ
@@ -10103,7 +10103,7 @@ ld r,SHA_fumanA1,24
 ld r,SHA_OdorokiA2,80
 
 ;……え、ＦＲＢ、グリーンスパン前議長よりお電話です…。」\
-`......N-Nｫs recebemos um telefonema do antigo Presidente da Reserva Federa, Alan Greenspan..."`\
+`......N-Nｫs recebemos um telefonema do antigo Presidente da Reserva Federal, Alan Greenspan..."`\
 
 bg Mlib_1e,26
 
@@ -14414,7 +14414,7 @@ se1 1010
 ld l,JES_AkuwaraiA1,80
 
 ;「お、……確かにこれなら私にも出来そう。@本当に、少女雑誌に載ってそうなおまじないって感じだぜ。」\
-`"Oh......acho que atｪ eu consigo essa. `@`Realmente, parece um feitiﾆo que vocｹ encontraria naquelas revistas adolescentes."` \
+`"Oh, ......acho que atｪ eu consigo essa. `@`Realmente, parece um feitiﾆo que vocｹ encontraria naquelas revistas adolescentes."` \
 ;＜朱志香
 
 ld c,ZEP_DefA1,24
@@ -17559,7 +17559,7 @@ bg Mkit_1a,26
 `Maior que uma banheira comum de uma casa, `@
 `......jｧ que ele deve servir para cozinhar carne humana, naturalmente.`\
 ;　何か物騒な料理が…？@　それとも悪趣味な拷問が……？@
-`ｴ um prato de cozimento mortal...?`@` Ou seria uma tortura de mau gosto...?`@
+`ｴ um prato de cozimento mortal...?`@` Ou seria uma tortura de mau gosto......?`@
 ;br
 
 vsp bgsp2,0
@@ -17792,13 +17792,13 @@ ld r,RON_WaraiA1,24
 `"Sim, sim.`@` Parece que a Asmo ｪ a mais entusiasmada.`@` Vamos parabenizｧ-la. `@/
 
 ;さ、皆さん、一つずつ。@異性に気なる人がいなければ、同性でも結構ですよ。@とにかく、絶対にひとりひとつを誰かに渡すように。@渡さなかったら………。」\
-`Agora, cada uma de vocｹs, uma por uma.`@` Se nﾃo houver ninguｪm do sexo oposto ou do mesmo sexo que interesse a vocｹs, tudo bem.`@` Mesmo assim, entreguem para alguｪm.`@` Senﾃo..." `\
+`Agora, cada uma de vocｹs, uma por uma.`@` Se nﾃo houver ninguｪm do sexo oposto ou do mesmo sexo que interesse a vocｹs, tudo bem.`@` Mesmo assim, entreguem para alguｪm.`@` Senﾃo........." `\
 ;＜ロノウェ
 
 ld l,RG1_komaruA2,23
 
 ;「渡さなかったら………？」@
-`"Senﾃo...?"`\
+`"Senﾃo......?"`\
 ;＜ルシファー
 ;br
 ;　ルシファーが恐る恐る聞く…。@しかしロノウェはにっこり微笑んだまま答えない。@
@@ -17874,7 +17874,7 @@ bgm1 3
 ld r,RG7_WaraiA2,80
 
 ;「うっふふふふ～♪@　そんなの決まってるじゃない～！@　ＥＰ４から登場の素敵な白馬の王子様！@　天草十三さまに決まってるじゃな～い！」\
-`"Uffufufufu~～♪`@` ｴ claro que jｧ decidi!`@` O prｨncipe que apareceu em um cavalo branco no EP4!`@` Amakusa Juuza-sama, nﾃo ｪ ｫbvio?!"`\
+`"Uffufufufu~～♪`@` ｴ claro que jｧ decidi!`@` O maravilhoso prｨncipe que apareceu em um cavalo branco no EP4!`@` Amakusa Juuza-sama, nﾃo ｪ ｫbvio?!"`\
 ;＜アスモ
 
 bg G1F_S1cP,0
@@ -18764,7 +18764,7 @@ ld r,RG2_AkuwaraiA1,80
 ld l,KIR_waraiA2,80
 
 ;「………え、何？@　何の話？」@
-`"...Hﾃ, o quｹ?`@` O que vocｹ disse?" `\
+`".........Hﾃ, o quｹ?`@` O que vocｹ disse?" `\
 ;＜霧江
 ;br
 ;　霧江は笑顔の表情のまま、気温だけを零下に下げて聞きなおす。\
@@ -18956,7 +18956,7 @@ ld c,JES_TereruA1,23
 ld c,JES_IkariA1,80
 
 ;　……って、おわッ！@　お、お前、煉獄の七姉妹のッ！」/
-`...Eh, owaa!`@` V-Vocｹ ｪ uma das Sete Irmﾃs do Purgatｫrio!" `\
+`......Espera, owaa!`@` V-Vocｹ ｪ uma das Sete Irmﾃs do Purgatｫrio!" `\
 
 se1 13
 quakey 2,300
@@ -27189,7 +27189,7 @@ next
 ;　もちろん僕も楽しんでるよ！@
 ;　何しろ今日は、奥手な男子たちを、チョコの毒牙で狩り立てることが許された一日だからね。\
 `Naturalmente, eu tambｪm estou o apreciando! `@
-`Afinal, hoje ｪ o dia no qual se ｪ permitido caﾆar os homens mais introvertidos ultilizando dos artifｨcios do chocolate. `\
+`Afinal, hoje ｪ o dia no qual se ｪ permitido caﾆar os homens mais introvertidos utilizando dos artifｨcios do chocolate. `\
 
 for %Free3 = 60 to 120
 resettimer
