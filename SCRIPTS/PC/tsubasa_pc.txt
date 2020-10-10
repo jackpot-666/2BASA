@@ -4751,7 +4751,7 @@ ld l,S41_AkuwaraiA1,23
 `410 acha hilｧrio perturbar 45, por isso ela intencionalmente ignora suas agrimensuras e executa tiros difｨceis e excｹntricos.`\
 
 ;……仰天するような射撃を行ない、４５を驚かせたり困らせたり。@４１０はそれに悦を得て、ますますにそれをエスカレートさせることで、戦果に結び付けているらしいのである。\
-`......Sua pontaria ｪ verdadeiramente surpreendente, para surpresa e desｯnimo de 45.`@` Parece que suas reaﾆｷes servem apenas para aumentar a auto-satisfaﾆﾃo de 410, piorando ainda mais seu comportamento e contribuindo para seu sucesso militar.`\
+`......Sua pontaria ｪ verdadeiramente surpreendente, para surpresa e desｯnimo de 45.`@` Parece que suas reaﾆｷes servem apenas para aumentar a autossatisfaﾆﾃo de 410, piorando ainda mais seu comportamento e contribuindo para seu sucesso militar.`\
 textoff
 
 cl l,24
