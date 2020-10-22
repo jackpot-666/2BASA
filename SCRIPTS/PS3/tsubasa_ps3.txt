@@ -10103,12 +10103,12 @@ ld r,SHA_fumanA1,24
 ld r,SHA_OdorokiA2,80
 
 ;……え、ＦＲＢ、グリーンスパン前議長よりお電話です…。」\
-`......N-Nｫs recebemos um telefonema do antigo Presidente da Reserva Federal, Alan Greenspan..."`\
+`......n-nｫs recebemos um telefonema do antigo Presidente da Reserva Federal, Alan Greenspan..."`\
 
 bg Mlib_1e,26
 
 ;「……百年ぶりかね。」\
-`"...Jｧ fazem cem anos."`\
+`"......Jｧ faz cem anos."`\
 bg Mlib_1c,0
 ld r,SHA_OdorokiA2,0
 ld c,KLA_DefA1,22
