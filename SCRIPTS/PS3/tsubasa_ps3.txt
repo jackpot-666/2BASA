@@ -25439,7 +25439,7 @@ br
 ld r,GER_defA2,80
 
 ;「……夢も、理想も。@その実現も。@……連帯なくして、成り立たないと知り給え。」@
-`"......Sonhos e ideias.`@` Bem como as realizaﾆｷes.`@` ......Fique ciente de que nenhum deles sﾃo coisas as quais possam ser alcanﾆadas por conta prｫria."`\
+`"......Tanto sonhos quanto ideais,`@` assim como a concretizaﾆﾃo dos mesmos,`@` ......fique ciente de que sem a solidariedade, nada realizarｧ por conta prｫpria."`\
 
 ld l,COR_majimeA1,23
 ld l,COR_komaruA2,80
