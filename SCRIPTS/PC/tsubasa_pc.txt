@@ -15197,7 +15197,7 @@ mld c,JES_IkariA1,80
 
 `"Eu nﾃo fiz nada errado. `@`Eu segui firmemente o processo descrito nesta pｧgina, assim como mostra a ilustraﾆﾃo!" `\
 `"Pingue trｹs gotas de ｧgua na testa e, enquanto recita o 'encantamento' e dｹ trｹs pulinhos sem sair do lugar." `\
-`"O encantamento ｪ o que a a bruxa da ilustraﾆﾃo estｧ recitando, nｪ? `@`Uroshito, uroshito." `\
+`"O encantamento ｪ o que a a bruxa da ilustraﾆﾃo estｧ recitando, nｪ? `@`Roshito, roshito." `\
 
 ;＜朱志香
 
@@ -15213,7 +15213,7 @@ ld l,FUR_AkireA1,0
 ld r,ZEP_AkireA1,22
 
 ;「「トシロウって、誰？」」\
-`""Quem ｪ Toshirou?"" `\
+`""Quem ｪ Toshiro?"" `\
 ;＜ゼパル・フルフル
 
 textoff
@@ -15224,7 +15224,7 @@ fedexx 70,0,0,0,0,0,1000
 ld c,JES_ikariA1,80
 
 ;「はぁ？@　唐突に何だよ、私が聞きたいぜ。@トシロウって誰だ？！@/
-`"Hﾃ? `@`Que tipo de pergunta ｪ essa, sou eu quem deveria perguntar. `@`Quem diabos ｪ Toshirou?" `\ 
+`"Hﾃ? `@`Que tipo de pergunta ｪ essa, sou eu quem deveria perguntar. `@`Quem diabos ｪ Toshiro?" `\ 
 
 ld c,JES_KomaruA1,80
 
@@ -15268,14 +15268,14 @@ ld r,JES_KomaruA2,23
 ld r,JES_OdorokiA1,80
 
 ;「え？！@　好きな人の名前を逆さに？！@　ウロシト、ウロシトって唱えるんじゃないの？！」@
-`"Hﾃ? `@`Dizer o nome da pessoa amada ao contrｧrio?! `@`Nﾃo era para dizer uroshito, uroshito?" `\
+`"Hﾃ? `@`Dizer o nome da pessoa amada ao contrｧrio?! `@`Nﾃo era para dizer roshito, roshito?" `\
 ;＜朱志香
 
 
 ld l,FUR_WaraiA2,23
 
 ;「だから、ウロシトは、好きな人がトシロウさんの場合の一例だってば。」\
-`"ｴ por isso que estamos dizendo, uroshito ｪ um exemplo, se a pessoa amada se chamar Toshirou." `\
+`"ｴ por isso que estamos dizendo, roshito ｪ um exemplo, se a pessoa amada se chamar Toshiro." `\
 ;＜フルフル
 
 
@@ -15365,7 +15365,7 @@ ld c,GOH_MajimeA1,22
 ;　その頃、厨房にて。@
 ;　郷田“トシロウ”は悩んでいました……。\
 `Enquanto isso, na cozinha. `@
-`Gohda 'Toshirou' estava perturbado...... `\
+`Gohda 'Toshiro' estava perturbado...... `\
 
 
 me1 5
@@ -15404,7 +15404,7 @@ ld c,JES_WaraiA2,23
 se1 47
 
 ;　郷田さんのこと……、これからは、トシロウさんって呼んでもいい……？@
-`Gohda-san......, de agora em diante, posso te chamar sｫ de Toshirou-san...? `\ 
+`Gohda-san......, de agora em diante, posso te chamar sｫ de Toshiro-san...? `\ 
 
 
 ;br
