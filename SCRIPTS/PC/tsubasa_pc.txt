@@ -7662,7 +7662,7 @@ bg Mlib_1cP,0
 ld c,BUT_DefA1,22
 
 ;「おう、源次さんか。@と思ったら、熊沢の婆ちゃんに郷田さんに、南條先生まで。@使用人大人勢一同って感じだな。」\
-`"Oh, se nﾃo ｪ o Genji-san.`@` E como pensei, a Kumasawa baa-chan, o Gohda-san e o Doutor Nanjo tambｪm vieram.`@` Eu senti que todos os serviﾆais adultos apareceriam."`\
+`"Oh, se nﾃo ｪ o Genji-san.`@` E como pensei, a Kumasawa baa-chan, o Gohda-san e o doutor Nanjo tambｪm vieram.`@` Eu senti que todos os serviﾆais adultos apareceriam."`\
 ;＜戦人
 
 bg Mlib_1bP,0
@@ -7904,7 +7904,7 @@ ld l,GEN_MajimeA2,22
 ld l,GEN_DefA1,80
 
 ;「……この中で一番奮闘しました郷田が、２２位。@南條先生は４８位。@熊沢は５３位でございました…。」@
-`"......Dentre nｫs, aquele que conseguiu se sair melhor, o Gohda, ficou na posiﾆﾃo 22.`@` O Doutor Nanjo na 48.`@` E a Kumasawa ficou na 53..."`\
+`"......Dentre nｫs, aquele que conseguiu se sair melhor, o Gohda, ficou na posiﾆﾃo 22.`@` O doutor Nanjo na 48.`@` E a Kumasawa ficou na 53..."`\
 ;＜源次
 
 
