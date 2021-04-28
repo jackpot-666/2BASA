@@ -6047,7 +6047,7 @@ bg rose_1cp,22
 `Parecia que ela estava refletindo sobre a melhor maneira de recusar e nﾃo conceder o desejo. `@
 ;br
 ;　出来ないことは何もないと信じているベアトが、そんな表情を見せるので、@真里亞は不安になってしまう…。\
-`Quando Maria viu Beato, quem acreditava ser capaz de fazer qualquer coisa, demonstrando uma expressﾃo dessas,`@` ela coemﾆou a ficar apreensiva... `\
+`Quando Maria viu Beato, quem acreditava ser capaz de fazer qualquer coisa, demonstrando uma expressﾃo dessas,`@` ela comeﾆou a ficar apreensiva... `\
 
 bg white,24
 bg rose_3bP,0
@@ -6749,7 +6749,7 @@ bg "bmp\background\sbook\JT1.bmp",22
 `E isso ｪ o suficiente para eles. `@
 ;br
 ;　そして彼女は必ず願いを叶えるだろう。@どのような願いであっても。@必ずいつか。@
-`E ela definitivamente concederｧ esse desejo.`@` Nﾃo importa que tipo de desejo.`@` Definitivamente, algum dia.`\
+`Ela definitivamente concederｧ esse desejo.`@` Nﾃo importa que tipo de desejo.`@` Definitivamente, algum dia.`\
 ;br
 ;　それがひとりの少女の、神になりたいという願いでさえ……。\
 `Mesmo se o desejo fosse feito por uma garotinha, que queria se transformar em um deus......`\
