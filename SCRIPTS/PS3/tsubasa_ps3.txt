@@ -7320,7 +7320,7 @@ ld c,RUD_WaraiA1,0
 ld r,BUT_DefA2,22
 
 ;「幸せを感じても駄目。@喜びを感じても駄目。@………家族を失った嘆きを、永遠に忘れては駄目よ。@……そしてそれを忘れさせようとしたり、誤魔化そうとしたりする悪魔から、自らを遠ざけなさい。@………右代宮絵羽は、甘い言葉であなたのその意思を挫こうと何度も試みるでしょう。@でも、それを決して聞いては駄目よ…？@　絵羽は、あなたから家族を永遠に奪おうとする悪魔なのよ。@/
-`"Nﾃo sita a felicidade.`@` Nﾃo sinta a alegria.`@` .........Jamais esqueﾆa a tristeza de ter perdido sua famｨlia.`@` ......E fique longe do demﾛnio que tentarｧ fazｹ-la esquecer isso, que tentarｧ enganｧ-la.`\
+`"Nﾃo sinta a felicidade.`@` Nﾃo sinta a alegria.`@` .........Jamais esqueﾆa a tristeza de ter perdido sua famｨlia.`@` ......E fique longe do demﾛnio que tentarｧ fazｹ-la esquecer isso, que tentarｧ enganｧ-la.`\
 `.........Ushiromiya Eva vai tentar esmagar essa sua determinaﾆﾃo diversas vezes, usando de palavras doces.`@` Mas vocｹ nunca deve escutｧ-la, entendeu...?`@` Eva ｪ o demﾛnio que tentarｧ roubar sua famｨlia de vocｹ por toda a eternidade. `\
 
 se1 37
