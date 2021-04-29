@@ -23039,7 +23039,7 @@ ld l,BEA_KomaruA4,80
  `Isto ｪ patｪtico......`@` Absolutamente patｪtico.......`\
 
 ;　天下の大魔女、黄金のベアトリーチェが、……情けない……。\
- `Uma das maiores Grandes Bruxas do mundo, BEATRICE o Ouro, ...agindo de forma tﾃo patｪtica...... `\
+ `Uma das maiores Grandes Bruxas do mundo, BEATRICE, do Ouro, ...agindo de forma tﾃo patｪtica...... `\
 
 
 
