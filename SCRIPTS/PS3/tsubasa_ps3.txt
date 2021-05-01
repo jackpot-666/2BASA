@@ -20333,8 +20333,7 @@ bg G1F_S1cp,0
 ld r,RG3_OdorokiA2,24
 
 ;「か、嘉音ッ…！@　な、何よ、あんた、何しに来たのよッ！」@
-`
-“Ka-Kanon...! O-O que vocｹ estｧ fazendo aqui?”`\
+`“Ka-Kanon...! O-O que vocｹ estｧ fazendo aqui?”`\
 ;＜サタン
 ;br
 ;　サタンは困惑しながらそう叫ぶ。@…ただ、何とも恥ずかしいもので、こう口にしながら、サタンはどうして嘉音が現れたのか察しがついてしまって、顔が紅潮するのを隠せなかった。\
