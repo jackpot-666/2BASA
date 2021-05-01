@@ -20247,8 +20247,7 @@ quakex 2,400
 ;＜ベルフェ
 
 ;　ベルフェらしくない、狼狽した仕草を見せながら、レヴィアタンと揉めながら、ぎゃーぎゃーと賑やかにしている。@……傍から見る分には、楽しそうだった。\
-`
-Agindo ao contrｧrio do seu normal, Belphegor gesticulou de forma agressiva para Leviathan enquanto argumentava, levantando seu tom de voz.`@` ......ﾊ primeira vista, pareciam estar se divertindo.`\
+`Agindo ao contrｧrio do seu normal, Belphegor gesticulou de forma agressiva para Leviathan enquanto argumentava, levantando seu tom de voz.`@` ......ﾊ primeira vista, pareciam estar se divertindo.`\
 
 bg black,24
 bg G1F_S1cp,0
@@ -20438,7 +20437,7 @@ ld l,RG1_OdorokiA3,23
 ld r,BUT_FutekiA1,80
 
 ;「お前、おかしなこと言うヤツだなぁ…。@バレンタインに手作りチョコをくれたのはお前だろうが。@そして俺も、必ずお返しするからなーって約束したはずだぜ？@/
-`"Vocｹ diz umas coisas bem etranhas, hein...?`\
+`"Vocｹ diz umas coisas bem estranhas, hein...?`\
 `Nﾃo foi vocｹ quem me deu chocolates caseiros no Dia dos Namorados? `@`E eu nﾃo tinha prometido que iria dar algo como retribuiﾆﾃo? `\
 
 
@@ -22341,7 +22340,7 @@ bg black,26
 
 ;　泣きながらワルギリアのドレスに顔を埋めるベアト。@
 ;　その様子に、ワルギリアとロノウェは顔を見合わせ、溜息を漏らす。\
- `Beato enterrou seu rosto no vestido de Virgillia enquanto chorava.`@
+ `Beato enterrou seu rosto no vestido de VIRGILIA enquanto chorava.`@
  `VIRGILIA e Ronove olharam um para o outro e suspiraram.`\
 
 bg se1f_S1b,0
