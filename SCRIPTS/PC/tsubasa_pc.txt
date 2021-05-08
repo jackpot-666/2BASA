@@ -29348,7 +29348,7 @@ bg black,22
 
 bg Different_space_2a,22
 
-　Vocｹ ｪ uma bruxa da terra, sentada na praia, esperando que um Fragmento chegue flutuando ﾚ costa?？@
+　Vocｹ ｪ uma bruxa da terra, sentada na praia, esperando que um Fragmento chegue flutuando ﾚ costa？@
 　Ou talvez vocｹ seja uma bruxa viajante...？@
 　ｴ claro, para mim isso nﾃo importa.@
 br
