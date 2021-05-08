@@ -23788,7 +23788,7 @@ br
 ld c,DLA_DefA2,80
 
 ;あれが垂れ下がって初めて、念願の異端審問官となれるのだ。@
-` Dizem que a primeira veze que vocｹ o veste e as tem balanﾆndo, ｪ quando seu mais profundo desejo de se tornar um Inquisidor da Heresia ｪ realmente garantido.`@
+` Dizem que a primeira vez que vocｹ o veste e as tem balanﾆando, ｪ quando seu mais profundo desejo de se tornar um Inquisidor da Heresia ｪ realmente realizado.`@
 
 ;だから、耳のない今の自分の帽子など、ナースキャップの偽物でしかない。\
 ` Por isso, para ela, seu chapｪu atual, sem orelhas, parecia mais um chapｪu de enfermeira`\
@@ -24379,7 +24379,7 @@ bg black,22
 ` Ela apenas tinha problemas de comunicaﾆﾃo, falando de forma inexpressiva e prosaica.`@
 
 ;　誰も友人になれない、近寄り難い人物ではあるが、@アイゼルネ・ユングフラウの７人の異端審問官を陰から支える、８人目の異端審問官とさえ呼ばれていると、誰もが認めるのである。\
-` Mesmo nﾃo tendo nenhum amigo e sendo uma pessoa de difｨcil aproxmaﾆﾃo,`@` todos reconheciam que ela auxiliava os Sete Inquisidores da Eiserne Jungfrau pelas sombras e seus honorｧveis oito membros.`\
+` Mesmo nﾃo tendo nenhum amigo e sendo uma pessoa de difｨcil aproximaﾆﾃo,`@` todos reconheciam que ela auxiliava os Sete Inquisidores da Eiserne Jungfrau pelas sombras e seus honorｧveis oito membros.`\
 
 ;　だから私は、ますますに奮起し、彼女に指し示されたチャンスに挑戦することにした。\
 ` Por isso, minha inspiraﾆﾃo cresceu cada vez mais e decidi aceitar o desafio que ela havia apresentado para mim.`\
@@ -27749,7 +27749,7 @@ me1v 5,30
 ;　風に導かれて。@ベルンカステルがやってきたのは、鬱蒼と茂った、暗い森。\
 `Ela foi guiada pelo vento.`@` E o que BERNKASTEL encontrou foi uma floresta densa, escura e exuberante. `\
 ;「……こんな森の中で殺されたら。@どんなに悲鳴をあげても、誰にも聞いてもらえないわね。@魔女のお茶会にぴったりの森だわ。」\
-`"......Se alguｪm fosse morto nesta floresta,`@` nﾃo importaria o quanto gritasse, ninguｪm ouviria.`@` Uma floresta perfeita para cediar uma festa de chｧ de bruxas." `\
+`"......Se alguｪm fosse morto nesta floresta,`@` nﾃo importaria o quanto gritasse, ninguｪm ouviria.`@` Uma floresta perfeita para sediar uma festa de chｧ de bruxas." `\
 
 
 ;・－・－・－・－・－・－・－・－・－・
@@ -29335,7 +29335,7 @@ bg different_spiral_1b,22
 　Nﾃo, pelo contrｧrio, nｫs que viajamos pelo mar podemos escrever novas falsificaﾆｷes e jogｧ-las no mar tambｪm.@
 　Se, por acaso, uma delas alcanﾆar ﾚ costa, as bruxas na terra irﾃo lutra entre si para lｹ-las.\
 
-　ｴ fascinante pensar sobre isto.@
+　ｴ fascinante pensar sobre isso.@
 br
 　Parece que hｧ bruxas que se divertem muito mais criando falsificaﾆｷes do que buscando por Fragmentos.\
 
@@ -29348,8 +29348,8 @@ bg black,22
 
 bg Different_space_2a,22
 
-　Vocｹ ｪ uma bruxa da terra, sentada na praia, esperando que um Fragmento chegue flutuando ﾚ costa?@
-　Ou talvez vocｹ seja uma bruxa viajante...?@
+　Vocｹ ｪ uma bruxa da terra, sentada na praia, esperando que um Fragmento chegue flutuando ﾚ costa?？@
+　Ou talvez vocｹ seja uma bruxa viajante...？@
 　ｴ claro, para mim isso nﾃo importa.@
 br
 　Se pudｪssemos nos reunir em algum lugar, seria bom se fosse neste grande oceano de Fragmentos.\
