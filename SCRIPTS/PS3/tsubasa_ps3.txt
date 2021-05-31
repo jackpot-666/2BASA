@@ -6779,13 +6779,13 @@ bgm1v 131,60
 ld c,LAM_AkuwaraiA4,24
 
 ;「勝りまくりでしょーが…！@　あんたはグー。@私はパー！！@　それどころか、二回転のひねりまで入った超パーなんだからぁ！」\
-`"ｴ muito melhor...!`@` Vocｹ ｪ pedra.`@` Eu sou papel!!`@` Nﾃo apenas isso, eu sou um superpapel, que foi enrolado duas vezes!"`\
+`"ｴ muito melhor...!`@` Vocｹ ｪ pedra.`@` Eu sou papel!!`@` Nﾃo apenas isso, eu sou um superpapel, que foi dobrado duas vezes!"`\
 ;＜ラムダ
 
 
 ld l,BER_defA1,24
 ;「………二回転ってことは、クルクルってわけね。@……あんたにぴったりよ。」\
-`".........Enrolada duas vezes significa que vocｹ estｧ toda amassada.`@` ......Se encaixa com vocｹ perfeitamente."`\
+`".........Dobrado duas vezes significa que vocｹ estｧ toda amassada.`@` ......Se encaixa com vocｹ perfeitamente."`\
 ;＜ベルン
 
 mcl a,0
@@ -27221,7 +27221,7 @@ print 80
 br
 br
 ;　――恋の狩猟者　ゼパル\
-`――Caﾆador do amor, Zepar.\`
+`――“Caﾆador do amor”, Zepar.\`
 
 
 for %Free3 = 1 to 50
@@ -27324,7 +27324,7 @@ se2 54
 br
 br
 ;　――恋の調教者　フルフル\
-`――Instrutor do Amor, Furfur `\
+`――“Treinador do Amor”, Furfur `\
 
 
 
