@@ -15963,7 +15963,7 @@ bgm1 163
 ;※訳者注：@
 `※Nota de traduﾆﾃo:`@
 ;　厳密には男性であっても魔女（ｗｉｔｃｈ）と呼びます。@
-`estritamente falando, mesmo que seja do sexo masculino, vocｹ ainda pode usar a palavra bruxa(witch).`@
+`estritamente falando, mesmo que seja do sexo masculino, vocｹ ainda pode usar a palavra bruxa(witch).`\
 ;　よって、この“自分”の性別が魔女になりたいとの発言を以って女性だと断じることは出来ません。\
 `Logo, nﾃo ｪ possｨvel concluir que o gｹnero dessa 'pessoa' seja feminino por meio da declaraﾆﾃo 'Eu quero ser uma bruxa'.`\
 ;　それはあまりに直球な、……そう。@…私が待ち焦がれていた言葉。@
