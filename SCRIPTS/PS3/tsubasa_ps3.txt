@@ -5661,7 +5661,7 @@ ld c,S55_waraiA2,80
 `E eu me arrependeria eternamente, me perguntando por que nunca consegui expressar minha gratidﾃo.`\
 
 ;……きっといつか想いが伝わる？@　言葉で伝えるのは野暮？　@互いは通じ合ってるから、今さら言葉なんて必要ない……？@私、そういうのが嫌いになったんです。」\
-`......Serｧ que algum dia um dia meus sentimentos serﾃo trnasmitidos? Usar de palavras assim ｪ insensｨvel? Nｫs jｧ nos entendemos tﾃo bem... ｪ mesmo preciso usar palavras agora......? Eu odeio esse tipo de coisa."`\
+`......Serｧ que algum dia um dia meus sentimentos serﾃo transmitidos? Usar de palavras assim ｪ insensｨvel? Nｫs jｧ nos entendemos tﾃo bem... ｪ mesmo preciso usar palavras agora......? Eu odeio esse tipo de coisa."`\
 
 bg black,24
 bg beach_2a,24
@@ -29299,7 +29299,7 @@ bg Different_space_2a,42
 　Existem incontｧveis tipos de Fragmentos.@
 br
 　A caixa de gato ｪ um oceano sem fundo, havendo infinitas possibilidade dentro dela.@
-　Provavelmente, se vocｹ enfiar sua mﾃo em seu interior, ainda haverｧ muito e muito mais para se descobrir.\
+　Provavelmente, se enfiar sua mﾃo em seu interior, ainda haverｧ muito e muito mais para se descobrir.\
 
 bg Different_space_2b,22
 　Mas, por ora, muitos Fragmentos foram reunidos aqui.@
@@ -29322,11 +29322,11 @@ br
 
 bg book1,22
 
-　Inｸmeras falsificaﾆｷes criadas por falsos autores tambｪm estﾃo ﾚ deriva neste mar.\
+　Inｸmeras falsificaﾆｷes, criadas por falsificadores tambｪm estﾃo ﾚ deriva neste mar.\
 
 bg different_spiral_1a,22
 
-　Alguns deles sﾃo cﾛmicos, outros devastadores. Hｧ tambｪm aqueles sensacionais que irﾃo fazｹ-lo tremer de medo apenas de recordar.@
+　Algumas deles sﾃo cﾛmicos, outros devastadores. Hｧ tambｪm aqueles sensacionais que irﾃo fazｹ-lo tremer de medo apenas de recordar.@
 　ｴ um privilｪgio para nｫs podermos coletar estes Fragmentos que nunca chegarﾃo ﾚ terra firme.\
 
 bg different_spiral_1b,22
@@ -29343,7 +29343,7 @@ bg black,22
 ;bg black,22
 ;bg chess2,22
 　O jogo da BEATRICE jｧ chegou ao seu fim, bem como o tabuleiro se fechou.@
-　Apesar disso, ainda hｧ bruxas sentadas na plateia que ainda nﾃo se levantaram para aplaudir.\
+　Apesar disso, ainda hｧ bruxas sentadas na plateia, que ainda nﾃo se levantaram para aplaudir.\
 
 bg Different_space_2a,22
 
@@ -29358,7 +29358,7 @@ bg Different_space_2c,22
 　Atｪ mais, este presente que trago a vocｹ estｧ em seu fim.@
 br
 　Adeus, bruxas da terra.@
-　E para vocｹs, bruxas viajantes.@
+　E para vocｹs, bruxas do mar.@
 　Vamos nos encontrar muito em breve.\
 
 bg black,2
