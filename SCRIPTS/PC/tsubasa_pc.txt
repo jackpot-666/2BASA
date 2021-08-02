@@ -6776,13 +6776,13 @@ bgm1v 131,60
 mld c,LAM_AkuwaraiA4,24
 
 ;「勝りまくりでしょーが…！@　あんたはグー。@私はパー！！@　それどころか、二回転のひねりまで入った超パーなんだからぁ！」\
-`"ｴ muito melhor...!`@` Vocｹ ｪ pedra.`@` Eu sou papel!!`@` Nﾃo apenas isso, eu sou um superpapel, que foi dobrado duas vezes!"`\
+`"ｴ muito melhor...!`@` Vocｹ ｪ pedra.`@` Eu sou papel!!`@` E mais do que isso, sou um superpapel duplamente limitado!"`\
 ;＜ラムダ
 
 
 ld l,BER_defA1,24
 ;「………二回転ってことは、クルクルってわけね。@……あんたにぴったりよ。」\
-`".........Dobrado duas vezes significa que vocｹ estｧ toda amassada.`@` ......Se encaixa com vocｹ perfeitamente."`\
+`".........Realmente, nﾃo hｧ ninguｪm mais limitada do que vocｹ.`@` ......Combina perfeitamente."`\
 ;＜ベルン
 
 mcl a,0
