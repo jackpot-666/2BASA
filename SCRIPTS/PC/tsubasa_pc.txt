@@ -12000,7 +12000,7 @@ ld r,MAR_WaraiA1,80
 ld c,GEO_HohoemiA1,24
 
 ;「そうだね。@贈る物の値段は関係ないんだよ。@相手を思って、何を贈ったら喜ぶか考え、@自分の足でそれを探し、包んで持ち帰り、感謝の言葉と共に手渡す、その過程。@それがプレゼントという形になって結実して、相手に伝わる。@……魔法と呼んでもいいものだと思うよ。」\
-`"Tem razﾃo.`@` O valor do presente pouco importa.`@` ｴ sobre pensar o que deixaria a pessoa feliz,`@` indo procurar vocｹ mesmo, embrulhando-o e entregando-o junto a palavras de gratidﾃo.`\` Esse ｪ o processo que dｧ forma ao seu presente, para que assim possa ser oferecido a outra pesssoa.`@` ......Acredito que nﾃo faz sentido chamar isso de magia." `\
+`"Tem razﾃo.`@` O valor do presente pouco importa.`@` ｴ sobre pensar o que deixaria a pessoa feliz,`@` indo procurar vocｹ mesmo, embrulhando-o e entregando-o junto a palavras de gratidﾃo.`\` Esse ｪ o processo que dｧ forma ao seu presente, para que assim possa ser oferecido a outra pessoa.`@` ......Acredito que nﾃo faz sentido chamar isso de magia." `\
 ;＜譲治
 
 ld r,MAR_WaraiA2,80
@@ -12013,7 +12013,7 @@ cl a,24
 ld l,BUT_WaraiA1,23
 
 ;「確かにな。@こんな真心の篭った、肩叩き券を贈られちまったら、…ジーンと来ちまうなぁ。」\
-`"Faz sentido.`@` Se ela receber esse cumpom de massagem tﾃo sincero, ...tenho certeza que ficarｧ comovida." `\
+`"Faz sentido.`@` Se ela receber esse cupom de massagem tﾃo sincero, ...tenho certeza que ficarｧ comovida." `\
 ;＜戦人
 
 ld r,JES_WaraiA1,24
@@ -12038,7 +12038,7 @@ ld r,GEO_hohoemiA1,24
 `"Isso mesmo.`@` Mesmo que seja um ato de hipocrisia, ainda ｪ melhor do que nﾃo fazer nada.`@` Acredito que seja aceitｧvel, mesmo sendo pura bajulaﾆﾃo.`\
 
 ;いや、そのつもりでもいいから、たまには何かご恩返しをしてみたら？@　……きっと、何かが素敵になるきっかけになると思うよ。」\
-`Bem, mesmo que essa seja sua intenﾆﾃo, por que nﾃo experimenta retribuiros os favores de vez em quando?`@` ......Tenho certeza que isso poderia se desenvolver em algo bom.." `\
+`Bem, mesmo que essa seja sua intenﾆﾃo, por que nﾃo experimenta retribuir os favores de vez em quando?`@` ......Tenho certeza que isso poderia se desenvolver em algo bom.." `\
 ;＜譲治
 cl l,24
 ld l,MAR_WaraiA2,23
@@ -12113,7 +12113,7 @@ ld l,JES_AisowaraiA1,23
 ld c,MAR_MajimeA1,23
 
 ;「うー。@大切なのは気持ちー。@センスはいいのー。」\
-`"Uu!`@` O que importa ｪ o sentimento.`@` Gosto pessal nﾃo faz diferenﾆa." `\
+`"Uu!`@` O que importa ｪ o sentimento.`@` Gosto pessoal nﾃo faz diferenﾆa." `\
 ;＜真里亞
 
 ;　いやいや、まったく真里亞の言う通り。@
@@ -12285,7 +12285,7 @@ ld r,JES_TohohoA2,24
 ld l,GEO_WaraiA2,80
 
 ;「まぁ、値段に比例して性能が高いと思って間違いないだろうね。@女性の化粧品も同じでしょ？」\
-`"Bem, tenho certeza que a eficiencia ｪ equivalente ao valor.`@` ｴ o mesmo para os cosmｪticos femininos, nｪ?" `\
+`"Bem, tenho certeza que a eficiｹncia ｪ equivalente ao valor.`@` ｴ o mesmo para os cosmｪticos femininos, nｪ?" `\
 ;＜譲治
 
 ld r,JES_AtyaA3,80
@@ -12297,7 +12297,7 @@ ld r,JES_AtyaA3,80
 ld c,BUT_WaraiA2,24
 
 ;「クソ親父のヒゲなぞ、芝刈り機でちょうどいいだろと思いたいとこだが、まぁ、今日は特別だ。@たまには勤労を感謝して、いっちょ、まともなものを買ってやるぜ。」\
-`"Embora eu ache que um cortador de grama seria muito melhor pra barba daquele velho desgraﾆado.... bem, hoje ｪ um dia especial.`@` De vez em quando eu posso mostrar um pouco de gratidﾃo pelo trabaho dele e comprar alguma coisa." `\
+`"Embora eu ache que um cortador de grama seria muito melhor pra barba daquele velho desgraﾆado.... bem, hoje ｪ um dia especial.`@` De vez em quando eu posso mostrar um pouco de gratidﾃo pelo trabalho dele e comprar alguma coisa." `\
 ;＜戦人
 
 cl c,0
@@ -12633,7 +12633,7 @@ ld l,EVA_DefA1,80
 ld c,GEO_WaraiA1,80
 
 ;「台所で開けてみて。@きっと料理の役に立つから。」\
-`"Abra na cozinha.`@` Tenho certeza que serｧ ｸltil para cozinhar." `\
+`"Abra na cozinha.`@` Tenho certeza que serｧ ｸtil para cozinhar." `\
 ;＜譲治
 
 ld l,EVA_WaraiA1,80
@@ -12706,7 +12706,7 @@ bg "bmp\background\sbook\EVA_h1a.bmp",24
 `Dito isso. `@
 br
 ;　絵羽は偶然にもミトンと同じ色だった、どてらを着て、雑炊の煮えたお鍋と一緒に戻ってきた。\
-`Eva colocou suas luvas que, por pura concidｹncia, eram da mesma cor, e vestiu seu kimono, retornando com a penalea de canja. `\
+`Eva colocou suas luvas que, por pura coincidｹncia, eram da mesma cor, e vestiu seu kimono, retornando com a penalea de canja. `\
 
 ld l,HID_WaraiA1,23
 
@@ -12818,7 +12818,7 @@ ld l,NAT_WaraiA1,80
 `Natsuhi entrou na sala de visitas empurrando um carrinho de serviﾆo e preparou tudo. `\
 
 ;　紅茶の淹れ方を厳しく指導されている使用人たちに比べると、夏妃のそれは、少々濃い。@……茶葉によっては、少しエグくしてしまう。@
-`Comparado ao chｧ que ela instruia os serviﾆais a servirem, o de Natsuhi era um pouco forte.`@` ......As folhas de chｧ deixavam um sabor mordaz. `\
+`Comparado ao chｧ que ela instruｨa os serviﾆais a servirem, o de Natsuhi era um pouco forte.`@` ......As folhas de chｧ deixavam um sabor mordaz. `\
 
 ;　しかしそれでも、朱志香は母が自ら淹れてくれた紅茶は嫌いではなかった。\
 `Apesar disso, Jessica nﾃo desprezava o chｧ que sua mﾃe servia. `\
@@ -12826,10 +12826,10 @@ bg black,22
 bg M1F_s1cn,22
 
 ;　家族水入らずでの紅茶のひと時。@使用人たちが嫌いなわけではないが、やはり自分の家族だけだと落ち着くものだ……。@
-`Era o momento da famｨlia aproveitar seu chｧ a sｫs.`@` Nﾃo ｪ como se ela nﾃo gostasse da persenﾆa dos serviﾆais, mas ficar sozinha com sua famｨlia era mais relaxante...... `@
+`Era o momento da famｨlia aproveitar seu chｧ a sｫs.`@` Nﾃo ｪ como se ela nﾃo gostasse da presenﾆa dos serviﾆais, mas ficar sozinha com sua famｨlia era mais relaxante...... `@
 
 ;　そんなところへ、プレゼントしたどてらを着て下りて来る蔵臼…。\
-`Krauss suspotamente teria descido vestindo o kimono que ganhara de presente...`\
+`Krauss supostamente teria descido vestindo o kimono que ganhara de presente...`\
 
 se1 52
 mset2ef 0
@@ -13073,7 +13073,7 @@ ld c,RUD_DefA1,22
 se1 1010
 
 ;　メッセージカードを開くと、霧江の几帳面な文字で短いメッセージが添えられていた。@
-`Quando abriu o cartﾃo, se deparou com uma mensagem metｫdicamente escrita ﾚ mﾃo por Kyrie.`@
+`Quando abriu o cartﾃo, se deparou com uma mensagem metodicamente escrita ﾚ mﾃo por Kyrie.`@
 br
 ;“留弗夫さんへ、日頃の気持ちを込めて。@霧江＆戦人”\
 `'Para o Rudolf-san, com nossos sentimentos diｧrios.`@` Kyrie & Battler'`\
@@ -13134,7 +13134,7 @@ br
 ;　今日の日程が片付いて肩の荷も下り、深夜ということで妙なテンションも高いのか、@留弗夫は、大人な会話を楽しみながら、その受話器を肩で抱え、プレゼントの梱包を解く。\
 `Tendo cumprido sua agenda do dia e tirado o peso dos ombros, ele parecia estranhamente excitado, mesmo sendo tarde da noite. `@`Rudolf estava aproveitando uma conversa adulta, com o receptor do telefone sobre o ombro enquanto desembrulhava seu presente.`\
 ;　浮気はしながらも家族サービスは忘れない。@それを両立できてこそ、真の浮気道と彼は考えていた。\
-`Mesmo quando estava sendo infiel, ele nﾃo esquecia das responsabilidades com sua famｨlia.`@` Para ele, o verdadeiro caminho da traiﾆﾃo era ser capaz de balancer ambos.`\
+`Mesmo quando estava sendo infiel, ele nﾃo esquecia das responsabilidades com sua famｨlia.`@` Para ele, o verdadeiro caminho da traiﾆﾃo era ser capaz de balancear ambos.`\
 bg white,22
 se1 1010
 bg black,29
@@ -13147,7 +13147,7 @@ bg black,29
 bg off_1a,26
 
 ;「へっへっへ。@本気になったら負けだぜぇ？@　お互い承知の関係だろ？@　そうさ、そういうストイックなところが、俺は気に入ってるんだぜ…。@……先日プレゼントしたヤツ、ちゃんと身に付けて来いよ。@楽しみにしてるからな。」\
-`"Hehehe.`@` Se ficar sｪrio, vocｹ perde.`@` ｴ uma realaﾆﾃo que ambos aceitamos, lembra?`@` Sim, eu gosto dessa coisa mais estoica...`@` ......Irei vestindo o presente que vocｹ me deu outro dia.`@` Espere ansioso por mim." `\
+`"Hehehe.`@` Se ficar sｪrio, vocｹ perde.`@` ｴ uma relaﾆﾃo que ambos aceitamos, lembra?`@` Sim, eu gosto dessa coisa mais estoica...`@` ......Irei vestindo o presente que vocｹ me deu outro dia.`@` Espere ansioso por mim." `\
 ;＜留弗夫
 
 ;『うふ～ん、もちろんよ～。@明日一晩は、奥さんのことなんか忘れさせちゃうんだから～ン☆』\
@@ -13326,7 +13326,7 @@ bg off_1a,22
 `"Uu!`@` Mamﾃe!`@` Desculpa ligar durante o trabalho, desculpa ligar durante o trabalho...!" `\
 
 ;　一体、何の用件だろう？@　真里亞の口調は浮かれるようで、とても仕事場に電話をしなければならないような、緊急事態には感じられなかった。@楼座の眉が、わずかに釣り上がる。\
-`Afinal, o que ela poderia querer?`@` Maria parecia estar falando de forma festiva, e nﾃo parecia ser uma ligaﾆﾃo de emergｹncia.`@` Rosa arqueou levemente suas sombrancelhas. `\
+`Afinal, o que ela poderia querer?`@` Maria parecia estar falando de forma festiva, e nﾃo parecia ser uma ligaﾆﾃo de emergｹncia.`@` Rosa arqueou levemente suas sobrancelhas. `\
 
 ;「……真里亞。@ママは今、プレゼンに向けて大忙しなのよ？@　言ったでしょ？@　今日から当分は帰れないくらい忙しいって…！」\
 `"......Maria.`@` A mamﾃe estｧ se preparando para uma apresentaﾆﾃo agora.`@` Eu jｧ nﾃo disse?`@` Estou muito ocupada e nﾃo devo voltar para casa...!" `\
@@ -13336,7 +13336,7 @@ bg black,24
 bg "bmp\background\sbook\Ke_s2.jpg",24
 
 ;　楼座のそのやり取りを見ながら、社員のデザイナーたちは、こそこそ話をしている。\
-`Enquanto ouviam a conversa de Rosa, os designers da sua companhia comeﾆaram a sussurar entre si. `\
+`Enquanto ouviam a conversa de Rosa, os designers da sua companhia comeﾆaram a sussurrar entre si. `\
 
 ;「社長、また家に帰らないとか言ってんの～…？」@
 `"A presidente continua dizendo que nﾃo vai pra casa...?" `@
@@ -13381,7 +13381,7 @@ se2 72
 quakey 3,600
 
 ;@　私語する暇があったら、フロントスリットの白ワンピのラフを上げてちょうだい！！@　胸のリボンも忘れないでよッ！？」
-@`Se vocｹs tem tempo livre pra ficarem fofocando, mostrem o esboﾆo do design daquele vestido branco!`@` E nﾃo esqueﾆam do laﾆo rosa no peito!" `\
+@`Se vocｹs tem tempo livre pra ficarem fofocando, mostrem o esboﾆo do design daquele vestido branco!`@` E nﾃo esqueﾆam do laﾆo no peito!" `\
 !sd@
 ;＜楼座
 
@@ -13431,7 +13431,7 @@ mono off
 bg Different_spiral_1a,28
 
 ;　新しい恋人と数日一緒にいることになってるので、それに対する穴埋めのつもりでの突発の帰宅。@……そして、数日帰宅しないことを印象付けるかのような、忙しい忙しいの連呼。\
-`Ela passaria os prｫximos dias com seu novo namorado, por isso decidiu preencher um buraco na agenda para voltar para casa de repente.`\` ...E assim, passar ﾚ sua filha a impressﾃo de que ela nﾃo voltaria para casa durante os proximos dias porque estaria muito, muito ocupada.  `\
+`Ela passaria os prｫximos dias com seu novo namorado, por isso decidiu preencher um buraco na agenda para voltar para casa de repente.`\` ...E assim, passar ﾚ sua filha a impressﾃo de que ela nﾃo voltaria para casa durante os prｫximos dias porque estaria muito, muito ocupada.  `\
 
 bg black,22
 bg off_1a,22
@@ -13439,7 +13439,7 @@ bg off_1a,22
 ;　……はー。@私も自分が悪いママだと百も承知だわ。@
 `......Haah.`@` Eu tambｪm jｧ reconheci diversas vezes que sou uma pｪssima mﾃe. `@
 ;　娘を蔑ろにして、こんな秘密の交際をしているなんて…！@
-`Negligｹnciando minha filha e mantendo esse tipo relaﾆﾃo em segredo...! `\
+`Negligenciando minha filha e mantendo esse tipo relaﾆﾃo em segredo...! `\
 
 ;　でもね、真里亞。@ママは母だけど、まだ女でいたいの！@
 `Mas sabe, Maria.`@` A mamﾃe pode ser mﾃe, mas ainda quero ser mulher! `@
@@ -13518,7 +13518,7 @@ br
 br
 se1 48
 ;　とっぴんぱらりのぷぅ。\
-`And they lived happily ever after.`\
+`E viveram felizes para sempre.`\
 bg black,5
 
 se1 22
@@ -13621,7 +13621,7 @@ ld l,WAL_WaraiA2,80
 se1 4
 
 ;……というところでしょう？@　あなたの考えることは単純で、いつも先が読めますよ。@……まぁ、でも。」\
-`.....ｴ o que estava alemjando?`@` Seus pensamentos sﾃo tﾃo simples que eu sempre consigo antecipｧ-los.`@` ......Bem, tudo bem."`\
+`.....ｴ o que estava almejando?`@` Seus pensamentos sﾃo tﾃo simples que eu sempre consigo antecipｧ-los.`@` ......Bem, tudo bem."`\
 ;＜ワルギリア
 
 
@@ -13750,7 +13750,7 @@ ld c,WAL_WaraiA1,22
 ;＜ワルギリア
 br
 ;　ワルギリアの両眼が珍しく、……乾いて開く。\
-`Em uma rara ocorrｹncia, ......Virgillia abriu seus olhos. `\ ;;aqui o sprite dela deveria abrir os olhos, mas nﾃo ｪ o que acontece
+`Em uma rara ocorrｹncia, ......VIRGILIA abriu seus olhos. `\ ;;aqui o sprite dela deveria abrir os olhos, mas nﾃo ｪ o que acontece
 ME1v 5,30
 se1 2
 bg rose_3an,0
@@ -13767,7 +13767,7 @@ ld r,BEA_WaraiA1,24
 ld r,BEA_AkuWaraiA4,80
 
 ;「お師匠様ァ、勘違いするなよォ？@　これはロノウェに贈ったモンなんだからなぁ？@　別にお師匠様に贈ったわけじゃねぇんだぜぇえええぇえ？@/
-`"Professora, nﾃo confuda as coisas, tｧ?`@` Esse era o que eu ia para para o Ronove.`@` Nﾃo ｪ como se eu quisesse dｧ-lo para vocｹｺｺｺｹｺ!`@/
+`"Professora, nﾃo confunda as coisas, tｧ?`@` Esse era o que eu ia para para o Ronove.`@` Nﾃo ｪ como se eu quisesse dｧ-lo para vocｹｺｺｺｹｺ!`@/
 
 ld r,BEA_AkuwaraiA2,80
 
@@ -13853,7 +13853,7 @@ csp2 3
 
 
 ;!s0「あなたがどうやって殺されるかですッ！！/
-!s0`"Como fostes morta?! `/
+!s0`"Como foste morta?! `/
 se2 72
 se1 12
 quakey 4,800
@@ -13879,7 +13879,7 @@ bg Armor7,1
 quakey 2,500
 
 ;@　穿ちて散らし、裂きては焼き払え！！@　出でよシエスタ近衛連隊、百の黄金弓でこの無礼なる弟子を縫い潰してしまいなさいッ！！@　むぎぃいいいいいいいいいぃいいいいいぃいいいいぃぃ！！」/
-`Perfurem-na ao nada, partam em pedaﾆoes e reduzam ﾚs cinzas!`@` Venham, Guarda Imperial Chiester, costurem esta discｨpula mal-educada com seus cem arcos dourados!`@` MugiIIIIIIIIIiIIIIIiIIIIii!" `/
+`Perfurem-na ao nada, partam em pedaﾆos e reduzam ﾚs cinzas!`@` Venham, Guarda Imperial Chiester, costurem esta discｨpula mal-educada com seus cem arcos dourados!`@` MugiIIIIIIIIIiIIIIIiIIIIii!" `/
 
 se1 1006
 se2 57
