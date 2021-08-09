@@ -8320,7 +8320,7 @@ se1 7
 quakey 2,100
 
 ;「な、何よ何よ？！？！@　私がインパクトで負けてるって言うの？！@　キャラで負けてるって言うの？！？！」\
-`"O-O quｹ?!?!`@` Vocｹ estｧ dizendo que eu perdi meu IMPACTO?!`@` Estｧ dizendo que nﾃo sou uma boa personagem?!?!" `\
+`"O-O quｹ?!?!`@` Estｧ dizendo que eu perdi meu IMPACTO?!`@` Estｧ dizendo que nﾃo sou uma boa personagem?!?!" `\
 ;＜エヴァ
 
 
