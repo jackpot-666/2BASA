@@ -25,10 +25,15 @@ jobs:
     - name: compile patch
       run: python dependencies\compile_pc.py
 
+    #- name: Release
+    #  uses: softprops/action-gh-release@v1
+    #  if: startsWith(github.ref, 'refs/tags/')
+    #  with:
+    #    files: HE.KT.Umineko.Tsubasa.PT-BR.(Legacy.Art).7z   # nome do arquivo final que irá para os releases
+    #  env:
+    #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
     - name: Release
-      uses: softprops/action-gh-release@v1
-      if: startsWith(github.ref, 'refs/tags/')
-      with:
-        files: HE.KT.Umineko.Tsubasa.PT-BR.(Legacy.Art).7z   # nome do arquivo final que irá para os releases
+      run: gh release create v${{ github.RUN_NUMBER }} HE.KT.Umineko.Tsubasa.PT-BR.(Legacy.Art).7z
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
