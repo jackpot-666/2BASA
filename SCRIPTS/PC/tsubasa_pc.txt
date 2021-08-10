@@ -24432,7 +24432,7 @@ bg cit_2a,22
 br
 
 ;　コーネリアは、ハロウィン綱紀粛正プロジェクトを提案する。\
-` Eventualmente surgiu o "Projeto Halloween: Execuﾆﾃo Disciplinar."`\
+` Por causa disso, Cornelia propﾛs o "Projeto Halloween: Execuﾆﾃo Disciplinar."`\
 
 bg black,22
 bg BUI_o1a,22
@@ -24472,7 +24472,7 @@ bg "bmp\background\sbook\Ke6.jpg",25
 
 Me2v 24,40
 ;「あのプロジェクト、わざわざ書いて送ったんだなぁ。」@
-`"Ela se deu todo trabalho de ficar escrevendo e enviar aquele projeto."`@
+`"Ela se deu todo trabalho de ficar escrevendo e enviar esse projeto?"`@
 ;「真面目な子なのは認めるんだけどねぇ。」@
 `"Aposto que sｫ quis parecer mais diligente."`@
 ;「若いねぇ、元気だねぇ。」@
