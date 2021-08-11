@@ -1,4 +1,4 @@
-name: Compile and release (PC)
+name: Compile and release
 
 # Tradução: quando houver uma atualização (push) ou pedido de atualização (pull request) nos arquivos hane_pc.txt, este script poderá ser rodado, mas APENAS se houver a adição de uma tag
 on:
@@ -22,8 +22,11 @@ jobs:
         python-version: '3.x'
         architecture: 'x64'
 
-    - name: compile patch
+    - name: Compile patch (PC)
       run: python dependencies\compile_pc.py
+
+    - name: Compile patch (PS3)
+      run: python dependencies\compile_ps3.py
 
     #- name: Release
     #  uses: softprops/action-gh-release@v1
@@ -32,8 +35,12 @@ jobs:
     #    files: HE.KT.Umineko.Tsubasa.PT-BR.(Legacy.Art).7z   # nome do arquivo final que irá para os releases
     #  env:
     #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        
+
+    - name: 'Get Previous tag'
+      id: previoustag
+      uses: "WyriHaximus/github-action-get-previous-tag@v1"
+      
     - name: Release
-      run: gh release create v${{ github.RUN_NUMBER }} "HE.KT.Umineko.Tsubasa.PT-BR.(Legacy.Art).7z"
+      run: gh release create ${{ steps.previoustag.outputs.tag }} "HE.KT.Umineko.Tsubasa.PT-BR.(Legacy.Art).7z" "HE.KT.Umineko.Tsubasa.PT-BR.(PS3).7z"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
