@@ -20305,7 +20305,7 @@ ld r,RG3_FumanA2,0
 ld l,RG1_DefA1,26
 
 ;　サタンはプライドが高い。@自分だけうまくバレンタインがこなせず、そのことをこの一月の間、酷く気にしているようだった。\
-`Satan era muito orgulhosa.`@` Ela passou o ｸltimo mｹs inteiro se sentindo mal porque foi a ｸnica que se frustou no Dia dos Namorados.`\
+`Satan era muito orgulhosa.`@` Ela passou o ｸltimo mｹs inteiro se sentindo mal porque foi a ｸnica que se frustrou no Dia dos Namorados.`\
 
 ;　と、……そこに人の気配が不意に現れる。\
 `Entﾃo, ......repentinamente elas tiveram a sensaﾆﾃo de que outra pessoa havia se materializado.`\
