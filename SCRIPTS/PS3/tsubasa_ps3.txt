@@ -19069,7 +19069,7 @@ bg garden_1c,0
 ld c,JES_atyaA2,26
 
 ;「駄目だぜ、悪魔のチョコなんて食べちゃ！@　絶対に何か入ってるに決まってる。@これは私の方で処分しておくからッ！」@
-`"Vocｹ nﾃo deve comer esse chocolate demonｨaco de jeito nenhum!`@` Eu decidi no momento em que cheguei.`@` Eu vou me livrar disso pessoalmente!" `\
+`"Vocｹ nﾃo deve comer esse chocolate demonｨaco de jeito nenhum!`@` ｴ ｫbvio que tem algo nele!`@` Eu vou me livrar disso pessoalmente!" `\
 ;＜朱志香
 
 
@@ -19083,7 +19083,7 @@ cl c,0
 ld l,JES_IkariA3,24
 
 ;「だァめ！！@　私が処分するぜ！@　嘉音君は箱にも触れちゃ駄目ッ、がるるるるる…！」\
-`"Nﾃo!`@` Eu vou cuidar disso!`@` Nﾃo vou deixar essa caixa violar vocｹ, grrrrr...!" `\
+`"Nﾃo!`@` Eu vou cuidar disso!`@` Vocｹ nﾃo pode tocar nessa caixa! Grrrrr...!" `\
 ;＜朱志香
 
 ;　これだけは譲らないという強い形相で、朱志香がその箱を奪う。@
@@ -19152,7 +19152,7 @@ bg G1F_S1cp,0
 ld r,RG1_KomaruA3,24
 
 ;　そんなのを見せつけられて、ルシファーは急に不安になってしまう。@
-`Assim que elas saｨram, Lucifer repentinamente comoﾆou a ficar ansiosa. `@
+`Assim que elas saｨram, Lucifer repentinamente comeﾆou a ficar ansiosa. `@
 ;br
 ;　ルシファーは表向きは長女として幅を利かせているが、@実際は、姉妹で一番、要領が悪いことを自覚している。\
 `Embora Lucifer goste de se gabar por ser a mais velha das irmﾃs, na realidade ela ｪ a mais incompetente entre elas. `\
@@ -19246,7 +19246,7 @@ msp msp_l,80,0
 print 23
 
 ;「私たちには威張り散らすくせに、いつもこっそり逃げ出すのがルシ姉なんだから！@/
-`"Ela sempre fica mandando em nｫs, e depois desaparece quando chega a hora dela!`@/
+`"Vocｹ adora ficar mandando em nｫs, mas sempre desaparece quando chega a sua hora!`@/
 
 mld l,RG3_AkuwaraiA3,0
 msp msp_l,80,0
@@ -19401,7 +19401,7 @@ ld c,RG1_IkariA2,24
 ;br
 
 ;　いくら鈍感な戦人でも、そのお膳立てされた状況下では、それが何を示しているのかよくわかる。\
-`Battler, insensｨvel como de costume, rapidamente entendeu a situaﾆﾃo.`\
+`Mesmo sendo um completo cabeﾆa-dura, Battler entendeu o que estava acontecendo e soube exatamente o que fazer.`\
 
 
 ld l,BUT_OdorokiA2,80
@@ -19428,11 +19428,11 @@ ld c,RG1_NakuA1,80
 `Com total seriedade, Lucifer pressionou os chocolates contra ele. `@
 ;br
 ;　それは必死も必死。@姉妹たちに失態を嬲られまいと必死なのだ。\
-`Ela estava desesperada para nﾃo ser provocada por suas irmﾃs,`@` caso falhasse. `\
+`Como se fosse a coisa mais importante do mundo.`@` Ela estava desesperada para nﾃo ser ridicularizada por suas irmﾃs. `\
 
 ;　ニヤニヤと意地悪そうに見守る妹たち。@
 ;　しかし戦人にはそれは、姉の勇気を見守り無言で応援するように見えたのかもしれない。\
-`As irmﾃs mais novas assistiram ﾚ cena com um leve sorriso malicioso.`@` Mas, em silｹncio, elas pareciam incentivar a coragem da irmﾃ mais velha.`\
+`As irmﾃs mais novas assistiram ﾚ cena com um leve sorriso malicioso.`@` Contudo, para Battler, pareceu que elas estavam sorrindo e apoiando sua irmﾃ silｹncio.`\
 
 ld l,BUT_WaraiA1,80
 
@@ -19450,7 +19450,7 @@ ld c,RG1_OdorokiA3,80
 ld l,BUT_defA2,80
 
 ;「ありがとな。@今日ばっかりは、抉るだのブッ殺すだのは休戦だぜ。@ありがたく頂戴するぜ。」\
-`"Obrigado.`@` Sｫ por hoje, faremos as pazes.`@` Vocｹ tem a minha gratidﾃo."`\ 
+`"Obrigado.`@` Sｫ por hoje, faremos uma trｪgua na matanﾆa.`@` Vocｹ tem a minha gratidﾃo."`\ 
 ;＜戦人
 
 se1 54
@@ -19516,14 +19516,14 @@ se1 4
 se1 4
 
 ;@　長女ルシファーに掛かれば、バレンタインなどチョロいもんよ！@　あのニンゲン風情がホワイトデーに何をお返ししてくれるのか、楽しみだわ。」\
-`ｴ sｫ pedir para sua irmﾃ mais velha, Lucifer, e entregar o chocolate do Dia dos Namorados se torna moleza!`@` Eu serei tratada com hospitalidade humana no White Day, mal posso esperar."`\ 
+`ｴ sｫ pedir para sua irmﾃ mais velha, Lucifer, e entregar o chocolate do Dia dos Namorados se torna moleza!`@` O que serｧ que aquele reles humano me darｧ White Day? Mal posso esperar."`\ 
 ;＜ルシファー
 
 bg G1F_S1bp,0
 ld r,RG3_IkariA1,24
 
 ;「…やるわね、ルシ姉の分際で…。」@
-`"...Acho que a Luci-nee foi quem se saiu melhor..."`\
+`"...A posiﾆﾃo social da Luci-nee nﾃo decepciona..."`\
 ;＜サタン
 
 
@@ -19560,7 +19560,7 @@ ld l,RG5_WaraiA1,80
 ;＜マモン
 
 ;「「「きゃっきゃ、きゃっきゃ！」」」\
-`"""*risos*risos*!"""`\ 
+`"""Kyahaha, kyahahaha!"""`\ 
 
 
 mld c,RG1_AkuwaraiA2,0
@@ -19568,7 +19568,7 @@ msp msp_c,100,0
 print 24
 
 ;「見事だわ、我らこそは煉獄の七姉妹！@　さぁさ、ロノウェさまに任務完了の報告よ！」\
-`"Que esplｹndido para nｫs, as Sete Irmﾃs do Purgatｫrio!`@` Vamos, vamos, precisamos reportar nosso sucesso ao Ronove-sama!"`\ 
+`"Que esplｹndido para nｫs, as Sete Irmﾃs do Purgatｫrio!`@` Andem logo, precisamos reportar nosso sucesso ao Ronove-sama!"`\ 
 ;＜ルシファー
 
 ld l,RG5_WaraiA2,0
@@ -19576,7 +19576,7 @@ ld r,RG7_WaraiA1,0
 ld c,RG3_fumanA1,80
 
 ;「「「「「「はーい、お姉様！！」」」」」」\
-`""""""Sim, oneesama!!""""""`\ 
+`""""""Sim, onee-sama!!""""""`\ 
 
 se1 52
 se2 52
@@ -19703,7 +19703,7 @@ ld r,BUT_KomaruA1,23
 ;＜戦人
 
 ;　すっかり出来上がってしまったかのように上機嫌のベアトが、ようやく戦人を見つける。@
-`Apｫs encontrar com Battler, Beato estava com um ｫtimo humor. `@ 
+`Beato, que estava com seu humor nas alturas, finalmente havia encontrado Battler. `@ 
 ;br
 ;　その手にはとても豪華に飾りつけられたプレゼントボックスが。\
 `A caixa de presente em suas mﾃos estava decorada com muito luxo.`\ 
@@ -19720,7 +19720,7 @@ ld r,BUT_NayamuA2,80
 ld l,BEA_AkuwaraiA2,80
 
 ;「くっくっくっく、光栄であろう誉れであろう、@妾からそなたにバレンタインチョコレートの進呈であるぞ！@　正座して受け取るがよいぞ！」\
-`"*gargalhada*gargalhada* Conheﾆa a honra e a glｫria`@` de ser presenteado por mim no Dia dos Namorados!`@` Aceite de joelhos!"`\ 
+`"*gargalhada*gargalhada*  Fique honrado e sinta-se privilegiado!`@` Estou lhe dando um chocolate de Dia dos Namorados!`@` Aceite de joelhos!"`\ 
 ;＜ベアト
 
 
@@ -19735,14 +19735,14 @@ ld r,BUT_DefA1,80
 ld l,BEA_fukigenA2,80
 
 ;「失敬な。@こう見えても妾は空気を読める魔女であるぞ。@そりゃあ、食べたらアヒアヒ♪になる薬やイヤンイヤン♪になっちゃう薬をゴリゴリと混ぜてはみたいぞ？@　しかし妾は薬などに頼るのは邪道だから、そんなものに頼ったりはしないのだ！」\
-`"Quanta indelicadeza.`@` Vocｹ atｪ pode pensar isso,`@` mas eu sou uma bruxa capaz de ler o clima.`@` Eu adoraria misturar uma droga capaz de deixｧ-lo completamente submisso e fazer isso aquilo♪ depois de comer. `@`Contudo, nﾃo sou do tipo que depende da heresia de coisas como veneno!"`\ 
+`"Quanta indelicadeza.`@` Apesar das aparｹncias, sou uma bruxa capaz de entender a situaﾆﾃo.`@` Eu adoraria misturar uma droga capaz de deixｧ-lo completamente submisso e fazer isso aquilo♪ depois de comer. `@`Contudo, nﾃo sou do tipo que depende da heresia de coisas como veneno!"`\ 
 ;＜ベアト
 
 
 ld r,BUT_AseruA1,80
 
 ;「…ますますに信用できねぇなぁ…。@…まぁ気持ちだけは受け取ってやるぜ。@食うかどうかは別だがな。」@
-`"...Isso nﾃo ｪ lｧ muito tranquilizador...`@` Bem, vou aceitar seus sentimentos.`@` Mas nﾃo sei se vou comer." `\
+`"...Cada vez mais suspeito...`@` ...Mas vou aceitar seus sentimentos.`@` Sｫ nﾃo sei se vou comer." `\
 ;＜戦人
 
 
@@ -19778,7 +19778,7 @@ bg Different_space_1c,25
 ld c,BEA_waraiA2,24
 
 ;「くっくっくっく！@　さぁ箱を開け、驚くが良いぞ！」\
-`"*gargalhada*gargalhada*!`@` Entﾃo, abra a caixa e testemunhe!"`\ 
+`"*gargalhada*gargalhada*!`@` Vamos, abra a caixa e surpreenda-se!"`\ 
 ;＜ベアト
 
 bg black,26
@@ -19844,7 +19844,7 @@ ld r,BEA_OdorokiA1,80
 ld l,BUT_futekiB1,80
 
 ;「そぉら、思った通りだ。@何が手作りだ、いい加減なこと言いやがって。@俺は知ってんだよ。@/
-`"Viu, como eu pensei!`@` Eu sabia que vocｹ nﾃo seria capaz de dizer algo de forma tﾃo descuidada.`@/
+`"Viu, como eu pensei!`@` Caseiro uma ova! Ainda tem coragem de dizer isso! Eu sabia!`@/
 se1 5
 
 ;これ、ルシファーに作ってもらったんだろ？」@
@@ -19860,7 +19860,7 @@ ld r,BEA_OdorokiA2,80
 ld l,BUT_futekiA2,80
 
 ;「確かにルシファーのチョコはうまかった。@あいつ、物騒なことばっかりしてるわりには、なかなかチョコ作るのうまいよな。@もう少しお淑やかになって花嫁修業を積めば、いい嫁さんになれるぜきっと。@ホワイトデーには奮ってお返しをしてやるつもりだ。@だがお前は何だ？！@　人にチョコを作ってもらって、それをいけしゃあしゃあと自分が手作りしたとウソを吐くとは！@　お前みたいなウソ吐きのチョコはいらん！」\
-`"Aquele chocolate da Lucifer realmente estava delicioso.`@` Ela pode ser uma assassina de sangue frio, mas faz chocolates deliciosos.`@` Se ela fosse um pouco mais delicada, seria uma ｫtima esposa. `\ 
+`"Aquele chocolate da Lucifer realmente estava delicioso.`@` Ela pode ser uma assassina de sangue frio, mas faz chocolates deliciosos.`@` Se ela fosse um pouco mais delicada e escolhesse um curso de dona de casa, se tornaria uma ｫtima esposa. `\ 
 `Eu fui comovido pelos sentimentos dela, e pretendo retribuir no White Day. `@`Mas e quanto a vocｹ?!`@` Uma pessoa que mente sobre ter feito chocolate!`@` Eu nﾃo quero chocolates de uma mentirosa como vocｹ!"`\
 ;＜戦人
 
@@ -19882,23 +19882,23 @@ ld c,BEA_HanbesoA2,24
 `Entretanto, Battler ja tinha ido embora.`@ 
 ;br
 ;　後には、トホホホと涙を浮かべ、どうしてウソがバレたのかさっぱりわからないベアトが取り残される。\
-`Soluﾆando atrｧs dele, Beato nﾃo tinha ideia de como sua mentira havia sido exposta.`@
+`Restou Beato, soluﾆando e chorando, sem entender como sua mentira havia sido exposta.`@
 ;　ひとつわかるのは、なぜかどうしてかは知らないが、バレたのとルシファーが関係あるらしいということだけだ。\
 `Mas ela sabia de uma coisa - Lucifer tinha algo a ver com isso.`\  
 
 bg Different_space_1c,25
 
 ;「ル、ルル、ルシファあああぁああぁあぁぁ、妾の家具の分際で……、@よくも戦人に告げ口したなぁああぁぁぁ！！@　というかあいつめ、ロノウェが作ったチョコなのに、自分が作ったとかウソを吐きおって！！@　ウソを吐くとはけしからんヤツ！@　折檻だお仕置きだ拷問だぁああああああーッ！！」\
-`"Lu-Lulu-Luciferrrrrrrrrrrrrrr, minha mobｨlia...`@` Vocｹ arruinou tudo!!`@` Por sua causa,`@` eu fui pega em uma mentira sobre ter feito os chocolates que o Ronove fez para mim!`@` Castigo, puniﾆﾃo, torturaaaaaa!"`\ 
+`"Lu-Lulu-Luciferrrrrrrrrrrrrrr, minha reles mobｨlia...`@` Vocｹ arruinou tudo!!`@`  E mais, ainda mentiu dizendo que tinha feito o chocolate que o Ronove preparou para mim!!`@` Nﾃo hｧ desculpa para essa mentira!`@` Castigo, puniﾆﾃo, torturaaaaaa!"`\ 
 
 ;＜ベアト
 
 ;　自分もしゃあしゃあとウソを吐いておきながら、どの口がそう言うやら…。@
-`Ela que havia mentido descaradamente era capaz de dizer tais palavras... `@
+`Ela, que havia mentido descaradamente, era capaz de dizer tais palavras... `@
 
 ;br
 ;　嘘吐き魔女のバレンタインデーは、こうして暮れて行くのでした……。\
-`E assim o sol se pﾛs no Dia dos Namorados da bruxa mentirosa......`\
+`E assim fecharam-se as cortinas do Dia dos Namorados da bruxa mentirosa......`\
 
 bg black,22
 
@@ -20307,7 +20307,7 @@ ld r,RG3_FumanA2,0
 ld l,RG1_DefA1,26
 
 ;　サタンはプライドが高い。@自分だけうまくバレンタインがこなせず、そのことをこの一月の間、酷く気にしているようだった。\
-`Satan era muito orgulhosa.`@` Ela passou o ｸltimo mｹs inteiro se sentindo mal porque foi a ｸnica que se frustou no Dia dos Namorados.`\
+`Satan era muito orgulhosa.`@` Ela passou o ｸltimo mｹs inteiro se sentindo mal porque foi a ｸnica que se frustrou no Dia dos Namorados.`\
 
 ;　と、……そこに人の気配が不意に現れる。\
 `Entﾃo, ......repentinamente elas tiveram a sensaﾆﾃo de que outra pessoa havia se materializado.`\
