@@ -19908,7 +19908,7 @@ msp msp_c,-100,0
 print 2
 
 ;　その頃、ルシファーは、ホワイトデーには何かお返しをやるからなと戦人に言われ、@案外、バレンタインも捨てたものではないと、こっそりホクホクしているのでした……。@
-`E no White Day, quando Lucifer recebeu um presente de Battler,`@` ela inesperadamente pensou em como o Dia dos Namorados nﾃo era tﾃo ruim...... `@
+`Ao mesmo tempo, Lucifer foi informada que receberia algo de Battler no White Day e,`@` inesperadamente, ficou empolgada, pensando que o dia dos Namorados nﾃo era tﾃo ruim assim......`@
 
 br
 br
@@ -19975,7 +19975,7 @@ quakey 2,500
 ;＜アスモ
 ;br
 ;　三度の飯より色恋沙汰が大好きなアスモデウスにとって、待ちに待った日だった。\
-`Esse ｪ o dia que a Asmodeus, que prefere casos amorosos a trｹs grandes refeiﾆｷes, aguarda com tanto anseio.`\
+`Esse ｪ o dia que a Asmodeus, que prefere casos amorosos a trｹs grandes refeiﾆｷes, aguardou com tanto anseio.`\
 
 
 bg G1F_s1cp,0
