@@ -21366,7 +21366,7 @@ ld r,ENJ_FumanA1,80
 `Vamos fazer mais hotcakes enquanto apreciamos o aroma do chｧ.`@
 ;br
 ;　私だって、こう見えてもお金の力だけで解決するんじゃないのよ、ホットケーキくらい焼けるんだから。@……と言って、香ばしく焼き上げている真っ最中だったのだ。\
-`Embora eu pareﾆa ser do tipo que obtｪm tudo atravｪs do poder do dinheiro, ao menos umas hotcakes acho que eu consigo fazer sozinha.`@` ......E apesar de dizer isso, acabamos cercados pelo fedor da fumaﾆa.`\
+`"Embora eu pareﾆa ser do tipo que obtｪm tudo atravｪs do poder do dinheiro, ao menos umas hotcakes acho que eu consigo fazer sozinha."`@` ......Foi o que pensei, mas acabamos cercados pelo fedor da fumaﾆa.`\
 
 
 bg Gdin_1a,0
@@ -21388,7 +21388,7 @@ ld c,RG5_KomaruA2,80
 ;「さくたろだけ攻撃を免れたということは、/
 `"Se o Sakutaro foi o ｸnico a escapar, `/
 ;!d900……同盟の誰かの攻撃？！」\
-!d900`.........o que significa que alguｪm da Alianﾆa estｧ nos atacando?!"`\
+!d900`.........isso significa que alguｪm da Alianﾆa estｧ nos atacando?!"`\
 ;＜マモン
 
 bg black,22
@@ -21958,7 +21958,7 @@ ld c,BEA_AkuwaraiA2,22
 ld c,BEA_AkuwaraiA5,80
 
 ;「くっひっひっひ！！@　妾のホワイトデーを蔑ろにした当然の報いだッ！/
-`"Kuhiihiihiihii!!`@` Tudo que estou fazendo ｪ o que mereceram por desrespeitarem meu White Day! `/
+`"Kuhhihhihhi!!`@` Tudo que estou fazendo ｪ o que mereceram por desrespeitarem meu White Day! `/
 se1 73
 quakey 2,400
 
@@ -21988,7 +21988,7 @@ ld c,BEA_AkuwaraiA4,80
 
 ;「……どうだ？@　そろそろ謝りたくなっただろう？！@　ベアトさまごめんなさい、ちゃんとホワイトデーの贈り物を用意しますゥって言ってみろよォ！@　そしたら特別に許してやってもいいぜェええぇ！@　ただし、ルシファーに贈った物より安かったら許さねェけどなァあああぁあああぁ！！」/
 
-`"......Que tal?`@` Jｧ se arrepende do que fez?!`@` Eu quero ouvir vocｹ dizer: 'Beato-sama, por favor, me perdoe,`@` eu prometo que darei algo a vocｹ no White Day!'`@` Mas nﾃo me dｹ nada parecido com o que deu para Lucifer, para mim deve ser algo muiiiiito mais caro que aquilo!!”`\
+`"......Que tal?`@` Jｧ se arrepende do que fez?!`@` Eu quero ouvir vocｹ dizer: me desculpa, Beato-sama, eu prometo que darei algo a vocｹ no White Day!'`@` Faﾆa isso e lhe considerei um perdﾃo especial!`@` Mas se me dar algo mais barato que o presente da Lucifer, jamaaaaaaais o perdoarei!!”`\
 
 ;＜ベアト
 
@@ -22013,7 +22013,7 @@ ld r,BEA_AseruA1,24
 ;＜ベアト
 
 ;　戦人の返し言葉が、ベアトとあまりにも温度差があったので、調子が狂い、言い淀んでしまう…。\
-`A resposta de Batter fez com que o humor de Beato mudasse rapidamente e ela ficou em silｹncio... `\
+`A resposta de Batter esfriou completamente a temperatura dela e a fez gaguejar...`\
 
 ld l,BUT_MajimeA4,80
 ;「バレンタインもな、ホワイトデーもな。@それぞれの気持ちと、心の中から湧いてくる感情で出来てるんだよ。@それを貢ぎ物か何かと勘違いしてるヤツには、何も受け取る資格はねぇんだ。」\
@@ -22087,7 +22087,7 @@ mcbg 80
 se1 27
 
 ;!s0　ホワイトデーなど消えてしまえぇええええぇえええぇええぇ！！」\
-!s0 `Eu irei apagar o White Daaaaaaaaay!!"`\
+!s0 `Irei extinguir o White Daaaaaaaaaaaaaay!!"`\
 
 
 bg white,1
@@ -22162,7 +22162,7 @@ ld l,BEA_AseruA1,80
 ld r,RON_Akuwaraia1,80
 
 ;「はて、それは心外な。@私めはお嬢様のご命令に従い、最高のチョコをご用意したに過ぎませんが？@/
-`"Pois bem, isto ｪ vexatｫrio.`@` Eu poderia ter jurado que fiz aqueles chocolates sob suas ordens. `@/
+`"Pois bem, isto ｪ vexatｫrio.`@` Eu podia jurar que preparei aqueles chocolates da melhor qualidade sob suas ordens. `@/
 
 ;　美味しかったでしょう？@　カルチェラタンの香りによく合う美味しさだったでしょう？」@
 `E nﾃo estavam uma delｨcia?`@` O aroma nﾃo era adequado atｪ mesmo para o Quartier Latin?”`\
@@ -22203,7 +22203,7 @@ se1 12
 quakey 2,500
 
 ;@　あいつがロノウェのチョコを自分の手作りだと言って戦人に渡したから私が嘘吐き呼ばわりされたー！！」/
-@ `Ela disse para o Battler que os chocolates do Ronove haviam sido preparados por ela, por isso o Battler me chamou de mentirosa!”`/
+@ `O Battler me chamou de mentirosa porque ela deu a ele os chocolates do Ronove, dizendo que haviam sido preparados por ela!!”`/
 
 se1 8
 quakey 2,500
@@ -22371,7 +22371,7 @@ ld r,WAL_WaraiA1,80
 ld c,RON_WaraiA1,24
 
 ;「手作りチョコも、私のようなプロフェッショナルに相応しいレシピから、@カッコ笑いが付いちゃうような超スウィーツ（笑）/
-`“Seja um chocolate caseiro ou a receita de um proficional como eu,`@` basta colocar um doce sorriso no rosto `/
+`“Seja um chocolate caseiro ou a receita de um profissional como eu,`@` basta colocar um doce sorriso no rosto `/
 se1 4
 se3 5
 
@@ -22464,7 +22464,7 @@ ld r,BEA_komaruA4,80
 ld l,WAL_MajimeA1,80
 
 ;「秘術は私が使いますが、それを維持する魔力は、過去の世界に存在するあなただけで賄わなければなりません。@つまり、あなたにも、大秘術に等しいだけの集中が必要だということです。」\
-`"Embora seja eu quem vai conjurar o feitiﾆo,`@` vocｹ terｧ que sustentar a existｹncia do mundo do passado com seu prｫprio poder mｧgico."\
+`"Embora seja eu quem irｧ conjurar o feitiﾆo, serｧ vocｹ do passado quem terｧ que usar seu poder para sustentｧ-lo.`@` Ou seja, vocｹ tambｪm precisarｧ da mesma concentraﾆﾃo para que ele funcione."\
 
 
 ;＜ワルギリ
@@ -22480,7 +22480,7 @@ ld c,BEA_odorokiA3,24
 ld l,WAL_WaraiA2,80
 
 ;「疑わないことです。@そこが過去の世界であることを疑えば、たちまちのうちに術は解けてしまいますよ。@/
-`"Vocｹ precisa acreditar.`@` Se duvidar que ｪ o mundo do passado, o feitiﾆo serｧ quebrado. `@/
+`"Nﾃo duvide.`@` Se questionar se ｪ mesmo o mundo do passado, o feitiﾆo serｧ quebrado. `@/
 
 ;魔法の基本です。@信ずる心なくして、如何なる魔法の成就もありえない。」@
 `Este ｪ fundamento da magia.`@` Contanto que acredite, nﾃo hｧ nada que a magia nﾃo possa realizar."`\
@@ -22518,7 +22518,7 @@ print 99,2000,"breakup.dll/lrb"
 ld r,RON_WaraiA2,24
 
 ;「しかし、時間逆行とは…。@なかなか面倒な秘術をお使いになりますね。」@
-`"Contudo, devo dizer que a Retrocedｹncia do Tempo ｪ mesmo uma Arte exaustiva."`\
+`"Contudo, Retrocedｹncia do Tempo... `@` Devo reconhecer que ｪ uma Arte exaustiva, nﾃo?"`\
 
 ;＜ロノウェ
 
@@ -22540,7 +22540,7 @@ ld r,RON_DefA1,80
 ld l,WAL_WaraiA2,80
 
 ;「関係者全員に、今日はバレンタインデー前日だと言い包めるように。@カレンダーや新聞、テレビにも注意ですよ？」@
-`“Hoje ｪ o dia anterior ao Dia dos Namorados.`@` Cuidou do calendｧrio, jornal, televisﾃo e todo o resto?”`\
+`“Lembro a todos os envolvidos que hoje ｪ o dia anterior ao Dia dos Namorados.`@` Cuidaram do calendｧrio, jornal, televisﾃo e todo o resto”`\
 ;＜ワルギリ
 
 cl r,0
@@ -22636,7 +22636,7 @@ vsp bgsp2,0
 bg black,25
 
 ;　それからの半日は、……料理界に衝撃とスペクタクルを与える出来事の連続だった。@
-`Entﾃo, duarante metade do dia, ......seguiu-se uma sｪrie de eventos impactantes e espectaculares, capazes de chocar o mundo da culinｧria.`@
+`Entﾃo, duarante metade do dia, ......seguiu-se uma sｪrie de eventos impactantes e espetaculares, capazes de chocar o mundo da culinｧria.`@
 ;br
 ;　チョコを湯せんするだけで、釜を破裂させてみたり。@/
 `Chocolate em banho-maria explodindo para fora do caldeirﾃo. `@/
@@ -22679,7 +22679,7 @@ ld c,BEA_waraiA1,2
 ld c,BEA_waraiA2,80
 
 ;「こんなにも苦労して作ってるんだから、妾の気持ちはたっぷりだよなぁ。@こんなチョコを受け取ってしまったら、戦人め。@ホワイトデーのお返しは大変なことになってしまうぞ。@きっひっひ…！」\
-`"Este chocolate estｧ completamente recheado com meus sentimentos,`@` considerando o quﾃo duro eu trabalhei neles!`@` ｴ melhor que aquele Battler aceite e depois me dｹ algo incrｨvel no White Day.`@` Kihihihi!"`\
+`"Considerando todos os meus esforﾆos, este chocolate deve estar recheado com meus sentimentos.`@` ｴ melhor que aquele Battler aceite e depois me dｹ algo incrｨvel no White Day.`@` Kihihihi!"`\
 ;＜ベアト
 
 vsp bgsp2,0
@@ -22727,7 +22727,7 @@ bg Mkit_1b,0
 ld l,BEA_FutekiA1,23
 
 ;「その声は…！@　ガァプかっ。」\
-`“Essa voz..!`@` Gaap?”`\
+`“Essa voz...!`@` Gaap?!”`\
 ;＜ベアト
 
 ;　がちゃりと冷蔵庫が空いて、その中からガァプが姿を現す。@
@@ -22735,11 +22735,11 @@ ld l,BEA_FutekiA1,23
 ;br
 bg black,22
 ;　もちろん冷蔵庫の中に潜んでいたわけではない。@ワープポータルを使い、冷蔵庫の扉から現れたのだ。\
-`Claramente ela nﾃo estava escondida ali observando,`@` ela utilizou seu Warp Portal para se materializar na porta da geladeira.`\
+`Ela obviamente nﾃo estava escondida dentro da geladeira.`@` Gaap utilizou seu Warp Portal para se materializar na porta da geladeira.`\
 
 ;　友人の前に唐突に現れるのは失礼。@可能な限り、扉を経て現れるべきであるというのが、彼女のささやかな美学のようだった。\
 `
-`Como seria rude aparecer de repente na frente de uma amiga,`@` ela optou por se materializar na porta, um ato de etiqueta mais modesto e formal.`\
+`ｴ rude surgir do nada na frente de uma amiga.`@` Por isso, ela optou por se materializar na porta, um ato de etiqueta mais modesto e formal.`\
 
 bg Mkit_1b,0
 ld r,GAP_WaraiA2,80
@@ -22758,14 +22758,14 @@ ld l,BEA_waraiA2,80
 
 ld r,GAP_AkuwaraiA3a,80
 ;「……チョコ作りの過程で、どうやったら厨房がこうも荒れ果てるかを説明してくれたら考えるわ…。」\
-`"......Posso cogitar isso se conseguir explicar como deixou a cozinha nesse estado tenebroso enquanto fazia chocolate... Considerando a condiﾆﾃo em que a cozinha ficou durante o processo..."`\
+`"......Posso cogitar isso se conseguir explicar como deixou a cozinha nesse estado tenebroso enquanto fazia chocolate..."`\
 ;＜ガァプ
 
 ;　さすがのガァプも、この有様には呆然とする。@
 `Atｪ mesmo Gaap estava abismada com o estado das coisas.`@
 ;br
 ;　いや、それよりも、なぜベアトがこんなことをしているのかの方が気になった。\
-`Mas, mais do que isso, ela nﾃo entendia o motivo pelo qual Beato havia se esforﾆado tanto.`\
+`Nﾃo, mais do que isso, ela queria saber o motivo que levou Beato a se esforﾆar tanto.`\
 
 ld r,GAP_DefA2,80
 
