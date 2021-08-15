@@ -19982,15 +19982,15 @@ bg G1F_s1cp,0
 ld r,RG4_fumanA2,24
 
 ;「ホワイトデーとはつまり、バレンタインデーのお返しなわけか。」\
-`"Entﾃo, quer dizer que esse White Day ｪ quando vocｹ recebe algo em troca pelo Dia dos Namorados?"`\
+`"Entﾃo o White Day ｪ basicamente o dia que vocｹ recebe algo pelo que deu no Dia dos Namorados?"`\
 
 ;＜ベルフェ
 
 ;　ベルフェゴールが、理屈では知っているが、実際にはどのようなものかわかりかねるという仕草で聞く。@
-`Belphegor perguntou para a pessoa que entendia disso na teoria, mas nﾃo sabia muito na prｧtica.`@
+`Belphegor, que compreendia na teoria, mas tinha dificuldade de na parte prｧtica, questionou.``@
 ;br
 ;　この時ばかりは、末っ子のアスモも生き生きして姉の問いに答えるのだ。\
-`Por sua vez, Asmodeus, que era a mais nova, respondeu a questﾃo de sua irmﾃ animada.`\
+`Por sua vez, Asmodeus, que era a mais nova, respondeu a questﾃo de sua irmﾃ com bastante animaﾆﾃo.`\
 
 se1 20
 ld l,RG7_AkuWaraiA1,63
@@ -20014,14 +20014,14 @@ se1 5
 se2 5
 
 ;その他もろもろ、ワビとサビを楽しむ、古式ゆかし～い行事なんですっ！/
-`Um evento que une tradiﾆﾃo e modernidade, onde vocｹ pode passar um momento agradｧvel com seu amor! `/
+`Dentre outras coisas, ｪ um evento que une tradiﾆﾃo e modernidade, onde vocｹ pode passar um momento agradｧvel com seu amor! `/
 se1 12
 
 \
 
 ld l,RG7_AkuWaraiA4,80
 ;　もちろん、贈ってもらうものの値打ちでも愛情は測れますがー、それだけで差をつけるのはつまらなーい！/
-`Naturalmente, nﾃo ｪ apenas sobre o peso do amor que vocｹ troca, isso seria chaaaaato!`\
+`Naturalmente, nﾃo ｪ apenas sobre medir nosso amor pelo valor do presente, o que seria isso seria muito chaaaaato!`\
 
 ;@　よりセンスのいいお返しは、時には値段や価値では測れない場合もありまーす！@/
 `ｴ sobre escolher uma resposta elegante, com um custo e valor adequado. Por isso ｪ tﾃo incrｨvel!`\
@@ -20031,7 +20031,7 @@ se2 20
 ld l,RG7_WaraiA1,80
 
 ;　そこら辺を楽しみながら、相手の気持ちと自分の気持ちの温度を測って、より親密になって、@新しい恋の出会いを探す切っ掛けにするのが、ホワイトデーというものなんでぇす！/
-`Vocｹ comeﾆa a medir a temperatura dos seus sentimentos em comparaﾆﾃo aos sentimentos dele, e assim desenvolve mais intimidade,`@` aproveitando dos repentinos encontros do amor. Esse ｪ o White Day!`/
+`ｴ para se divertir, medindo a temperatura dos seus sentimentos em comparaﾆﾃo ao deles desenvolve mais intimidade.`@` O White Day ｪ uma oportunidade de buscar por novos encontros amorosos!`/
 
 se1 72
 se2 74
@@ -20061,7 +20061,7 @@ ld l,RG6_WaraiA2,23
 `“A Beelzie estｧ muiiiito empolgada!`@` Estou ansiosa para ver o que o Gohda-sama vai me dar~!`@` Parece que ele estava treinando na Bｪlgica para fazer chocolates!`@/
 
 ;!s0　やっぱりお返しはホワイトチョコかしらァん！/
-!s0` Tenho certeza ele vai me dar chocolates! `\
+!s0` Tenho certeza ele vai me dar chocolates branco! `\
 se1 48
 quakey 2,600
 
@@ -20078,7 +20078,7 @@ ld r,RG7_WaraiA2,64
 `“A Asmo estｧ muiiito empolgada!`@` Estou ansiosa para ver o que o Amakusa-sama vai me dar~!`/
 
 ;@　あの方、すっごいイケててぇ、センスも良さそうだし～！@　お菓子なんてお子様っぽいものじゃなくて～！@/
-@` Ele ｪ muiiiito maneiro e tem um ｫtimo gosto~!`@` Nﾃo vai ser algo sem graﾆa como um doce qualquer~! `@/
+@` Ele ｪ muiiiito maneiro e tem um ｫtimo gosto~!`@` Nﾃo serｧ algo infantil como um doce qualquer~! `@/
 ld r,RG7_WaraiA1,80
 
 ;　アクセサリとかー、/
@@ -20120,14 +20120,14 @@ ld r,RG1_fumanA2,24
 
 ld l,RG5_HohoemiA1,80
 ;「お返しというか何というか。@縁寿さまたちとホワイトデーティーパーティをやろうって約束になってまして。@まぁ、みんなでまったりお茶でもしようかと。」@
-`“De uma forma ou de outra.`@` A Ange-sama disse que nｫs terｨamos uma Festa do Chｧ no White Day, entﾃo nｫs fizemos planos.`@` Teremos um momento encantador bebendo chｧ.”`\
+`“De uma forma ou de outra.`@` Combinamos com a Ange-sama de ter uma festa do chｧ no White Day.`@` Teremos um momento encantador bebendo chｧ.”`\
 ;＜マモン
 
 
 ld c,RG2_NakuA1,23
 
 ;「何か、マモンが最近遠い人ぉ～！@　９８年組でいっつも仲良くしてるー、うらやましぃ～！@　姉妹愛だけじゃ足りないのー？！」\
-`“Ultimamente vocｹ anda meio distante, Mammon~!`@` Estｧ se dando bem demais com a turma de 1998!`@` Que invejaaaa! O que aconteceu com o seu amor fraternal?!”`\
+`“Ultimamente vocｹ anda meio distante, Mammon~!`@` Estｧ se dando bem demais com a turma de 1998!`@` Que invejaaaa! O amor de suas irmﾃs nﾃo basta?!”`\
 ;＜レヴィア
 
 
@@ -20137,7 +20137,7 @@ ld l,RG5_AkuWaraiA1,80
 ;＜マモン
 ;br
 ;　ちょっぴり姉たちを小馬鹿にするようにマモンは笑う。\
-`Mammon, deu uma leve risada de suas irmﾃs.`\
+`Ela riu de leve, como se debochasse de suas irmﾃs.`\
 ;　マモンは案外こう見えて、人の縁を大切にする。@
 ;　友人の人数についても強欲らしい。@
 `Mammon, surpreendentemente, valorizava seus relacionamentos pessoais.`@
@@ -20147,10 +20147,10 @@ ld l,RG5_AkuWaraiA1,80
 `Assim se podia dizer, jｧ que, de todas as Sete Irmﾃs, ela era a que tinha mais deles.`\
 
 ;　そんなわけで、七姉妹の下３人はホワイトデーに予定があったり期待があったりと、大いに楽しそうだった。@
-`As trｹs irmﾃs mais novas jｧ tinham o White Day planejado, e estavam muito empolgadas.`@/
+`Com isso, as trｹs irmﾃs mais novas jｧ tinham o White Day planejado e pareciam estar muito empolgadas.`@/
 ;br
 ;　むしろ、上の姉妹たちの方がホワイトデーに不慣れで、どう待ち望めばいいかわからず、不安な気持ちを持っていた。\
-` Mas as irmﾃs mais velhas nﾃo tinham experiｹncia com o White Day e, incertas do que queriam, esperavam com muita ansiedade.`\
+` Na contra-mﾃo, as irmﾃs mais velhas nﾃo estavam familiarizadas com o White Day, incertas do que desejavam e sem saber pelo que esperar.`\
 bg black,24
 bg G1F_S1bp,0
 ld r,RG4_HohoemiA1,24
@@ -20228,7 +20228,7 @@ bg G1F_S1ap,0
 ld c,RG2_AkuwaraiA2,23
 
 ;「邪魔しないもん、霧江と一緒に嫉妬するだけだもんー！@　ベルフェのデートを、嫉妬に染まった４つの瞳でずっと追い続けてあげるからね～！」@
-`"Nﾃo vou me meter nas suas coisas! Vou passar o dia invejando com a Kyrie!`@` Vai ter dois pares de olhos invejosos acompanhando o seu encontro, Belphe!"`\
+`"Nﾃo vou me meter nas suas coisas! Vou passar o dia invejando com a Kyrie!`@` Vai ter dois pares de olhos ciumentos acompanhando o seu encontro, Belphe!"`\
 ;＜レヴィア
 
 ld l,RG4_OdorokiA3,64
@@ -20287,7 +20287,7 @@ ld l,KAN_OdorokiA1,0
 mld c,JES_atyaA2,22
 
 ;　前回のバレンタインデーで、嘉音にチョコを渡そうとしたが、@怪訝に思われて拒否されてしまったし、朱志香にも追っ払われてしまった。\
-`No ｸltimo Dia dos Namorados, ela tentou dar chocolates para Kanon,`@` apenas para se deparar com uma suspeita recusa antes que a Jessica a expulsasse.`\
+`No ｸltimo Dia dos Namorados, ela tentou dar chocolates para Kanon,`@` mas foi rejeitada por ser algo suspeito e acabou sendo expulsa por Jessica.`\
 
 ;　押し付けたどころか、一方的に投げつけてきただけだ。@
 ;　あれをもって、バレンタインデーのチョコの収受が成立したとは、当の本人にだって思えない。@
@@ -20352,16 +20352,16 @@ ld l,KAN_fumanA1,23
 ld l,KAN_DefA2,80
 
 ;　嘉音はそう言いながらポケットから、とても小さいけど、可愛らしく包装した箱を取り出す。\
-`Enquanto dizia aquilo, Kanon colocou sua mﾃo no bolso e tirou dele uma pequena caixinha embrulhada, mas muito bonita, e empurrou contra ela.`\
+`Enquanto dizia aquilo, Kanon tirou uma pequena caixinha de seu bolso, com um embrulho adorｧvel.`\
 
 se1 20
 bg black,22
 
 ;　それをぞんざいに、ぽいっと放る。@
-`Ele pode ter dito que isso era uma ninharia desnecessｧria. `@
+`Poderia parecer uma ninharia. `@
 ;br
 ;　その小ささは、如何にも義理だと言わんばかりだが、包装のセンスから決してお安くないブランドのものを感じさせた。\
-`Porｪm, aquele papel que a embrulhava deixava claro que nﾃo era algo de qualquer marca barata.`\
+`Seu tamanho fazia parecer um presente dado por obrigaﾆﾃo, mas o papel que o embrulhava deixava claro que nﾃo era algo de qualquer marca barata.`\
 ;　嘉音は右代宮家から、決して少なくない給金を得ている。@
 `Trabalhar para a famｨlia Ushiromiya significa ser pago com uma quantia considerｧvel. `@
 ;br
@@ -20372,7 +20372,7 @@ bg G1F_S1bp,0
 ld l,RG3_komaruA1,80
 
 ;「…義理のくせにこんなに高級なの買っちゃって。@…バカみたい。」@
-`“...Vocｹ disse que isso nﾃo faz parte do seu dever, mas comprou algo bem extravagante.`@` ...Que ridｨculo.”`\
+`“...Para algo dado por obrigaﾆﾃo, vocｹ comprou algo bem extravagante.`@` ...Que ridｨculo.”`\
 ;＜サタン
 
 
@@ -20441,19 +20441,19 @@ ld r,BUT_FutekiA1,80
 
 
 ;　俺ぁ、過去のことはいちいち覚えてない主義だが、@さすがに一月前の約束を忘れるほど、頭が空っぽのつもりはないぜー？」\
-`Sabe, eu sou do tipo de cara que acredita que nﾃo se deve ficar relembrando o passado,`@` mas vocｹ acha mesmo que minha cabeﾆa ｪ vazia o bastante para esquecer algo de um mｹs atrｧs?"`\
+`Sabe, eu sou do tipo de cara que acredita que nﾃo se deve ficar relembrando o passado,`@` mas vocｹ acha mesmo que minha cabeﾆa ｪ vazia o bastante para esquecer uma promessa de um mｹs atrｧs?"`\
 ;＜戦人
 
 ld r,BUT_WaraiA2,80
 
 ;　戦人は、背中に隠してた箱を、じゃーんとばかりに見せる。\
-`Battler rapidamente puxou a caixa que estava escondendo atrｧs de suas costas com um "ta-dﾃ!"`\
+`Battler rapidamente puxou a caixa que estava escondendo atrｧs de suas costas e a mostrou com orgulho."`\
 
 ;　お店でラップしてもらったんだろうが、これまた戦人らしからぬ丁寧な包装。@
 `A loja provavelmente havia embrulhado, jｧ que a embalagem era elegante, de uma forma que nﾃo combinava em nada com Battler.`\
 ;br
 ;　…包装というものにはきっと魔力がある。@その中身が何であるかを問う前にもう、相手の心に訴える力があるからだ。@ルシファーはそう感じていた。\
-`...O embrulho certamente deveria ser mｧgico.`@` Capaz de capturar a atenﾆﾃo de uma pessoa antes mesmo que ela pudesse perguntar o que havia dentro.`@` Foi assim que Lucifer se sentiu.`\
+`...O embrulho certamente deveria estar imbuｨdo de magia.`@` Capaz de capturar o coraﾆﾃo de uma pessoa antes mesmo que ela pudesse perguntar o que havia dentro.@` Foi assim que Lucifer se sentiu.`\
 
 ld r,BUT_WaraiA1,80
 
@@ -20461,7 +20461,7 @@ ld r,BUT_WaraiA1,80
 `"Eu pensei que um simples doce seria um pouco imaturo.`@` Tambｪm nﾃo sei que tipo de acessｫrio ou cosmｪtico vocｹ gosta. `@/
 
 ;ほら、紅茶なら多少は好みが違ってもイケるだろ？@　紅茶は嫌いか？」\
-`Por isso, pegue.`@` Todo mundo gosta de chｧ, e nﾃo deixa de ser algo bem chique, nｪ?`@` Por acaso nﾃo gosta de chｧ preto?"`\
+`Entﾃo, pensei que uma chｧ funcionaria, jｧ que as pessoas costumam gostar.`@` Por acaso nﾃo gosta de chｧ preto?"`\
 
 ;＜戦人
 
@@ -20479,7 +20479,7 @@ ld l,RG1_KomaruA2,80
 ld r,BUT_DefA1,80
 
 ;「そっか、なら良かったぜ！@　開けてみろよ。@ぜひ香りを驚いてくれ！」\
-`"Entendo, ainda bem!`@` Pode abrir.`@` Vai ficar sem palavras quando sentir o aroma!"`\
+`"Mesmo? Ainda bem!`@` Pode abrir.`@` Vai ficar sem palavras quando sentir o aroma!"`\
 ;＜戦人
 
 bg black,26
@@ -20494,7 +20494,7 @@ se1 1010
 bg butterfly_2a,22
 
 ;　重厚な赤に、取っておきたくなるような美しいリボン。@そして黄金の蝶のブローチが飾られていて。\
-`Estava enrolado com um lindo laﾆo de vermelho profundo,`@` que ao redor, era adornado pelo broche de uma borboleta dourada.
+`Havia um lindo laﾆo de vermelho profundo que parecia muito precioso.`@` Adornado por um broche dourado de borboleta.
 `\
 
 ;「あれ？@　そんなの付いてたかな…？」@
@@ -20568,7 +20568,7 @@ quakex 2,400
 ld r,BUT_KomaruA1,64
 
 ;「な、なんでお前、俺の買った紅茶がわかるんだよ？！」\
-`"P-Por que eu iria comprar chｧ pra vocｹ?!"`\
+`"P-Por que o chｧ que eu comprei se transformou em vocｹ!"`\
 ;＜戦人
 
 cl c,0
@@ -20747,7 +20747,7 @@ ld l,BUT_MajimeA4,80
 ld l,BUT_WaraiA1,80
 
 ;はい、ルシファー。@これはお前のな。@バレンタインの時はうまいチョコをありがとうな。」@
-`Ei, Lucifer,`@` eu tenho algo a dizer a vocｹ.`@` Obrigado pelos chocolates deliciosos no Dia dos Namorados.”`\
+`Ei, Lucifer,`@` ｪ para vocｹ.`@` Obrigado pelos chocolates deliciosos no Dia dos Namorados.”`\
 ;＜戦人
 
 
@@ -20764,7 +20764,7 @@ ld c,RG1_KomaruA2,4
 ;＜ルシファ
 
 ;　駄々と不機嫌でごちゃ混ぜになった主に遠慮しながら、ルシファーをおずおずと自分も手作りではなかったことを打ち明けようとする…。\
-`Em deferｹncia ﾚ sua mestra, na qual o humor piorou abruptamente, Lucifer estava levemente nervosa, cogitando confessar que os chocolates nﾃo haviam sido feitos por ela....`\
+`Em deferｹncia ﾚ sua mestra, na qual sua birra misturou-se ao seu mau humor, Lucifer estava levemente nervosa, cogitando confessar que os chocolates nﾃo haviam sido feitos por ela....`\
 mcl a,0
 
 E_A
@@ -20795,7 +20795,7 @@ ld l,BUT_AseruA5,80
 ;＜戦人
 ;br
 ;　咳き込む戦人とルシファーを尻目に、ベアトはきゃっきゃと笑い転げる。\
-`Beato rolou de rir enquanto Battler e Lucifer tossiam.`\
+`Beato rolou de rir enquanto Battler e Lucifer tossiam e a encaravam.`\
 bg G1F_S1cp,0
 ld r,BEA_AkuwaraiA2,24
 se1 37
@@ -20819,7 +20819,7 @@ me1 5
 `Para ela, o White Day era um feriado tipo o Natal.`@
 ;br
 ;　バレンタインデーに予め、男にチョコを贈っておくと、@ホワイトデーにはきっとわくわくする何かをプレゼントしてくれるに違いないと。@そんな風に考えていたのだ。\
-`Ela estava certa de que, contanto que desse chocolates para um homem no Dia dos Namorados,`@` entﾃo certamente iria receber algum presente excitante em retorno no White Day.`\
+`Dｹ chocolates a um homem no Dia dos Namorados e ele certamente irｧ retribuir com um presente empolgante no White Day.`@` Era mais ou menos isso que ela pensava.`\
 
 bg Different_spiral_1b,22
 
@@ -20834,7 +20834,7 @@ bg Different_spiral_1b,22
 bg black,22
 
 ;　あれだけ楽しみにしていて、布団の中で指まで折って待ち望んだホワイトデーという今日が、急に憎らしくなる…。\
-`Todo o tempo que ela tinha passado debaixo das cobertas com suas mﾃos entrelaﾆadas, empolgada, na espera pelo White Day, de repente pareceu odioso...`\
+`Todo o tempo que ela tinha passado debaixo das cobertas com seus dedos entrelaﾆados, empolgada, na espera pelo White Day, de repente pareceu odioso...`\
 E_MA
 textoff
 bg Different_space_1a,22
@@ -20844,7 +20844,7 @@ print 99,1500,"breakup.dll/ulp"
 wait 500
 ld c,BEA_komaruA1,80
 ;「さぁさ、お出でなさい、ペンドラゴンの記念兵、シエスタ姉妹ッ！」@
-`“Vamos, apareﾆam, Cavalaria de Pendragon! Irmﾃs Chiester!”`\
+`“Apareﾆa, Tropa Memorial de Pendragon! Irmﾃs Chiester!”`\
 ;＜ベアト
 ;br
 ;　ベアトがケーンを振るうと、シエスタ４５とシエスタ００が姿を現す。\
@@ -20871,14 +20871,14 @@ ld r,S00_MajimeA2,80
 
 ;「申し訳ありませんでありますっ。@４１０は本日、天界選抜狙撃手交流訓練に参加しております。@代わりまして私めが参上いたしましたることをお許しくださいでありますっ。」\
 `
-“Eu peﾆo desculpas.`@` Hoje a 410 estｧ participando do Programa de Intercｯmbio de Seleﾆﾃo dos Snipers Celestiais.`@` Por isso, peﾆo que me permita aparecer no lugar dela.”`\
+“Eu peﾆo desculpas.`@` Hoje, a 410 estｧ participando do Programa de Intercｯmbio de Seleﾆﾃo dos Snipers Celestiais.`@` Por isso, peﾆo que me permita aparecer no lugar dela.”`\
 ;＜００
 
 
 ld l,BEA_KomaruA4,80
 
 ;「て、天界選抜狙撃…、長いな…。@それは如何様な訓練なのか。」@
-`“S-Seleﾆﾃo dos Snipers Celestiaiss...? Que nome longo, hein...?`@` Parece mais com alguma desculpa fraudulenta para treinar.”`\
+`“S-Seleﾆﾃo dos Snipers Celestiais...? Que nome longo, hein...?`@` Parece mais com alguma desculpa fraudulenta para treinar.”`\
 ;＜ベアト
 
 
@@ -20899,7 +20899,7 @@ ld l,BEA_fukigenA2,80
 ld r,S00_DefA1,80
 
 ;「４１０は優秀な狙撃手でありますので、毎年、多数のカップルを成立させると評判でありますっ。」\
-`“Devido a habilidade de sniper da 410, dizem que incontｧveis casais se formam todos os anos.”`\
+`“Dizem que incontｧveis casais sﾃo formados todos os anos graﾆas as habilidade de sniper da 410.”`\
 ;＜００
 
 ld l,BEA_fukigena1,80
@@ -20927,7 +20927,7 @@ cl l,0
 ld l,BEA_AkuwaraiA3,80
 
 ;「くっくくくく、多いぞ多いぞ、とにかく多い！@/
-`"*gargalhada*gargalhada*gargalhada*! Mais e mais, e ainda mais!`@/
+`"*gargalhada*gargalhada*gargalhada*! Sﾃo muitos e muitos! E muitos mais!`@/
 E_A
 se1 20
 wait 200
@@ -20956,7 +20956,7 @@ quakey 3,500
 bgm1 53
 
 ;　かくして、その日。@
-`E entﾃo, naquele dia.`@
+`E assim, no mesmo dia...`@
 ;br
 
 textoff
@@ -21060,7 +21060,7 @@ se1 12
 quakex 2,400
 
 ;天草さまにもらったばっかりなのにッ！@　まだ中身も検めてないのにぃいいいぃ！！」/
-` Vocｹ tinha acabado de me dar, Amakusa-sama!`@` Sequer tive tempo de ver o que tinha dentrooo!"`\
+` O Amakusa-sama tinha acabado de me dar!`@` Sequer tive tempo de ver o que tinha dentrooo!"`\
 se1 72
 se2 73
 quakey 2,400
@@ -29062,9 +29062,9 @@ bg Different_spiral_1a,28
 `Em outras palavras,`@` ......ｪ um labirinto onde nﾃo faz sentido desenhar mapas.`@
 br
 ;　例えば、@ぐにゃぐにゃと常に形を変える不定形の迷路とでも言えばいいのか。\
-`Por exemplo,`@` seria correto dizer que ｪ um labirinto de forma indefinida, que constantemente muda a forma, flexivelmente?`\
+`Por exemplo,`@` seria correto dizer que ｪ um labirinto de forma indefinida, que constantemente muda seu caminho, flexivelmente?`\
 ;　なるほど、@この概念なら、ラムダデルタの言うジャンケンでも説明できるかもしれない。@
-`Entendo,`@` se isto ｪ uma ideia geral, eu poderia ser capaz de explicar com o jogo do janken, assim como a LAMBDADELTA fala.`@
+`Faz sentido...`@` Se isto ｪ uma ideia geral, eu poderia ser capaz de explicar com o jogo do janken, assim como a LAMBDADELTA fala.`@
 br
 ;　…私の力でも攻略できない迷路でも、壁を全て貫いてゴールに向かえる彼女にはまったく障害ではないわけだし。\
 `...Mesmo se for um labirinto que eu nﾃo possa atravessar com o meu poder, nﾃo deve ser um obstｧculo para ela, que pode ir direto para o objetivo atravｪs das paredes.`\
