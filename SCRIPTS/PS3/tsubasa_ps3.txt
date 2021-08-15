@@ -21366,7 +21366,7 @@ ld r,ENJ_FumanA1,80
 `Vamos fazer mais hotcakes enquanto apreciamos o aroma do chｧ.`@
 ;br
 ;　私だって、こう見えてもお金の力だけで解決するんじゃないのよ、ホットケーキくらい焼けるんだから。@……と言って、香ばしく焼き上げている真っ最中だったのだ。\
-`Como isso ｪ algo que eu nﾃo posso adquirir atravｪs do dinheiro, pode ser que eu acabe queimando algumas. `@`......E, bem como imaginado, fomos cercados pelo fedor da fumaﾆa.`\
+`Embora eu pareﾆa ser do tipo que obtｪm tudo atravｪs do poder do dinheiro, ao menos umas hotcakes acho que eu consigo fazer sozinha.`@` ......E apesar de dizer isso, acabamos cercados pelo fedor da fumaﾆa.`\
 
 
 bg Gdin_1a,0
@@ -21386,7 +21386,7 @@ ld r,SAK_OdorokiA1,24
 ld c,RG5_KomaruA2,80
 
 ;「さくたろだけ攻撃を免れたということは、/
-`"O Sakutaro nﾃo era o alvo, `/
+`"Se o Sakutaro foi o ｸnico a escapar, `/
 ;!d900……同盟の誰かの攻撃？！」\
 !d900`.........o que significa que alguｪm da Alianﾆa estｧ nos atacando?!"`\
 ;＜マモン
@@ -21457,7 +21457,7 @@ se3 35
 bg blood_2c,1
 
 ;「へっ、……どこの誰の仕業だ。@悪ぃな、姉ちゃん。@…どうやら俺の女と勘違いされちまったみてぇだな。@庇えて良かったぜ。」@
-`"Ehh? .....De onde e quem fez isso?`@` Foi mal, mocinha.`@` ...Parece que confundiram vocｹ com minha mulher.`@` Ao menos fui capaz de protegｹ-la."`\
+`"Eh? Eh? .....De onde veio? E quem foi?`@` Foi mal, mocinha.`@` ...Parece que confundiram vocｹ com minha mulher.`@` Ao menos fui capaz de protegｹ-la."`\
 
 ;＜留弗夫
 ;br
@@ -21585,10 +21585,10 @@ print 80
 ;!d800この嫉妬のレヴィア、/
 ;!d900…く、/
 ;!d600……悔いはないです…。」/
-!s0`"......Essa foi por pouco... Mas agora eu assumirei no seu lugar, professora. `/
-!d800`Eu, Leviathan, da Inveja...
-!d900`...n-... `/
-!d600...nﾃo se arrependa disso..."`/
+!s0`"......Essa foi por pouco... Eu caｨ no seu lugar, professora. `/
+!d800` Mas eu, Leviathan, da Inveja...,
+!d900`...na-... `/
+!d600n-nﾃo me arrependo..."`/
 
 !sd\
 ;＜レヴィア
@@ -21597,7 +21597,7 @@ print 80
 ld c,KIR_KomaruA1,80
 
 ;「ぷ。@杭なのに悔いはない？@　くすくす、大袈裟よ。@肩を貸してあげるわ、病院へ行きましょ。」@
-"Heh.`@` Mesmo sendo uma estaca?`@` *risos* nﾃo fique se achando.`@` Deixe-me ajudｧ-la levando-a para um hospital."`\
+"Pff..`@` Mesmo sendo uma estaca?`@` *risos* nﾃo fique se achando.`@` Deixe-me ajudｧ-la levando-a para um hospital."`\
 ;＜霧江
 
 
@@ -21605,7 +21605,7 @@ ld c,KIR_KomaruA1,80
 ld l,RG2_OdorokiA1,80
 
 ;「それよりお師匠様、早くあの浮気魔留弗夫に天誅を…！@　私はここから見守っていますからっ！@ほ、ほら、見て下さい！@　あいつ、ベルフェに、@/
-`"Esqueﾆa isso, professora! Eu prefiro ver vocｹ trazendo toda a sua fｸria divina sobre aquele traidor do Rudolf...!`@` Eu ficarei assistindo daqui, por favor!`@` V-Veja!`@` Ele estｧ com a Belpeghor,`@/
+`"Esqueﾆa isso, professora! Eu prefiro ver vocｹ trazendo toda a sua fｸria divina sobre aquele traidor do Rudolf...!`@` Eu ficarei assistindo daqui, por favor!`@` O-Olha elas lｧ!`@` Ele estｧ com a Belpeghor,`@/
 
 ;mld l,RG2_NakuA1,80
 ld l,RG2_NakuA1,80
@@ -21757,7 +21757,7 @@ wait 1000
 bg G1F_S1bp,0
 ld c,RG3_KomaruA1,22
 ;　第六目標。@サタンが嘉音からもらったアロマポット。\
- `Sexto Alvo:`@` o frasco de perfume que Satan ganhou de Kanon.`\
+ `Sexto Alvo:`@` o difusor de aroma que Satan ganhou de Kanon.`\`\
 
 textoff
 bg black,1
@@ -21796,8 +21796,8 @@ ld c,RG3_OdorokiA3,22
 ;!d800………そ、/
 ;!d600……そんな……。@…今のは、シエスタ姉妹の狙撃ッ？！@/
 !s0`"Ah, `/
-!d800`.........essas... `/
-!d600......foram as......`@`Irmﾃs Chiester?!`@/
+!d800`.........Nﾃo... `/
+!d600......Isso foi um......`@` ataque das Irmﾃs Chiester?!`@/
 
 ld c,RG3_KomaruA1,80
 
@@ -21805,21 +21805,22 @@ ld c,RG3_KomaruA1,80
 ;!d600……くッ、/
 ;!d600…これは……、/
 ;!d600ホワイトデーに浮気魔留弗夫に天誅をのね…。/
-`......Urk, `/
-!d600`......grk... `/
-!d600`...isto......`/
-!d600`isto deve ser minha puniﾆﾃo por ter sido pega pelo White Day... `\
+`......Gah, `/
+!d600`......gah, `/
+!d600`...isto......,`/
+!d600`deve ter sido meu castigo por ter comemorado o White Day... `\
 ld c,RG3_OdorokiA1,80
+;; no texto de console diz "……く、……くッ、…これは……、ホワイトデーに浮かれかけた私への罰なのね…" que vai bem alｪm de uma censura e... pensando bem, acho que o autor errou nessa linha porque a Satan nﾃo tem relacionamento com o Rudolf :pensativo:
 
 ;!sd@そ、そうよ。@嘉音はただのライバルじゃない。@……あいつにしてはセンスがいいなんて、ちょっぴりでも思っちゃったものだから……。@…くッ、……じ、自分が悔しい、……許せないッ…！@　しっかりなさいッ、私はベアトリーチェさまにお仕えする上級家具ッ、煉獄の七姉妹が一人、憤怒のサタン！！」\
 
-!sd`I-Isso mesmo!`@` Kanon nﾃo ｪ um simples rival.`@` ......Mas ele possui bom gosto,`@` por isso pensei que estaria tudo bem......`@` Isso dｫiiil...`@` Inaceitｧvel! Recomponha-se! Eu sou uma mobｨlia a serviﾆo da BEATRICE-sama, uma das Sete Irmﾃs! Satan, da Ira!! `\
+!sd`I-Isso mesmo!`@` Kanon nﾃo ｪ um simples rival.`@` ......Mas ele possui bom gosto,`@` por isso pensei que estaria tudo bem......`@` ...Gah, ......que frustrante!`@` ......Imperdoｧvel...! `@` Recomponha-se! Eu sou uma mobｨlia a serviﾆo da BEATRICE-sama, uma das Sete Irmﾃs! Satan, da Ira!! `\
 ld c,RG3_IkariA2,80
 
 ;「あ、あいつの贈り物が壊されたって、/
-`"E-Eu nﾃo deveria ficar irritada,`/
+`"S-Sｫ porque o presente dele foi destruｨdo,`/
 ;!d500……く、悔しくなんかないんだからッ！！@　………………………くすん。」\
-!d500`......s-sｫ porque algo dele foi quebrado!`@` ...........................*funga*.”`\
+!d500`......isso nﾃo deveria me frustrar!!`@` ...........................*funga*.”`\
 ;＜サタン
 
 textoff
@@ -21901,7 +21902,7 @@ ld r,S45_KomaruA1,64
 ld c,S00_OdorokiA2,64
 
 ;「反魔法装甲を貫通できませんっ！@　次なるご指示を、大ベアトリーチェ卿！」\
-`"Nﾃo temos como penetrar esta barreira anti-magia!`@` Por favor, informe nosso prｫximo alvo, Lady BEATRICE!" `\
+`"Nﾃo temos como penetrar esta barreira antimagia!`@` Por favor, informe nosso prｫximo alvo, Lady BEATRICE!" `\
 ;＜００
 
 mcl c,0
@@ -21931,7 +21932,7 @@ se1 37
 se2 37
 
 ;@　見よ、妾の暗躍により、打ち砕かれた無残なホワイトデーの数々を！」\
-@ `Veja! Todos os White Days que eu secretamente destruｨ!” `\
+@ `Veja quantos White Days eu destruｨ cruelmente por trｧs das cenas!” `\
 ;＜ベアト
 
 se1 52
