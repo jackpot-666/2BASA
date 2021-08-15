@@ -23089,7 +23089,7 @@ ld l,WAL_MajimeA1,2
 ld l,WAL_WaraiA2,80
 
 ;“疑わないことです。@ここが過去の世界であることを疑えば、たちまちのうちに術は解けてしまいますよ。@魔法の基本です。@信ずる心なくして、如何なる魔法の成就もありえない。”\
-`"Vocｹ precisa acreditar.`@` Se duvidar que este ｪ o mundo do passado, o feitiﾆo serｧ quebrado.`@` Este ｪ o fundamento da magia.`@` Contanto que acredite, nﾃo hｧ nada que a magia nﾃo possa realizar."`\
+`Nﾃo duvide.`@` Se questionar se ｪ mesmo o mundo do passado, o feitiﾆo serｧ quebrado.`@` Este ｪ fundamento da magia.`@` Contanto que acredite, nﾃo hｧ nada que a magia nﾃo possa realizar.`\
 
 bg black,22
 
@@ -23221,14 +23221,14 @@ se1 59
 ;“#5DECFFホワイトデーはバレンタインの一ヵ月後にある。@ということは、明日、お前のバレンタインチョコを受け取った男は、明日の;一ヵ月後にお返しをすれば、それはお返しと認められるってわけだ。/
 l#ffffff”\
 
-`#5DECFF"O White Day ｪ um mｹs depois, no mesmo dia que o Dia dos Namorados.`@` Ou seja, amanhﾃ, quando ele aceitar seus chocolates, ele iria recompensｧ-la um mｹs apｫs o recebimento."`/
+`#5DECFF"O White Day ｪ um mｹs depois do Dia dos Namorados.`@` Isso quer dizer que o homem que receber seus chocolates amanhﾃ, terｧ que presenteｧ-la de volta um mｹs depois. E isso serｧ considerado como uma retribuiﾆﾃo.`@` "`/
 #ffffff`'`\
 
 
 ld c,BUT_WaraiA3,80
 
 ;「明日なんだろ？@　バレンタイン。」\
-`"O Dia dos Namorados ｪ amanhﾃ,`@` nﾃo ｪ?"`\
+`"ｴ amanhﾃ, nﾃo ｪ?`@` O Dia dos Namorados."`\
 ;＜戦人
 
 bg Mkit_1c,0
