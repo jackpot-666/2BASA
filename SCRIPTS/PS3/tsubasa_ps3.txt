@@ -22947,10 +22947,10 @@ quakey 2,500
 ;　全部遅い。@
 `Jｧ ｪ tarde demais. `@
 ;　もっともっと。@……バレンタインとホワイトデーの二つの不思議な日を、楽しもうという気持ちを持てていたら…。\
-`Para comeﾆo de conversa.`@` ......Todos os sentimentos que ela teve diante de suas experiｹncias com esses dois dias misteriosos, o Dia dos Namorados e o White Day, jｧ...`\
+`Para comeﾆo de conversa.`@` ......Se eu ao menos tivesse ansiado por me divertir nesses dois misteriosos dias, do Dia dos Namorados e o White Day, jｧ...``\
 
 ;　カレンダーは、…ロノウェ辺りが細工したのだろう。@数字上は、２月１３日となっている。@
- `O calendｧrio...foi forjado pelo Ronove.`@` Os nｸmeros indicam que ｪ 13/02.`@
+ `O calendｧrio...foi forjado pelo Ronove.`@` Os nｸmeros indicam que ｪ 13 de fevereiro.`@
 ;br
 ;　でもそれは嘘なのだ。\
  `Mas isso ｪ uma mentira.`\
@@ -22971,7 +22971,7 @@ bg black,1
 E_A
 
 ;「２月１３日じゃねぇんなら、今日は一体、何月何日なんだよ。」\
- `"Se nﾃo ｪ 13 de fevereiro? Entﾃo que dia ｪ hoje??"`\
+ `"Se nﾃo ｪ 13 de fevereiro, entﾃo que dia ｪ hoje? Em que mｹs estou?"`\
 ;＜戦人
 
 bg black,22
@@ -22985,9 +22985,9 @@ ld l,BEA_OdorokiA2,26
 ;＜ベアト
 bgm1 140
 ;　魔女の厨房に、戦人がどうやって迷い込んできたのか…。@
- `Battler se perguntava como ele tinha ido parar naquela cozinha de bruxa...?`@
+ `Ela ficou confusa ao ver que Battler tinha ido parar naquela cozinha de bruxa...`@
 ;　しかしそれを問う必要はなかった。@彼が勝手に答えたからだ。\
- `Mas ele sequer precisou perguntar; jｧ deu uma resposta direta.`\
+ `Mas sequer foi preciso questionar.`@` Ele mesmo jｧ saiu respondendo.`\
 
 
 ld r,BUT_WaraiA2,24
@@ -23026,7 +23026,7 @@ ld l,BEA_nayamuA4,80
  `Porｪm, sua atuaﾆﾃo ｫbvia sｫ fez com que Beato sorrisse amargamente... `\
 
 ;　…わかってる。\
- `...Ela entendia.`\
+ `...Ela sabia.`\
 
 ;　お師匠様かロノウェ辺りが、戦人にも妾の情けない事情を話し、協力を求めたのだろう。@
  `A professora ou o Ronove devem ter falado com o Battler e contado sobre minha situaﾆﾃo patｪtica e pedido para ele ajudar.`@
@@ -23071,7 +23071,7 @@ bg Different_spiral_1a,22
  `Beato percebeu que era a ｸnica capaz de acabar com aquele clima ruim que se formou. `\
 
 ;　…いつものように、下品に笑い転げて戦人を罵倒すれば、それで全部元通り。@
- `...Como sempre, ela iria rir e abusar verbalmente de Battler e tudo retomaria ﾚ normalidade. `@
+ `...Como sempre, ela iria rir de forma deselegante e abusar verbalmente de Battler, fazendo tudo retomaria ﾚ normalidade. `@
 
 ;br
 ;　……あるいは、元通りにぐちゃぐちゃのしっちゃかめっちゃか。\
@@ -23115,7 +23115,7 @@ ld l,BUT_odorokiA3,23
 ld r,BEA_AseruA2,24
 
 ;「う、……うむ…っ」@
-`"Uu, ......umu..."`\
+`"Hm, ......sim..."`\
 ;＜ベアト
 
 
@@ -23155,7 +23155,7 @@ ld r,BEA_WaraiA2,80
 `"Quanta grosseria! `@/
 
 ;これは正真正銘、普通のバレンタインチョコである！@　世の男どもが、年にたった一度、労せず女からチョコをもらえる奇っ怪な祭りの日ではないか。@その祭りを、妾も混ぜてもらおうと思ってなっ。」\
-`Este serｧ um autｹntico chocolate de Dia dos Namorados!`@` ｴ um dia ｸnico no mundo, um maravilhoso festival onde homens recebem chocolates que as mulheres trabalharam muito para preparar.`@` Eu tambｪm desejo me juntar e participar deste evento.”`\
+`Este serｧ um autｹntico chocolate de Dia dos Namorados!`@` ｴ um dia festivo, que ocorre uma vez por ano, onde homens podem ganhar chocolates das mulheres sem esforﾆo algum!`@` Achei que seria interessante se eu me juntasse a este evento.”`\
 ;＜ベアト
 
 ld l,BUT_DefA1,80
@@ -23165,7 +23165,7 @@ ld l,BUT_DefA1,80
 ;＜戦人
 
 ;　不思議だった。@言えば言うほど、……戦人の言葉から嘘っぽさがなくなっていく。@
- `De uma forma inexplicｧvel,`@` conforme a conversa foi progredindo, ......as palavras de Battler passaram a soar mais naturais.`@
+ `Foi algo inexplicｧvel.`@` Conforme a conversa foi progredindo, ......as palavras de Battler passaram a soar mais naturais.`@
 ;br
 ;　そして、……本当に今日は、２月１３日なんじゃないかという気がしてきた…。\
  `E entﾃo, ......o dia de hoje comeﾆou a parecer cada vez mais com o dia 13 de fevereiro.`\
@@ -23188,7 +23188,7 @@ bg Different_space_P1c,22
 
 
 ;「…そいつ、赤き真実で。@ホワイトデーにはお返ししないって言ったぜェ…？@　だからお返しは出来なェだろうなァ…。」\
-`"...E se eu usasse a verdade vermelha? `@`Para dizer que ele nﾃo me daria nada no White Day...? Assim ele nﾃo conseguiria dar nada, certo?"`\
+`"...E se ele usou o vermelho? `@`E dito que nﾃo me daria nada no White Day...?`@` Assim ele nﾃo conseguiria dar nada, certo...?"`\
 
 ;＜ベアト
 
@@ -23211,7 +23211,7 @@ ld c,BUT_DefA2,26
 ld c,BUT_FutekiA1,80
 
 ;「そいつは、青き真実で語るぜ。@つまりはこういうことだろ？」@
-`"Tudo o que ele precisaria fazer ｪ usar a verdade azul. ｴ sｫ fazer isso:"`\
+`"ｴ sｫ ele usar o azul.`@` Basicamente precisa dizer isso::"`\
 ;＜戦人
 ;br
 
@@ -23242,18 +23242,18 @@ ld r,BEA_fukigenA2,24
 ld l,BUT_WaraiA1,23
 
 ;「じゃあ、お返しがあるならその一ヶ月後だな。@しかし、どういうわけかその一ヵ月後が、ホワイトデーでない日だったなら。@お前のチョコに、そいつは赤の矛盾なくお返しが出来るって寸法になるなぁ。」\
-`"Entﾃo, ele vai dar a vocｹ um mｹs depois.`@` E como daqui exatamente um mｹs tecnicamente nﾃo ｪ o White Day,`@` a pessoa que receber seus chocolates nﾃo vai estar violando a verdade vermelha."`\
+`"Entﾃo, ele irｧ retribui-la daqui um mｹs.`@` Contudo, como o White Day tecnicamente nﾃo ｪ daqui um mｹs,`@` a pessoa que receber seus chocolates nﾃo vai estar violando a verdade vermelha."`\
 ;＜戦人
 
 ld r,BEA_FukigenA1,80
 
 ;「……ふっ、相変わらずの屁理屈男め…。@/
-`".....Hpmf. Vocｹ continua sendo um belo sofista.... `@/
+`".....Hpmf. Vocｹ continua sendo um belo sofista... `@/
 
 ld r,BEA_AseruA1,80
 
 ;お、お前と長々とおしゃべりをしていたから、見ろ！@　テンパリングがまた失敗だ！/
-` E-Ei, viu no que deu ficar falando com vocｹ?!`@` Por sua causa eu estraguei tudo de novo enquanto fazia o banho-maria! `/
+` E-Ei, viu no que deu ficar falando com vocｹ?!`@` Estraguei tudo no banho-maria! `/
 
 se1 47
 quakex 2,500
@@ -23298,7 +23298,7 @@ bg Mkit_1b,0
 ld c,BUT_AseruA1,22
 
 ;「ど、……どうした。@急に顔を真っ赤にして。@何かドジったか、俺。」@
-`"O-O que ｪ isso?`@` Seu rosto estｧ completamente vermelho. Eu fiz algo errado?"`\
+`"O-O que ｪ foi?`@` Ficou toda vermelha do nada!`@` Eu fiz algo errado?"`\
 ;＜戦人
 
 
