@@ -19987,7 +19987,7 @@ ld r,RG4_fumanA2,24
 ;＜ベルフェ
 
 ;　ベルフェゴールが、理屈では知っているが、実際にはどのようなものかわかりかねるという仕草で聞く。@
-`Belphegor, que compreendia na teoria, mas tinha dificuldade de na parte prｧtica, questionou.``@
+`Belphegor, que compreendia na teoria, mas tinha dificuldade de na parte prｧtica, questionou.`@
 ;br
 ;　この時ばかりは、末っ子のアスモも生き生きして姉の問いに答えるのだ。\
 `Por sua vez, Asmodeus, que era a mais nova, respondeu a questﾃo de sua irmﾃ com bastante animaﾆﾃo.`\
