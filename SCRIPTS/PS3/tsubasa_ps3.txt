@@ -10536,7 +10536,7 @@ ld l,RON_DefA1,23
 ld r,WAL_DefA2,24
 
 ;「プレス工場さんの都合もありますから、納期はもっと早いですよ…。@今年は冬が寒そうです。@工場は山の中にあることが多いですからね…。@雪に閉ざされると、マスターディスクが届かないということもありますよ。」\
-`"O pessoal da Press tem suas prｫprias circunstｯncias, por isso o verdadeiro prazo final estｧ ainda mais perto...`\
+`"O pessoal da fｧbrica de discos tem suas prｫprias circunstｯncias, por isso o verdadeiro prazo final estｧ ainda mais perto...`\
 `Parece que este ano o inverno serｧ bem frio.`@` Nﾃo ｪ incomum que fiquem localizadas nas montanhas... `@`ｴ possｨvel que feche por causa da neve, e o disco master nﾃo chegue atｪ nｫs a tempo."`\
 ;＜ワルギリア
 
